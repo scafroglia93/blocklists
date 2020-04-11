@@ -1350,6 +1350,12 @@ s4egy.com
 # checkpoint
 # https://research.checkpoint.com
 
+# https://research.checkpoint.com/2020/threat-actors-migrating-to-the-cloud/
+raacts.in
+alaziz.in
+biendaoco.com
+taxagent.gr
+
 # https://research.checkpoint.com/2020/covid-19-goes-mobile-coronavirus-malicious-applications-discovered/
 coronaviruscovid19-information.com
 corona-apps.com
