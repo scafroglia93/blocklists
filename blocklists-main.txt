@@ -24079,6 +24079,20 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
+# http://www.tgsoft.it/italy/news_archivio.asp?id=1078
+murray.danielrmurray.com
+cnybo.cnyboypower.com
+bibpap.com
+fentlix.com
+alphastand.trade
+kbfvzoboss.bid
+capital-sd.com
+alphastand.trade
+kbfvzoboss.bid
+broken2.cf
+alphastand.trade
+kbfvzoboss.bid
+
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1077
 dominatecode-co.com
 eccom.pagamento-sella.it-0d530238.noleggiobicidoctorbike.it
@@ -24793,7 +24807,7 @@ uoibppop.tk
 # https://yoroi.company/blog/
 
 # https://yoroi.company/warning/campagne-di-phishing-a-tema-webex/
-globalpagee-prod-webex.]com
+globalpagee-prod-webex.com
 
 # https://yoroi.company/research/a-new-complex-infection-chain-to-deliver-ursnif-malware/
 tealex.it
