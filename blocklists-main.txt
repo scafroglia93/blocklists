@@ -2539,7 +2539,6 @@ westmedicalgroup.net
 bandabonga.fr
 
 # https://www.welivesecurity.com/2019/10/14/connecting-dots-exposing-arsenal-methods-winnti/
-# https://github.com/eset/malware-ioc/tree/master/winnti_group
 xp101.dyn-dns.com
 svn-dns.ahnlabinc.com
 dns1-1.7release.com
@@ -2617,8 +2616,8 @@ clausdomain.homeunix.com
 balacimed.mine.nu
 fbclinica.game-server.cc
 newcharlesxl.scrapping.cc
-game-server.cc	
-scrapping.cc	
+game-server.cc
+scrapping.cc
 homeunix.com
 mine.nu
 
@@ -2660,14 +2659,7 @@ dsmanfacture.privatedns.org
 chart.healthcare-internet.com
 inicializacion.com
 menorustru.com
-
-# https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/
-# https://github.com/eset/malware-ioc/tree/master/buhtrap
-hdfilm-seyret.com
-redmond.corp-microsoft.com
 win10.ipv6-microsoft.org
-services-glbdns2.com
-secure-telemetry.net
 
 # https://www.welivesecurity.com/2019/07/08/south-korean-users-backdoor-torrents/
 jtbcsupport.site
@@ -2807,13 +2799,11 @@ services-glbdns2.com
 secure-telemetry.net
 
 # https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
-# https://github.com/eset/malware-ioc/tree/master/oceanlotus
 daff.faybilodeau.com
 sarc.onteagleroad.com
 au.charlineopkesston.com
 
 # https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/
-# https://github.com/eset/malware-ioc/tree/master/oceanlotus
 aliexpresscn.net
 andreagahuvrauvin.com
 andreagbridge.com
@@ -2892,7 +2882,6 @@ figbc.knowsitall.info
 ichefbcci.is-a-chef.com
 lienketqnhn.org
 tips-renew.webhop.info
-mfaic.gov.kh
 tcog.thruhere.net
 weblink.selfip.info
 mfaic.gov.kh
