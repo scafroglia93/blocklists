@@ -2960,7 +2960,7 @@ z.vollar.ga
 
 # https://www.guardicore.com/2019/09/smominru-botnet-attack-breaches-windows-machines-using-eternalblue-exploit
 # https://github.com/guardicore/labs_campaigns/tree/master/Smominru
-fra.gamesoxalic.com 
+fra.gamesoxalic.com
 down.1226bye.pw
 bee12.bumblebeeservers.com
 wmi.1217bye.host
@@ -2992,7 +2992,6 @@ startreceive.tk
 stats.startreceive.tk
 wp.startreceive.tk
 roi777.com
-minexmr.com
 
 # https://www.guardicore.com/2017/12/beware-the-hex-men/
 # https://github.com/guardicore/labs_campaigns/tree/master/Hexmen
@@ -3007,7 +3006,6 @@ js.mys2018.xyz
 
 # https://github.com/guardicore/labs_campaigns/tree/master/Bondnet
 mst.mymst007.info
-minergate.com
 miner.center
 shscrypto.net
 cryptonight.net
@@ -3023,7 +3021,7 @@ crypto-pool.fr
 dwarfpool.com
 
 # https://github.com/guardicore/labs_campaigns/tree/master/Lemon_Duck
-t.zer2.com 
+t.zer2.com
 t.awcna.com
 t.amxny.com
 down.ackng.com
