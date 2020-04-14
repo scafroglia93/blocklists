@@ -24309,7 +24309,6 @@ share.dmca.gripe
 www.awsyscloud.com
 
 # https://blog.yoroi.company/warning/nuova-campagna-di-attacco-ursnif/
-tohomeroom.com
 trapperhackett.info
 maydaytheconception.com
 conceptionmayday.com
@@ -24465,8 +24464,8 @@ dungdoptiop.xyz
 banksesiqueira.xyz
 
 # https://blog.yoroi.company/research/cyberwarfare-a-deep-dive-into-the-latest-gamaredon-espionage-campaign/
-win-apu.ddns.net	
-get-icons.ddns.net	
+win-apu.ddns.net
+get-icons.ddns.net
 masseffect.space
 
 # https://blog.yoroi.company/warning/nuove-operazioni-di-attacco-sload/
@@ -24731,8 +24730,6 @@ safa.205dundas.com
 ssw.138front.com
 martatov.top
 ami.sigaingegneria.com
-erre.effe-erre.es
-filuetrama.top
 
 # https://blog.yoroi.company/research/the-russian-shadow-in-eastern-europe-ukrainian-mod-campaign/
 librework.ddns.net
@@ -24786,7 +24783,6 @@ nuovalo.icu
 # https://blog.yoroi.company/research/the-ursnif-gangs-keep-threatening-italy/
 blogger.scentasticyoga.com
 link.kunstsignal.net
-
 # https://blog.yoroi.company/warning/campagna-di-attacco-ransomware/
 www.blogs.nwp2.xcut.pl
 www.oshorainternational.com
@@ -25205,7 +25201,7 @@ returns.chrismissirian.net
 local.firstcapitalmortgages.ca
 sriyukteshvar.com
 pragueat.com
-todayutos.info 
+todayutos.info
 ticketiinvoice.info
 pinghostwell.info
 
@@ -25230,7 +25226,6 @@ amorenvena.com
 # https://blog.yoroi.company/research/dissecting-the-latest-ursnif-dhl-themed-campaign/
 groupschina.com
 grwdesign.com
-rest.relonter.at
 web2003.uni.net
 web2341.uni5.net
 in.ledalco.at
@@ -25238,7 +25233,6 @@ int.nokoguard.at
 io.ledalco.at
 rest.relonter.at
 apt.melotor.at
-torafy.cn
 
 # https://blog.yoroi.company/warning/attacchi-ursnif-nuovo-documento/
 nana.anarindianhollywood.com
@@ -25257,7 +25251,6 @@ cavintageclothing.com
 bureaucratica.org
 balkher.eu
 perecwarrior.eu
-hamofgri.me
 ljfumm.me
 hamofgri.me
 
@@ -25283,7 +25276,6 @@ ninasukash.com
 cjwefomatt.com
 ticrerfgiff.com
 dubbergergbb.com
-
 
 # marco-ramilli-blog
 # https://marcoramilli.com/
