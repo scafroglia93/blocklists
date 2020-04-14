@@ -2291,8 +2291,8 @@ iyouthen.com
 
 # drweb
 # https://news.drweb.com/list
-
 # https://news.drweb.com/show/?i=13746&lng=en
+
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/FakeChromeUpdate/README.adoc
 traficbouncer.xyz
 traficbouncerbackup.xyz
@@ -2321,7 +2321,6 @@ my-super-puper-helper.xyz
 
 # https://news.drweb.com/show/?i=13388&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/Fakesoft/README.adoc
-sync-time.info
 munsys.icu
 android-power.space
 dns-master.club
@@ -2338,7 +2337,6 @@ reserve-system.ru
 s44571fu.bget.ru
 xyi-sosi-guboi-trisi.xyz
 cherry-pot.top
-corteli.com
 fastscreen.ru
 torrent-igri.com
 румайнкрафт.рф
