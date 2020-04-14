@@ -3447,18 +3447,18 @@ ronswank.com
 stagolk.com
 mioniough.com
 ergensu.com
-jgqhigsjkulmsvvhshmk.com 
-wapjdxlstholqwakofgi.com 
-aiavxvlshmkweccksfky.com 
-liswrfujohqsnbnohetn.com 
-hciqylualwcnyvajdkqq.com 
-pdtlshacpbacpnhcndpd.com 
-kdacggcctwcavdgvpbmk.com 
-wapwtpwciertrhkdaxrp.com 
-shyjgiyhyegxeqqpdtya.com 
-gccggcctwcerlshacpba.com 
-cpnhcndpdkylibtlbeco.com 
-bxhwpdkqdakbplfvfqwn.com 
+jgqhigsjkulmsvvhshmk.com
+wapjdxlstholqwakofgi.com
+aiavxvlshmkweccksfky.com
+liswrfujohqsnbnohetn.com
+hciqylualwcnyvajdkqq.com
+pdtlshacpbacpnhcndpd.com
+kdacggcctwcavdgvpbmk.com
+wapwtpwciertrhkdaxrp.com
+shyjgiyhyegxeqqpdtya.com
+gccggcctwcerlshacpba.com
+cpnhcndpdkylibtlbeco.com
+bxhwpdkqdakbplfvfqwn.com
 bioonshmwrbecckfcavh.com
 
 # https://www.malware-traffic-analysis.net/2020/04/03/index.html
@@ -3470,37 +3470,37 @@ imosey.com
 obeaf.com
 pheia.com
 smenard.com
-yxpopawcnlltpwpdkedb.com   
-jffrvhgqugrdxljjnrvq.com   
-noyxpslvmrshmwfbxtox.com   
-unoutintwcbhqwvjuweu.com   
-myphtkpekkflxclodixi.com   
-jlptbvrqntgpjacggcso.com   
-vgxejldldywalbrfnrab.com   
-dubxtfmgcxjywmpvdkuy.com   
-keuqdvbepfmoftyeprvq.com   
-jkdnvejduonkqdvjuwil.com   
-ebywetbioongyqgwoiqy.com   
-lubkvpbvajiwwmpifubx.com   
-tfmkksovghnjegkbdqxy.com   
-apjvijcmngqycemauehw.com   
-dixijcqqlnvevtnuwitm.com   
-rkuldppxwpdkeyjbjfrj.com   
-eprewwexrynnioflhlcq.com   
-ayixvloucfdysupyjbjf.com   
-rjetnmkssednvejqbpls.com   
-hmxqeprvqnoyxdbjsylu.com   
-onkdalwpqnkpribtxsgw.com   
-sjodfffjnnagxrhkqpes.com   
-gjppodrjakhvajuoauyg.com   
-aiamvwtyixijtlkuykjp.com   
-podfffjnnacpnintwtyr.com   
-rijcmudetbipajqbxtox.com   
-ivopmfxpfvnhpxktassj.com   
-giqudehjaxrunkpegxrp.com   
-ghnbnolqsjcyuwvjuwil.com   
-eooojgiyykjxkhvrdcmm.com   
-mhnnioowayqgswnjakck.com   
+yxpopawcnlltpwpdkedb.com
+jffrvhgqugrdxljjnrvq.com
+noyxpslvmrshmwfbxtox.com
+unoutintwcbhqwvjuweu.com
+myphtkpekkflxclodixi.com
+jlptbvrqntgpjacggcso.com
+vgxejldldywalbrfnrab.com
+dubxtfmgcxjywmpvdkuy.com
+keuqdvbepfmoftyeprvq.com
+jkdnvejduonkqdvjuwil.com
+ebywetbioongyqgwoiqy.com
+lubkvpbvajiwwmpifubx.com
+tfmkksovghnjegkbdqxy.com
+apjvijcmngqycemauehw.com
+dixijcqqlnvevtnuwitm.com
+rkuldppxwpdkeyjbjfrj.com
+eprewwexrynnioflhlcq.com
+ayixvloucfdysupyjbjf.com
+rjetnmkssednvejqbpls.com
+hmxqeprvqnoyxdbjsylu.com
+onkdalwpqnkpribtxsgw.com
+sjodfffjnnagxrhkqpes.com
+gjppodrjakhvajuoauyg.com
+aiamvwtyixijtlkuykjp.com
+podfffjnnacpnintwtyr.com
+rijcmudetbipajqbxtox.com
+ivopmfxpfvnhpxktassj.com
+giqudehjaxrunkpegxrp.com
+ghnbnolqsjcyuwvjuwil.com
+eooojgiyykjxkhvrdcmm.com
+mhnnioowayqgswnjakck.com
 ggssvbatjywehwhiokft.com
 
 # http://www.malware-traffic-analysis.net/2020/04/02/index.html
@@ -3518,14 +3518,7 @@ huisinbeeld.nl
 # http://www.malware-traffic-analysis.net/2020/03/31/index.html
 films.kapswholesale.info
 link.philippeschellekens.com
-line.monalisapizzeriasi.com
-line.mackmclain.com
-line.lawnteam.org
-line.rllconsulting.com
 line.rosenstock.net
-line.zepcnc.com
-107gam.com
-10bonusonline24.info
 
 # http://www.malware-traffic-analysis.net/2020/03/30/index.html
 babblecloset.site
@@ -3585,7 +3578,6 @@ jearlenef.com
 # http://www.malware-traffic-analysis.net/2020/03/18/index.html
 pmfi74.com
 snap-licdn.com
-wex-notdead.ru
 
 # http://www.malware-traffic-analysis.net/2020/03/16/index.html
 new.915yzt.cn
@@ -3608,7 +3600,6 @@ shop.artaffinittee.com
 
 # http://malware-traffic-analysis.net/2020/03/10/index.html
 z9nogft.com
-lissavets.at
 wex-notdead.ru
 
 # https://www.malware-traffic-analysis.net/2020/03/03/index2.html
@@ -3620,9 +3611,6 @@ freeclubcargo.club
 
 # https://www.malware-traffic-analysis.net/2020/03/03/index.html
 7qfmzuglr45xs.com
-limpopo.at
-estate-advice.at
-tahhir.at
 lissavets.at
 
 # https://www.malware-traffic-analysis.net/2020/02/24/index.html
