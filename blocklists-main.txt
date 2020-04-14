@@ -3704,6 +3704,15 @@ centre-de-conduite-roannais.com
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/covid-19-themed-cyber-attacks-target-government-and-medical-organizations/
+www.tempinfo.96.lt
+ftp.lookmegarment.com
+liquidroam.com
+
+# https://unit42.paloaltonetworks.com/apt41-using-new-speculoos-backdoor-to-target-organizations-globally/
+alibaba.zzux.com
+exchange.longmusic.com
+
 # https://unit42.paloaltonetworks.com/new-hoaxcalls-ddos-botnet/
 irc.hoaxcalls.pw
 
