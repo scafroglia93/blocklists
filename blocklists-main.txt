@@ -3066,7 +3066,7 @@ airjaldinet.ml
 # https://securelist.com/ios-exploit-chain-deploys-lightspy-malware/96407/
 app.poorgoddaay.com
 svr.hkrevolution.club
-messager.cloud 
+messager.cloud
 appledaily.googlephoto.vip
 www.googlephoto.vip
 news2.hkrevolution.club
