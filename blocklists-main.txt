@@ -1387,7 +1387,7 @@ bearclod.com
 
 # https://research.checkpoint.com/2020/warzone-behind-the-enemy-lines/
 warzonedns.com
-warzone.pw	
+warzone.pw
 warzone.io
 
 # https://research.checkpoint.com/2020/predator-the-thief/
@@ -1407,7 +1407,6 @@ btcinvest.company
 aiiaiafrzrueuedur.ru
 fafhoafouehfuh.su
 ffoeefsheuesihfo.ru
-osheoufhusheoghuesd.ru
 ouhfuosuoosrhzfzr.ru
 slpsrgpsrhojifdij.ru
 unokaoeojoejfghr.ru
