@@ -590,12 +590,6 @@ trck-er.aspensunset.com
 trck-erth.cnzysp.com
 trck.graider.com
 
-# https://www.cert-pa.it/notizie/nuova-campagna-malspam-sload-veicolata-via-pec/
-men.unifiedthreatmanagementutm.com
-way.securewebgateway.com
-pups.pupusas.net
-noe.aurelianoelle.com
-
 # https://www.cert-pa.it/notizie/phishing-ai-danni-di-istruzione-it/
 miur.gov.it.skelego.com
 
@@ -625,7 +619,6 @@ mengather.com
 
 # https://www.cert-pa.it/notizie/phishing-ai-danni-di-utenti-tim/
 pick-me-reach.com
-trck-beta.basicnerf.com
 promosurvey1.info
 
 # https://www.cert-pa.it/notizie/phishing-ai-danni-di-clienti-amazon/
