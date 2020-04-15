@@ -3440,6 +3440,35 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+# https://www.malware-traffic-analysis.net/2020/04/15/index.html
+domswebdesign.com
+smanext.com
+tedhenson.com
+furcoatexchange.com
+furcoatliquidators.com
+furwholesaler.com
+rentcoat.com
+rentthecoat.com
+theminkcoat.com
+maktabiprezidentivmkb.tj
+re-fur-bished.com
+raihanchow.us
+refurpose.com
+framtiden.dobus.se
+rentmink.com
+clarityupstate.com
+ationsopors.com
+hoagoomde.com
+ardstiobek.com
+www.hosteller.in
+
+# https://www.malware-traffic-analysis.net/2020/04/14/index.html
+hunchasko.com
+cloudofficemx.com
+crowe.llc
+sharefile2020.com
+www.rtxtserver.com
+
 # http://www.malware-traffic-analysis.net/2020/04/07/index.html
 knalc.com
 namilh.com
