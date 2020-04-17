@@ -23609,6 +23609,14 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
+# http://www.tgsoft.it/italy/news_archivio.asp?id=1080
+service.pandtelectric.com
+basa.nutarborg.com
+iuyefgweoiuhf.xyz
+for.iuyefgweoiuhf.xyz
+line.largefamiliesonpurpose.com
+basa.nutarborg.com
+
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1078
 murray.danielrmurray.com
 cnybo.cnyboypower.com
