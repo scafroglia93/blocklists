@@ -449,7 +449,6 @@ longmusic.com
 mrbasic.com
 zzux.com
 instanthq.com
-googleapis.com
 dns04.com
 impressoxpz598295.com
 sh-master03.com
@@ -1547,7 +1546,6 @@ drpc.duckdns.org
 libya-10.com.ly
 kalifhaftar.blogspot.com
 libyanews111.blogspot.com
-cutt.us
 aarasid.com
 sirtggp.com
 clientstats.epss.org.ly
@@ -2619,7 +2617,6 @@ newcharlesxl.scrapping.cc
 game-server.cc
 scrapping.cc
 homeunix.com
-mine.nu
 
 # https://www.welivesecurity.com/2019/07/29/android-ransomware-back/
 rich7.xyz
@@ -3013,9 +3010,7 @@ democats.org
 cryptmonero.com
 riepool.ovh
 flypool.org
-nanopool.org
 suprnova.cc
-minergate.com
 minexmr.com
 crypto-pool.fr
 dwarfpool.com
@@ -3618,7 +3613,6 @@ deraelous.com
 
 # http://www.malware-traffic-analysis.net/2020/03/12/index.html
 secure.zenithglobalplc.com
-chiark.greenend.org.uk
 mayinakh.xyz
 105711.com
 
@@ -3710,7 +3704,6 @@ puminsceft.com
 emblareppy.com
 pzhmnbarguerite4819.com
 n60peablo.com
-settings-win.data.microsoft.com
 nk47yicbnnsi.com
 
 # http://www.malware-traffic-analysis.net/2020/01/21/index.html
@@ -4048,7 +4041,6 @@ halanis21yi84alycia.top
 canada-neflxt.com
 facebo0k.com
 t-mogbile.com
-verizonwireless.com
 ypwosgnjytynbqin.com
 eqbqcguiwcymao.info
 aaqkekyaum.org
@@ -4205,7 +4197,6 @@ webclient1.biz
 xstorage.biz
 yourdocument.biz
 zstorage.biz
-www.bit.do
 www.mky.com
 www.pedidoslalacteo.com.ar
 alotile.biz
@@ -26799,8 +26790,6 @@ wintheskin.xyz
 
 # https://www.zscaler.com/blogs/research/ftcode-ransomware--new-version-includes-stealing-capabilities
 luigicafagna.it
-audownload.windowsupdate.nsatc.net
-lgin.msa.trafficmanager.net
 home.southerntransitions.net
 nomi.tugnutz.com
 home.ktxhome.com
