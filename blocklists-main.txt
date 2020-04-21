@@ -620,7 +620,6 @@ mengather.com
 # https://www.cert-pa.it/notizie/phishing-ai-danni-di-utenti-tim/
 pick-me-reach.com
 promosurvey1.info
-
 # https://www.cert-pa.it/notizie/phishing-ai-danni-di-clienti-amazon/
 c.minatoreditrofei.it
 c.giardinoinfestato.it
@@ -1325,6 +1324,7 @@ courriel.patinfoservices.info
 
 #https://www.cert-pa.it/notizie/pagine-di-phishing-ospitate-su-cloud-microsoft/
 s4egy.com
+
 
 
 
