@@ -1684,10 +1684,8 @@ flashplayerr.club
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201909_MissingLink
 msap.services
-msap.services
 news.cmitcsubs.tk
 suo.im
-energy-mail.org
 bf.mk
 rf.mk
 mailcontactanalysis.online
@@ -1803,11 +1801,9 @@ tibetnews.today
 daynew.today
 daynews.today
 commail.co
-comemail.email
 tibethouse.info
 tibetfrum.info
 comemails.email
-google.comemails.email
 google.comemails.email
 google.commail.co
 comemail.email
@@ -1848,7 +1844,6 @@ httpsaccounts-google.info
 yahoo-safety.com
 mail-doubt.com
 httpsdrive-accounts-google.site
-gmail-profile.com
 google-post.com
 t1bet.net
 mydrive-google.com
@@ -1924,11 +1919,7 @@ mail-163.tk
 gmail-secure.tk
 accounts-google.cc
 httpsdocs-google.info
-yahoo-verification.us
-drive-mail.us
 docs-mail-google.us
-login-live.us
-drive-mail.info
 gooog1e.com
 drive-goog1e.com
 mydrive-mail.asia
@@ -1941,7 +1932,6 @@ account-gooogle.info
 accounts-mail.space
 accounts-goog1e.info
 cc-mail-secret.com
-drive-mail.online
 webmail-dalailama.com
 myaccounts-gooog1e.space
 accounts-gooog1e.space
@@ -1950,11 +1940,8 @@ mail-epochtimes.space
 accounts-email.space
 files-mail.space
 mail-gooog1e.info
-mail-protect.space
 email-163.space
 drive-gooog1e.space
-mail-attachment-usercontent.space
-drlve-gooog1e.com
 mail-youxinpai.com
 accounts-gooog1e.asia
 accounts-gooog1e.online
@@ -1997,7 +1984,6 @@ drive-google.me
 drive-google.space
 epochtimes.space
 drive-google.gq
-google-sign.tk
 https-google-drive.ml
 https-my-accounts-google.gq
 gmail-ssl.tk
@@ -2046,9 +2032,7 @@ getadobeplayer.com
 diretube.co.uk
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201707_InsiderInfo
-secuerserver.com
 bowenpress.net
-bowenpress.org
 datalink.one
 bowenpross.com
 bowenpres.com
@@ -2211,7 +2195,6 @@ googlefile.firewall-gateway.net
 accountsgoogle.firewall-gateway.com
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201512_PackRAT
-blackboxmusic.co
 venezuela365.com
 supportgmai1.com
 conhost.servehttp.com
@@ -2227,7 +2210,6 @@ deyrep24.ddns.net
 ns1.ukraine.com.ua
 n1.login-office365.com
 focusecuador.tk
-movimientoanticorreista.com
 asambleanacional-gob-ec.cu9.co
 24.com
 taskmgr.redirectme.com
@@ -2285,6 +2267,7 @@ usafbi.websecexp.com
 t1.mailsecurityservice.com
 t2.mailsecurityservice.com
 iyouthen.com
+
 
 
 
