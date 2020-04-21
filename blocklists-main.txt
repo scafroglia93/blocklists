@@ -674,9 +674,9 @@ abokijob.hopto.org
 boki0419.duckdns.org
 
 # https://www.cert-pa.it/notizie/campagna-di-malspam-tenta-di-veicolare-emotet-invitando-a-sostenere-lattivita-di-greta-thunberg/
-www.lubinco.co.il
-www.helenelagnieu.fr
-www.textilesunrise.com
+lubinco.co.il
+helenelagnieu.fr
+textilesunrise.com
 ondesignstudio.in
 pakspaservices.com
 
@@ -1183,7 +1183,7 @@ deessolutionsdemo.com
 
 # https://www.cert-pa.it/notizie/campagne-di-malspam-con-varianti-di-trickbot-ai-danni-della-pa/
 tesiasquad.eu
-www.brothersoflondon.com
+brothersoflondon.com
 nebula-business.com
 thequickreply.in
 eventwedding.dp.ua
@@ -1194,7 +1194,7 @@ telkom.online
 amaritshop.com
 u2215874.ct.sendgrid.net
 altxcode.com
-www.penpilot.net
+penpilot.net
 
 # https://www.cert-pa.it/notizie/nuova-campagna-di-diffusione-sload-via-pec-rivolta-a-privati-e-professionisti/
 duratryamtrd.com
@@ -1267,8 +1267,8 @@ it.goodvibeskicking.com
 tru.cheersportacademy.com
 
 # https://www.cert-pa.it/notizie/campagna-phishing-rimborso-canone-rai/
-www.richieste-telematiche.info
-www.area-inviotelematico.info
+richieste-telematiche.info
+area-inviotelematico.info
 
 # https://www.cert-pa.it/bollettini/campagna-di-malspam-ursnif-con-steganografia-verso-pec-italiane/
 eloiyus.site
@@ -1399,7 +1399,7 @@ kristihack46.myjino.ru
 j946104.myjino.ru
 sayhello.host
 u96191l2.beget.tech
-www.haijiangfriut.com
+haijiangfriut.com
 btcinvest.company
 
 # https://research.checkpoint.com/2020/phorpiex-arsenal-part-i/
@@ -1644,7 +1644,7 @@ Ronaldlubbers.site
 Georgethompson.space
 
 # https://research.checkpoint.com/2018/ceidpagelock-a-chinese-rootkit/
-www.tj999.top
+tj999.top
 
 # https://research.checkpoint.com/2018/vbetaly/
 pagamentofattura.com
@@ -1683,10 +1683,10 @@ flashplayerr.club
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201909_MissingLink
 msap.services
-www.msap.services
+msap.services
 news.cmitcsubs.tk
 suo.im
-www.energy-mail.org
+energy-mail.org
 bf.mk
 rf.mk
 mailcontactanalysis.online
@@ -1807,9 +1807,9 @@ tibethouse.info
 tibetfrum.info
 comemails.email
 google.comemails.email
-www.google.comemails.email
+google.comemails.email
 google.commail.co
-www.comemail.email
+comemail.email
 mail.google.commail.co
 google.commail.email
 google.comemail.email
@@ -2013,25 +2013,25 @@ mail-secret.online
 httpsaccounts-google.cf
 mail-guazi.com
 phpinfo.pw
-www.drive-mail.us
+drive-mail.us
 accounts.gooog1e.com
-www.google-sign.tk
+google-sign.tk
 drive.postmailsecret.com
-www.gmail-profile.com
+gmail-profile.com
 webmail.postmailsecret.com
-www.yahoo-verification.us
-www.drive-mail.online
-www.drive-mail.info
-www.login-live.us
+yahoo-verification.us
+drive-mail.online
+drive-mail.info
+login-live.us
 webmail.dalailama.space
-www.drlve-gooog1e.com
+drlve-gooog1e.com
 drive.accounts-gooog1e.online
 https.drive-google.gq
 drive.gooog1e.com
 myaccount-mail.com
-www.mail-attachment-usercontent.space
+mail-attachment-usercontent.space
 drive.myaccount-mail.com
-www.mail-protect.space
+mail-protect.space
 drive.mail-status.com
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit
@@ -2053,13 +2053,13 @@ bowenpross.com
 bowenpres.com
 epochatimes.com
 smtpout.secuerserver.com
-www.vnews.hk
+vnews.hk
 get.adobe.com.bowenpress.org
 hk.secuerserver.com
-www.mail.secuerserver.com
-www.secuerserver.com
+mail.secuerserver.com
+secuerserver.com
 pop.secuerserver.com
-www.bowenpress.org
+bowenpress.org
 email23.secuerserver.com
 dns.bowenpress.org
 
@@ -2118,9 +2118,9 @@ googlemaps.servehttp.com
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201611_KeyBoy
 tibetvoices.com
-www.eleven.mypop3.org
-www.about.jkub.com
-www.backus.myftp.name
+eleven.mypop3.org
+about.jkub.com
+backus.myftp.name
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201608_NSO_Group
 redcrossworld.com
@@ -2193,7 +2193,7 @@ computer.security-centers.com
 tenday.mysecondarydns.com
 safetyssl.security-centers.com
 hkemail.f3322.org
-www.olinaodi.com
+olinaodi.com
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201603_Shifting_Tactics
 sys.firewall-gateway.net
@@ -2210,7 +2210,7 @@ googlefile.firewall-gateway.net
 accountsgoogle.firewall-gateway.com
 
 # https://github.com/citizenlab/malware-indicators/tree/master/201512_PackRAT
-www.blackboxmusic.co
+blackboxmusic.co
 venezuela365.com
 supportgmai1.com
 conhost.servehttp.com
@@ -2249,7 +2249,7 @@ ftp.server.com
 lolinha.no-ip.org
 n1.support-java.com
 ec.cu9.co
-www.movimientoanticorreista.com
+movimientoanticorreista.com
 android-flash.com
 wjwjwjwj.no-ip.org
 ftp.ftpserver.com
@@ -2470,7 +2470,7 @@ zastrahui.xyz
 
 # https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/
 # https://github.com/eset/malware-ioc/tree/master/turla#turla-watering-hole-armenia
-www.armconsul.ru
+armconsul.ru
 mnp.nkr.am
 aiisa.am
 adgf.am
@@ -2478,15 +2478,15 @@ skategirlchina.com
 
 # https://www.welivesecurity.com/2020/03/05/guildma-devil-drives-electric/
 # https://github.com/eset/malware-ioc/tree/master/guildma
-www.zvatrswtsrw.ml
+zvatrswtsrw.ml
 xskcjzamlkxwo.gq
-www.vhguyeu.ml
-www.carnataldez.ml
-www.movbmog.ga
+vhguyeu.ml
+carnataldez.ml
+movbmog.ga
 iuiuytrytrewrqw.gq
-www.gucinowertr.tk
+gucinowertr.tk
 equilibrios.ga
-www.clooinfor.cf
+clooinfor.cf
 ambirsr.tk
 dbuhcbudyu.tk
 nvfjvtntt.cf
@@ -2648,7 +2648,7 @@ press.premlist.com
 grek.freetaxbar.com
 items.burgermap.org
 upcv.inciohali.com
-www1.sanpaulostat.com
+.sanpaulostat.com
 cv.livehams.com
 info.audioexp.com
 compatsec.com
@@ -2777,7 +2777,7 @@ yvonlheureuxtechnology.com
 
 # https://www.welivesecurity.com/2019/05/14/plead-malware-mitm-asus-webstorage/
 update.asuswebstorage.com.ssmailer.com
-www.google.com.dns-report.com
+google.com.dns-report.com
 
 # https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/
 # https://github.com/eset/malware-ioc/tree/master/buhtrap
@@ -2996,7 +2996,7 @@ cct119.com
 down.mys2016.info
 js.mys2016.info
 js.mykings.top
-www.cyg2016.xyzTI
+cyg2016.xyz
 hc58.msns.cn
 down.mys2018.xyz
 js.mys2018.xyz
@@ -3042,10 +3042,10 @@ testworks.ru
 
 # https://securelist.com/unkillable-xhelper-and-a-trojan-matryoshka/96487/
 lp.cooktracking.com
-www.koapkmobi.com
+koapkmobi.com
 ddl.okyesmobi.com
-www.ddl.okyesmobi.com
-www.ddl.okgoodmobi.com
+ddl.okyesmobi.com
+ddl.okgoodmobi.com
 ddl.okgoodmobi.com
 
 # https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/
@@ -3063,11 +3063,11 @@ app.poorgoddaay.com
 svr.hkrevolution.club
 messager.cloud
 appledaily.googlephoto.vip
-www.googlephoto.vip
+googlephoto.vip
 news2.hkrevolution.club
 news.hkrevolution.club
-www.facebooktoday.cc
-www.hkrevolt.com
+facebooktoday.cc
+hkrevolt.com
 news.hkrevolt.com
 movie.poorgoddaay.com
 xxinc-media.oss-cn-shenzhen.aliyuncs.com
@@ -3123,15 +3123,15 @@ api.entrycache.com
 api.macsmoments.com
 
 # https://securelist.com/operation-applejeus-sequel/95596/
-www.wb-bot.org
-www.jmttrading.org
+wb-bot.org
+jmttrading.org
 cyptian.com
 beastgoc.com
-www.private-kurier.com
-www.wb-invest.net
+private-kurier.com
+wb-invest.net
 wfcwallet.com
 chainfun365.com
-www.buckfast-zucht.de
+buckfast-zucht.de
 invesuccess.com
 private-kurier.com
 aeroplans.info
@@ -3211,10 +3211,10 @@ webdynamicname.com
 # https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/
 acddesigns.com.au
 kmbr1.nitesbr1.org
-www.stjohns-burscough.org
+stjohns-burscough.org
 lotusprintgroup.com
-www.jnts1532.cn
-www.rhooters.com
+jnts1532.cn
+rhooters.com
 planar-progress.000webhostapp.com
 buttyfly.000webhostapp.com
 
@@ -3324,14 +3324,14 @@ ispyoo.com
 copy9.com
 thetruthspy.com
 talklog.net
-www.spy-phone-app.com
+spy-phone-app.com
 easyphonetrack.com
 reptilicus.net
 mobile-tracker-free.com
-www.hoverspyapp.com
-www.mobile-spy.com
-www.flexispyapp.com
-www.mspy.com
+hoverspyapp.com
+mobile-spy.com
+flexispyapp.com
+mspy.com
 freeandroidspy.com
 
 # https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
@@ -3346,7 +3346,7 @@ eventum.cwsdev3.bi.com
 streamf.ru
 towingoperations.com
 vinhsake.com
-www.tangowithcolette.com
+tangowithcolette.com
 nzssdm.com
 
 # https://securelist.com/operation-shadowhammer/89992/
@@ -3365,7 +3365,7 @@ kristihack46.myjino.ru
 j946104.myjino.ru
 
 # https://securelist.com/piratebay-malware/89740/
-www.mobilekey.pw
+mobilekey.pw
 
 # https://securelist.com/razy-in-search-of-cryptocurrency/89485/
 gigafilesnote.com
@@ -3408,7 +3408,7 @@ latecafe.in
 certificatesshop.com
 blondehairman.com
 porenticofacts.com
-www.fayloobmennik.net
+fayloobmennik.net
 uploadsforyou.com
 giftfromspace.com
 mikohanzer.website
@@ -3417,10 +3417,10 @@ desperados20.es
 prom3.biz.ua
 
 # https://securelist.com/muddywater/88059/
-www.cankayasrc.com
+cankayasrc.com
 ektamservis.com
 gtme.ae
-www.adfg.ae
+adfg.ae
 adibf.ae
 hubinasia.com
 benangin.com
@@ -3455,14 +3455,14 @@ clarityupstate.com
 ationsopors.com
 hoagoomde.com
 ardstiobek.com
-www.hosteller.in
+hosteller.in
 
 # https://www.malware-traffic-analysis.net/2020/04/14/index.html
 hunchasko.com
 cloudofficemx.com
 crowe.llc
 sharefile2020.com
-www.rtxtserver.com
+rtxtserver.com
 
 # http://www.malware-traffic-analysis.net/2020/04/07/index.html
 knalc.com
@@ -3674,7 +3674,7 @@ kekbobbie.com
 myip.opendns.com
 t199447q.com
 minoparisi.com
-www.minoparisi.com
+minoparisi.com
 10bonusonline24.info
 line.monalisapizzeriasi.com
 line.ivorycell.net
@@ -3727,7 +3727,7 @@ centre-de-conduite-roannais.com
 # https://github.com/pan-unit42/iocs
 
 # https://unit42.paloaltonetworks.com/covid-19-themed-cyber-attacks-target-government-and-medical-organizations/
-www.tempinfo.96.lt
+tempinfo.96.lt
 ftp.lookmegarment.com
 
 # https://unit42.paloaltonetworks.com/apt41-using-new-speculoos-backdoor-to-target-organizations-globally/
@@ -3738,14 +3738,14 @@ exchange.longmusic.com
 irc.hoaxcalls.pw
 
 # https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
-www.Novmintservices.com
-www.myamystills.com
+Novmintservices.com
+myamystills.com
 murthydigitals.com
 ptgteft.com
 matpincscr.com
-www.artizaa.com
+artizaa.com
 saidialxo.com
-www.rossogato.com
+rossogato.com
 
 # https://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/
 servicebios.com
@@ -3777,7 +3777,7 @@ eom-nv.com
 unclebillswv.com
 jintsung.cn
 4ourkidsky.com
-www.firstteamcareer.com
+firstteamcareer.com
 busyserviceinc.com
 edisonlee.net
 newtontool.ca
@@ -3821,12 +3821,12 @@ managehelpdesk.com
 microsoftupdated.com
 osupd.com
 mywinnetwork.ddns.net
-www.chromup.com
-www.securityupdated.com
+chromup.com
+securityupdated.com
 googlmail.net
 microsoftupdated.net
 syn.broadcaster.rocks
-www.googlmail.net
+googlmail.net
 oorgans.com
 suncocity.com
 zandelshop.com
@@ -3892,22 +3892,22 @@ kaspersky.host
 hotmai1.com
 0utlook.bid
 service.chrome-up.date
-www3.chrome-up.date
-www7.chrome-up.date
+chrome-up.date
+chrome-up.date
 timezone.live
 service1.chrome-up.date
-www5.chrome-up.date
+chrome-up.date
 servicesystem.serveirc.com
 analytics-google.org
-www.microsoftsubsystem.com-adm.in
-www1.chrome-up.date
+microsoftsubsystem.com-adm.in
+chrome-up.date
 msservice.site
 microsoftexplorerservices.cloud
 syn.timezone.live
-www.cankayasrc.com
+cankayasrc.com
 ektamservis.com
 gtme.ae
-www.adfg.ae
+adfg.ae
 adibf.ae
 hubinasia.com
 benangin.com
@@ -3917,11 +3917,11 @@ zstoreshoping.ddns.net
 shopcloths.ddns.net
 getgooogle.hopto.org
 valis-ti.cl
-www.shareliverpoolfc.co.uk
-www.latvia-usa.org
+shareliverpoolfc.co.uk
+latvia-usa.org
 googleads.hopto.org
 ciscoupdate2019.gotdns.ch
-www.jsonstore.io
+jsonstore.io
 owa-insss-org-ill-owa-authen.ml
 webmaiil-tau-ac-il.ml
 mail-macroadvisorypartners.ml
@@ -3936,7 +3936,7 @@ msoffice365update.com
 adpolioe.com
 Microsoft-publisher.com
 prosalar.com
-www.msoffice365cdn.com
+msoffice365cdn.com
 office365-technical.info
 rdppath.com
 cpuproc.com
@@ -4011,9 +4011,9 @@ webserver.servehttp.com
 windowsnetwork.org
 work.andphocen.com
 workwifi.andphocen.com
-www.lzsps.ml
-www3.mefound.com
-www5.zyns.com
+lzsps.ml
+mefound.com
+zyns.com
 yl.andphocen.com
 uyghurapps.net
 
@@ -4081,27 +4081,27 @@ tmclub.eu
 wallpapercase.com
 watyanagr.nfe.go.th
 whiver.in
-www.4seasonrentacar.com
-www.akhtaredanesh.com
-www.arcadecreative.com
-www.armaholic.com
-www.asan-max.com
-www.autotrans.hr
-www.dafc.co.uk
-www.eapa.org
-www.elev8tor.com
-www.jdarchs.com
-www.kunkrooann.com
-www.mackellarscreenworks.com
-www.mitegen.com
-www.nigelwhitfield.com
-www.pomegranates.org
-www.ridefox.com
-www.shapingtomorrowsworld.org
-www.spearhead-training.com
-www.vanessajackson.co.uk
-www.yaran.co
-www.ztm.waw.pl
+4seasonrentacar.com
+akhtaredanesh.com
+arcadecreative.com
+armaholic.com
+asan-max.com
+autotrans.hr
+dafc.co.uk
+eapa.org
+elev8tor.com
+jdarchs.com
+kunkrooann.com
+mackellarscreenworks.com
+mitegen.com
+nigelwhitfield.com
+pomegranates.org
+ridefox.com
+shapingtomorrowsworld.org
+spearhead-training.com
+vanessajackson.co.uk
+yaran.co
+ztm.waw.pl
 aa123.spdns.de
 account.websurprisemail.com
 addi.apple.cloudns.org
@@ -4143,7 +4143,7 @@ sys.firewall-gateway.net
 update.googmail.org
 vcvcvcvc.dyndns.org
 vip.yahoo.cloudns.info
-www.gorlan.cloudns.pro
+gorlan.cloudns.pro
 flux2key.com
 string2me.com
 cdnverify.net
@@ -4165,11 +4165,11 @@ stemtopx.com
 stevemike-fireforce.info
 stevemikeforce.com
 t2m.io
-www.0-day.us
-www.acorn-paper.com
-www.asaigoldenrice.com
-www.fast-cargo.com
-www.stemtopx.com
+0-day.us
+acorn-paper.com
+asaigoldenrice.com
+fast-cargo.com
+stemtopx.com
 xyz-storez.xyz
 zupaservices.info
 arubrabank.com
@@ -4197,8 +4197,8 @@ webclient1.biz
 xstorage.biz
 yourdocument.biz
 zstorage.biz
-www.mky.com
-www.pedidoslalacteo.com.ar
+mky.com
+pedidoslalacteo.com.ar
 alotile.biz
 cloud-direct.biz
 document.cdn-one.biz
@@ -4210,9 +4210,9 @@ s3.sovereigncars.org.uk
 safesecurefiles.com
 transef.biz
 uyghurweb.net
-www.aanon.com.tw
-www.ep66.com.tw
-www.npec.com.tw
+aanon.com.tw
+ep66.com.tw
+npec.com.tw
 a.ssvs.space
 androidapt.s3-accelerate.amazonaws.com
 api.leakingprivacy.tk
@@ -4257,7 +4257,7 @@ w.21-3n.xyz
 w.3ei.xyz
 w2wz.cn
 winapt.s3-accelerate.amazonaws.com
-www.aybc.so
+aybc.so
 yxarsh.shop
 z9ls.com
 1.z9ls.com
@@ -22996,7 +22996,7 @@ affiliatecollective.club
 wikipeldia.org
 
 # https://unit42.paloaltonetworks.com/new-mirai-variant-targets-enterprise-wireless-presentation-display-systems/
-www.autourbe.com.co
+autourbe.com.co
 epicrustserver.cf
 
 
@@ -23103,7 +23103,7 @@ EasyResumeCreatorPro.com
 MicrosoftWindowsUpdate.net
 ebizmba.com
 kundenpflege.menrad.de
-www.gesunddurchsjahr.de
+gesunddurchsjahr.de
 1e100.tech
 1m100.tech
 ads-youtube.online
@@ -23140,11 +23140,11 @@ microsoft-office-free-templates.in
 microsoft-office-free-templates-download.btc-int.in
 Adobe-plugin.bid
 service.chrome-up.date
-www3.chrome-up.date
-www7.chrome-up.date
+chrome-up.date
+chrome-up.date
 timezone.live
 service1.chrome-up.date
-www5.chrome-up.date
+chrome-up.date
 servicesystem.serveirc.com
 proxycheker.pro
 mydomain1609.com
@@ -23234,12 +23234,12 @@ down.mysking.info
 pc.pc0416.xyz
 nb.ruisgood.ru
 shell.upme0611.info
-www.upme0611.info
+upme0611.info
 down.oo000oo.club
 js.oo000oo.club
 wmi.oo000oo.club
-www.cyg2016.xyz
-www.wpd0126.info
+cyg2016.xyz
+wpd0126.info
 xmr.5b6b7b.ru
 64.5b6b7b.ru
 js.5b6b7b.ru
@@ -23459,38 +23459,38 @@ tzlss.mobi
 vazawoweso.online
 vecoha.mobi
 wpf.mobi
-www.aghkf.ml
-www.aetye.ml
-www.ayanw.ml
-www.cpaneh.tk
-www.ekqff.ml
-www.ewouif.gq
-www.gyqey.ml
-www.hcsscj.ga
-www.hvaycz.cf
-www.iquqy.ml
-www.jahlq.ml
-www.Jdokdo.ml
-www.jjsiu.ml
-www.nvmdv.ml
-www.pqoyruw.ga
-www.pvrdn.ml
-www.qoloa.ml
-www.qyhhy.ml
-www.rimaw.ml
-www.qzitt.ml
-www.rtrzd.ml
-www.swtaegs.ml
-www.tgmml.ml
-www.urdnz.cf
-www.vgplb.ml
-www.vpewqz.tk
-www.wdplf.ml
-www.whyog.ml
-www.wqplw.ml
-www.yklud.ml
-www.ynngon.ml
-www.yuktu.ml
+aghkf.ml
+aetye.ml
+ayanw.ml
+cpaneh.tk
+ekqff.ml
+ewouif.gq
+gyqey.ml
+hcsscj.ga
+hvaycz.cf
+iquqy.ml
+jahlq.ml
+Jdokdo.ml
+jjsiu.ml
+nvmdv.ml
+pqoyruw.ga
+pvrdn.ml
+qoloa.ml
+qyhhy.ml
+rimaw.ml
+qzitt.ml
+rtrzd.ml
+swtaegs.ml
+tgmml.ml
+urdnz.cf
+vgplb.ml
+vpewqz.tk
+wdplf.ml
+whyog.ml
+wqplw.ml
+yklud.ml
+ynngon.ml
+yuktu.ml
 yepeyowora.online
 yerago.mobi
 zavayo.mobi
@@ -23501,7 +23501,7 @@ yolecafeha.club
 professional.mobi
 turkcall.mobi
 walatecaqa.club
-www.yomka.ml
+yomka.ml
 selcukecza.online
 
 # https://news.sophos.com/en-us/2019/02/21/abusive-mobile-adware-aggressively-touts-more-adware/
@@ -23692,14 +23692,14 @@ hiteronak.icu
 matantalbenna.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1062
-www.unicredit.it.banca.accedi.conto.clienticredit.online
+unicredit.it.banca.accedi.conto.clienticredit.online
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1060
 dealwithus.tk
 hatbhutantour.com
 tandinbhutantravel.com
 sakurabacninh.com
-www.buildwithinnovation.com
+buildwithinnovation.com
 beholdbhutantravels.com
 xlkz.xyz
 nvdvdgp.com
@@ -23712,7 +23712,7 @@ qryyueeriberto.com
 v15zxnapoleonln.com
 crimecitynews.com
 clicksbyayush.com
-www.hgklighting.com
+hgklighting.com
 cheapwebvn.net
 sundevilstudentwork.com
 9jabliss.com
@@ -23730,9 +23730,9 @@ funatsu.biz
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1059
 beststaffusa.com
 uwachukwuu.cf
-www.speedpassitalia.it
-www.charliemoney.com.br
-www.redmoonexport.in
+speedpassitalia.it
+charliemoney.com.br
+redmoonexport.in
 recentgovtjobcircular.com
 dineka.lt/pastas
 addahost.ddns.net
@@ -23762,31 +23762,31 @@ clcindy.com
 uglobalfinance.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1058
-www.xishicanting.com
+xishicanting.com
 goharm.com
 testtaglabel.com
 dynomind.tech
 nicest-packaging.com
-www.besthelpinghand.com
+besthelpinghand.com
 safari7.devitsandbox.com
 iconeprojetos.eng.br
 hecquet.info
 trungcapduochanoi.info
 gadinacom.gq
-www.oasineldeserto.info
+oasineldeserto.info
 icanpeds.com
 alexbase.com
 tkaystore.com
 kueproj.linuxpl.eu
 soulcastor.com
-www.omstarfabricators.com
+omstarfabricators.com
 allainesconsultancyinc.com
 phbarangays.com
 asemancard.com
 trilochan.org
 w04.jujingdao.com
 vinetechs.net
-www.vendameucarroo.com
+vendameucarroo.com
 fampraffer.com
 jottnistic.com
 seepisiolt.com
@@ -23814,7 +23814,7 @@ taobaoraku.com
 nguyenminhthong.xyz
 holodrs.com
 compta.referansy.com
-www.clinicacrecer.com
+clinicacrecer.com
 understudyvideo.com
 searchfundanalyst.com
 understudyknowledge.com
@@ -23872,41 +23872,41 @@ gedmond0.pro
 new1discoveries1.com
 newsaplicamento2.surf
 kolonimalosi8.pw
-www.textilesunrise.com
+textilesunrise.com
 pakspaservices.com
-www.helenelagnieu.fr
+helenelagnieu.fr
 ondesignstudio.in
-www.lubinco.co.il
-www.wangjy1211.xyz
-www.compelconsultancy.com
-www.acgvideo.co
-www.smdelectro.com
-www.air-pegasus.com
+lubinco.co.il
+wangjy1211.xyz
+compelconsultancy.com
+acgvideo.co
+smdelectro.com
+air-pegasus.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1047
 webserverportalitalia.site
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1046
 way.securewebgateway.com
-www.luigicafagna.it
+luigicafagna.it
 ese.emarv.com
 sutsyiekha.casa
 nagel.pintogood.com
 recreate.bigfilmproduction.com
-www.nineti9.com
+nineti9.com
 invision-me.com
 hanaimchurch.net
 myphamthuydung.com
 lalletera.cat
-www.primepenguin.com
-www.ukrembtr.com
+primepenguin.com
+ukrembtr.com
 shourayinfotech.xyz
 onllygooodam.com
 customerspick.com
 hintdeals.com
 sscupace.xyz
 modiracc.com
-www.billrothhospitals.com
+billrothhospitals.com
 opticsbd.com
 birdlandonetoone.com
 860259.com
@@ -23927,15 +23927,15 @@ rampbay.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1045
 extrautilidades.com
-www.cirugiaurologica.com
+cirugiaurologica.com
 vaytaichinhonline.com
 majorlandproperty.com
-www.milux-my.com
+milux-my.com
 waraly.com
 accdb.opengate.it
-www.saveearth.org.in
+saveearth.org.in
 exhicon.ir
-www.shopbkk.online
+shopbkk.online
 ahsappanjur.com
 lyciawood.com
 101.edufav.com
@@ -23943,18 +23943,18 @@ panjurkapak.com
 vyhoang.airaworldtourism.com
 mobitechgroup.com
 offisepost.info
-www.awchang.com
-www.landzoom.com
-www.municipales.lejournaltoulousain.fr
+awchang.com
+landzoom.com
+municipales.lejournaltoulousain.fr
 wanderunderwater.com
 itcslimited.com
-www.avmaxvip.com
-www.arinlays.com
+avmaxvip.com
+arinlays.com
 qiuqiu.biz
 cr-easy.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1043
-www.usd78.com
+usd78.com
 aahch.org
 old.bigbom.com
 valeriademonte.com
@@ -23962,14 +23962,14 @@ jdiwindows.com
 youcaodian.com
 goddoskyfc.com
 navinfamilywines.com
-www.oshodrycleaning.com
+oshodrycleaning.com
 onlykissme.com
 gelcursot.top
 bomberosvilladelrosario.org
 picslife7.com
-www.kiddostoysclub.com
-www.sennesgroup.com
-www.ncafp.com
+kiddostoysclub.com
+sennesgroup.com
+ncafp.com
 ketshops.com
 purviitech.com
 insidermetric.com
@@ -23980,19 +23980,19 @@ a.pomf.cat
 poshouse.vn
 sptconstruction.co.za
 titrshop.ir
-www.juzhaituan.com
-www.andrea-alvarado.com
+juzhaituan.com
+andrea-alvarado.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1042
-www.ketobes.com
+ketobes.com
 mercadry.com
-www.oakessitecontractors.com
+oakessitecontractors.com
 agenta.airosgroup.com
 gwrkfpmw.net
 ayalacarranza.com
 pcera.eu
-www.cevizmedia.com
-www.prettyangelsbaptism.com
+cevizmedia.com
+prettyangelsbaptism.com
 demo.voolatech.com
 sofizay.com
 bellespianoclass.com.sg
@@ -24003,16 +24003,16 @@ mastermindescapetheroomgame.com
 joufhs.net
 youtubeismyartschool.com
 onllygoodam.com
-www.jameslotz.com
+jameslotz.com
 monitoring.bactrack.com
-www.enegix.com
+enegix.com
 jaafarattar.com
 iruainvestments.com
 news.yaoerhome.com
 highschools.creationlife.com
 momo2.test.zinimedia.com
 annonces.ga-partnership.com
-www.preprod.planetlabor.com
+preprod.planetlabor.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1041
 ced-ania.com
@@ -24023,7 +24023,7 @@ parker-network.cc
 parkernetwork.freezoy.com
 pasker.no-ip.org
 puntofisco.freezoy.com
-www.scuolaelementarediorziveccho.191.it
+scuolaelementarediorziveccho.191.it
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1039
 sglobal.online
@@ -24032,7 +24032,7 @@ sglobal.online
 a0365381.xsph.ru
 encounterkarmatreks.com
 accedisellercentral.amazson.it
-www.misericordia.pistoia.it
+misericordia.pistoia.it
 hovermop.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1036
@@ -24069,7 +24069,7 @@ ryktzzula.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1031
 efectivafm.com
-www.thepartnerships.com
+thepartnerships.com
 techecn.com
 dahuanigeria.com
 capitalpremiumfinancinginc.com
@@ -24084,10 +24084,10 @@ customwastereceptacles.com
 enrichcollege.xyz
 atomoton.xyz
 thinktobehappy.com
-www.bonvies.com
+bonvies.com
 parishadtoday.com
-www.organizersondemand.com
-www.lindasamson.com
+organizersondemand.com
+lindasamson.com
 finemineraldealers.co
 proboxingfans.com
 link.emilystravel1.com
@@ -24119,8 +24119,8 @@ matrixkw.com
 thekingofsoul.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1030
-www.bps-net.eu
-www.emozionedata.it
+bps-net.eu
+emozionedata.it
 amazon-net-info2019.casacam.net
 d2cabfzcca78ju.cloudfront.net
 
@@ -24128,40 +24128,40 @@ d2cabfzcca78ju.cloudfront.net
 goitsoluciones.com
 mevaembalagens.com
 blog.dakkha.com
-www.ephemereparfum.com
+ephemereparfum.com
 bedianmotor.com
 sysmobi.com
 panelfiberton.com
 transporteselfenix.com
 qirqle.com
 aylaspa.com
-www.dilandilan.com
-www.cuisineontheroadspr.com
+dilandilan.com
+cuisineontheroadspr.com
 prettywoman-cambodia.com
-www.xmxazd.com
+xmxazd.com
 creationhappened.org
 home.southerntransitions.net
 home.isdes.com
 connect.simplebutmatters.com
-www.n01goalkeeper.com
-www.combinedenergytech.com
-www.stewardtechnicalcollege.com
+n01goalkeeper.com
+combinedenergytech.com
+stewardtechnicalcollege.com
 superecruiters.com
-www.newuvolume2.com
+newuvolume2.com
 freeslits.net
 pacificbehavioral.com
 gonetplay.xyz
-www.megaestereocalca.net
+megaestereocalca.net
 dymardistribuidora.com
 grupocemx.com
-www.novawebdesigns.com
-www.cours-theatre-anglais.com
+novawebdesigns.com
+cours-theatre-anglais.com
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1021
-www.sunflagsteel.com
+sunflagsteel.com
 hotelkrome.com
 followergods.com
-www.startupforbusiness.com
+startupforbusiness.com
 refferalstaff.com
 shekinahwiz.ddns.net
 bateshkeeutgv.best
@@ -24181,11 +24181,11 @@ saxtorph.net
 sukhumvithomes.com
 sathorncondos.com
 vanscheers.com
-www.chefeladlevi.com
-www.atchec.com
+chefeladlevi.com
+atchec.com
 aplsolutionsonline.com
 tvjovem.net
-www.faraweel.com
+faraweel.com
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1020
 ser.jonnalbandian.com
@@ -24199,7 +24199,7 @@ butchscorpion.com
 siurreje.xyz
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1018
-www.farmaciastefani.it
+farmaciastefani.it
 wwd.hollishealth.com
 img.blumenstock.com
 wws.guidemyhunt.com
@@ -24347,14 +24347,14 @@ app.poorgoddaay.com
 movie.poorgoddaay.com
 news.poorgoddaay.com
 appledaily.googlephoto.vip
-www.googlephoto.vip
+googlephoto.vip
 app.hkrevolution.club
 news2.hkrevolution.club
 svr.hkrevolution.club
 news.hkrevolution.club
-www.facebooktoday.cc
+facebooktoday.cc
 news.hkrevolt.com
-www.messager.cloud
+messager.cloud
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/operation-overtrap-targets-japanese-online-banking-users-via-bottle-exploit-kit-and-brand-new-cinobi-banking-trojan/
 # https://documents.trendmicro.com/assets/pdf/Tech%20Brief_Operation%20Overtrap%20Targets%20Japanese%20Online%20Banking%20Users.pdf
@@ -24380,7 +24380,7 @@ safety-amazon.jp
 safetb-amazon.jp
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-updates-kit-to-kill-older-miner-versions-targets-more-systems/
-www.minpop.com
+minpop.com
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/
 ms-ethics.net
@@ -24453,7 +24453,7 @@ godoycrus.com
 share.dmca.gripe
 
 # https://blog.yoroi.company/research/transparent-tribe-four-years-later/
-www.awsyscloud.com
+awsyscloud.com
 
 # https://blog.yoroi.company/warning/nuova-campagna-di-attacco-ursnif/
 trapperhackett.info
@@ -24722,7 +24722,7 @@ aylaspa.com
 alister-mathmatics.club
 
 # https://blog.yoroi.company/research/commodity-malware-reborn-the-agenttesla-total-oil-themed-campaign/
-www.handrush.com
+handrush.com
 
 # https://blog.yoroi.company/warning/nuove-operazioni-di-attacco-gootkit/
 itp.surfpapara.com
@@ -24733,12 +24733,12 @@ cdn.areascans.com
 think1.com
 broadpeakdefense.com
 lecairtravels.com
-www.biyunhui.com
+biyunhui.com
 nautcoins.com
-www.sunflagsteel.com
+sunflagsteel.com
 hotelkrome.com
 followergods.com
-www.startupforbusiness.com
+startupforbusiness.com
 refferalstaff.com
 
 # https://blog.yoroi.company/warning/ondata-di-attacchi-contro-aziende-italiane-ursnif/
@@ -24766,7 +24766,7 @@ rgalldmn.duckdns.com
 
 # https://blog.yoroi.company/warning/pericolosa-campagna-di-attacco-trickbot/
 altxcode.com
-www.penpilot.net
+penpilot.net
 
 # https://blog.yoroi.company/research/p2p-worm-spreads-crypto-miners-in-the-wild/
 xcnpool.1gh.com
@@ -24931,11 +24931,11 @@ nuovalo.icu
 blogger.scentasticyoga.com
 link.kunstsignal.net
 # https://blog.yoroi.company/warning/campagna-di-attacco-ransomware/
-www.blogs.nwp2.xcut.pl
-www.oshorainternational.com
-www.testzagroda.hekko24.pl
-www.tehms.com
-www.mutualamcoop.com.ar
+blogs.nwp2.xcut.pl
+oshorainternational.com
+testzagroda.hekko24.pl
+tehms.com
+mutualamcoop.com.ar
 gandcrabmfe6mnef.onion
 
 # https://blog.yoroi.company/research/the-document-that-eluded-applocker-and-amsi/
@@ -24944,7 +24944,7 @@ riscomponents.pw
 # https://blog.yoroi.company/research/apex-legends-for-android-a-fake-app-could-compromise-your-smartphone/
 apexhack.site
 krater.giize.com
-www.areyouabot.net
+areyouabot.net
 
 # https://blog.yoroi.company/research/op-pistacchietto-an-italian-job/
 config01.homepc.it
@@ -25183,7 +25183,7 @@ kwebfun.com
 alongthelines.com
 insperide.nl
 sale-petit-bonhomme.com
-www.careersatltd.com
+careersatltd.com
 creativeapparel.co.uk
 rheniumsolutions.co.ke
 morsengthaithai.com
@@ -25327,11 +25327,11 @@ fillialopago.info
 felipllet.info
 
 # https://blog.yoroi.company/research/the-story-of-manuels-java-rat/
-www.thegoldfingerinc.com
+thegoldfingerinc.com
 
 # https://blog.yoroi.company/warning/campagna-di-attacco-tramite-pec/
 martatovaglieri.com
-www.flpscuolafoggia.it
+flpscuolafoggia.it
 ws.cmgsystems.it
 it.sunballast.de
 gtdspr.space
@@ -25339,7 +25339,7 @@ gtdspr.space
 # https://blog.yoroi.company/research/the-ave_maria-malware/
 sentinelx.tk
 xinchingho.ml
-www.masaimaranationalparkkenya.com
+masaimaranationalparkkenya.com
 anglekeys.warzonedns.com
 
 # https://blog.yoroi.company/warning/campagne-di-attacco-dichiarazione-dei-redditi/
@@ -25416,7 +25416,7 @@ driversearch.space
 # https://blog.yoroi.company/research/hunting-for-sofacy-lojax-double-agent-analysis/
 regvirt.com
 mail.regvirt.com
-www.regvirt.com
+regvirt.com
 
 # https://blog.yoroi.company/warning/campagna-di-attacco-ursnif-re/
 ninasukash.com
@@ -25437,7 +25437,7 @@ com-mk84.net
 
 # https://marcoramilli.com/2019/10/28/sweed-targeting-precision-engineering-companies-in-italy/
 mail.hajj.zeem.sa
-www.corpcougar.com
+corpcougar.com
 
 # https://marcoramilli.com/2019/10/14/is-emotet-gang-targeting-companies-with-external-soc/
 xsnonline.us
@@ -25457,7 +25457,7 @@ minor.minorleaguepub.com
 koohy.top
 
 # https://marcoramilli.com/2019/04/05/step-by-step-office-dropper-dissection/
-www.bilgiegitimonline.com
+bilgiegitimonline.com
 apps.identrust.com
 
 # https://marcoramilli.com/2019/02/28/ransomware-trojan-and-miner-together-against-pik-group/
@@ -26422,7 +26422,7 @@ videospanishlessons.com
 vovachka.com
 wall-runners.com
 war-arena.com
-www.scottishwindowsolutions.com
+scottishwindowsolutions.com
 z1logistics.com
 zayantetinyhomes.com
 zefeed.com
@@ -27246,7 +27246,7 @@ singleparentaustralia.com.au
 natristhub.club
 
 # https://www.zscaler.com/blogs/research/immortal-information-stealer
-www.appleidservice.jp
+appleidservice.jp
 
 # https://www.zscaler.com/blogs/research/scammers-use-cheap-and-squatted-domains-create-fake-sites
 # Fake Airline domains:
@@ -27323,7 +27323,7 @@ southwest-phone-number.com
 spiritairlines-number.com
 suncountry-airlines.com
 united-airlines-number.com
-www.united-airlines-number.com
+united-airlines-number.com
 
 # Scam domains on 185.251.39.220
 trencontrer.tk
@@ -28174,13 +28174,13 @@ microsft0x8024f008aus.cf
 microsft0x8024f0060rus.ga
 microsft0x8024f0038ru.ml
 microsft0x8024f0060rus.tk
-www.microsft0x8024f0060rus.tk
+microsft0x8024f0060rus.tk
 systemissuefix.ga
 microsft0x8024f009aus.tk
 microsft0x8024f0060rus.ml
 microsft0x8024f008aus.ml
 microsft0x8024f0060rus.gq
-www.microsft0x8024f0051rus.ga
+microsft0x8024f0051rus.ga
 microsft0x8024f0051rus.tk
 microsft0x8024f0046ru.tk
 microsft0x8024f0051rus.cf
@@ -28194,94 +28194,94 @@ microsft0x8024f0042.cf
 microsft0x8024f0040.cf
 microsft0x8024f0059rus.gq
 microsft0x8024f0039ru.ga
-www.microsft0x8024f0040.gq
+microsft0x8024f0040.gq
 microsft0x8024f0037ru.ga
-www.microsft0x8024f0059rus.tk
-www.microsft0x8024f0059rus.cf
-www.microsft0x8024f0060rus.gq
-www.microsft0x8024f0059rus.ml
-www.microsft0x8024f0059rus.gq
+microsft0x8024f0059rus.tk
+microsft0x8024f0059rus.cf
+microsft0x8024f0060rus.gq
+microsft0x8024f0059rus.ml
+microsft0x8024f0059rus.gq
 microsft0x8024f006aus.tk
 microsft0x8024f0045ru.ml
 microsft0x8024f0040.ml
 microsft0x8024f0038ru.ga
-www.microsft0x8024f0038ru.ga
+microsft0x8024f0038ru.ga
 microsft0x8024f0038ru.gq
-www.microsft0x8024f0010aus.cf
-www.microsft0x8024f006aus.ga
-www.microsft0x8024f005aus.gq
+microsft0x8024f0010aus.cf
+microsft0x8024f006aus.ga
+microsft0x8024f005aus.gq
 microsft0x8024f0038ru.cf
 microsft0x8024f0010aus.tk
 microsft0x8024f007aus.ml
 systemissuefix.cf
 microsft0x8024f0037ru.gq
-www.microsft0x8024f008aus.ml
-www.microsft0x8024f007aus.cf
-www.microsft0x8024f0010aus.gq
-www.microsft0x8024f0051rus.tk
+microsft0x8024f008aus.ml
+microsft0x8024f007aus.cf
+microsft0x8024f0010aus.gq
+microsft0x8024f0051rus.tk
 microsft0x8024f0046ru.ml
-www.microsft0x8024f0039ru.gq
-www.microsft0x8024f006aus.gq
-www.microsft0x8024f0039ru.cf
-www.microsft0x8024f006aus.cf
-www.microsft0x8024f005aus.tk
-www.microsft0x8024f005aus.ml
-www.microsft0x8024f0037ru.cf
+microsft0x8024f0039ru.gq
+microsft0x8024f006aus.gq
+microsft0x8024f0039ru.cf
+microsft0x8024f006aus.cf
+microsft0x8024f005aus.tk
+microsft0x8024f005aus.ml
+microsft0x8024f0037ru.cf
 microsft0x8024f008aus.tk
 microsft0x8024f0045ru.tk
 microsft0x8024f0045ru.ga
 microsft0x8024f008aus.gq
 microsft0x8024f008aus.ga
 microsft0x8024f0046ru.gq
-www.microsft0x8024f0037ru.ga
-www.microsft0x8024f0036ru.gq
+microsft0x8024f0037ru.ga
+microsft0x8024f0036ru.gq
 microsft0x8024f0045ru.gq
 microsft0x8024f006aus.gq
 systemissuefix.ml
 systemissue.tk
 systemissuefix.gq
 systemissue.cf
-www.microsft0x8024f0040.cf
+microsft0x8024f0040.cf
 microsft0x8024f007aus.ga
 microsft0x8024f007aus.cf
 microsft0x8024f0046ru.cf
 microsft0x8024f0043.ga
-www.systemissuefix.tk
-www.systemissuefix.gq
-www.systemissue.ml
-www.systemissue.cf
-www.systemissuefix.ml
-www.systemissuefix.ga
-www.systemissue.ga
-www.systemissue.gq
-www.systemissuefix.cf
+systemissuefix.tk
+systemissuefix.gq
+systemissue.ml
+systemissue.cf
+systemissuefix.ml
+systemissuefix.ga
+systemissue.ga
+systemissue.gq
+systemissuefix.cf
 microsft0x8024f0046ru.ga
-www.microsft0x8024f009aus.gq
-www.microsft0x8024f009aus.cf
+microsft0x8024f009aus.gq
+microsft0x8024f009aus.cf
 microsft0x8024f005aus.ga
 microsft0x8024f0019aus.ml
 microsft0x8024f0035ru.ga
 microsft0x8024f0018aus.cf
 microsft0x8024f0036ru.ga
-www.microsft0x8024f0046ru.ga
+microsft0x8024f0046ru.ga
 microsft0x8024f0023aus.cf
 microsft0x8024f0038ru.tk
 microsft0x8024f0039ru.cf
-www.microsft0x8024f0046ru.gq
-www.microsft0x8024f0046ru.tk
-www.microsft0x8024f0045ru.gq
-www.microsft0x8024f0046ru.ml
-www.microsft0x8024f0045ru.tk
-www.microsft0x8024f0045ru.ml
-www.microsft0x8024f0045ru.ga
+microsft0x8024f0046ru.gq
+microsft0x8024f0046ru.tk
+microsft0x8024f0045ru.gq
+microsft0x8024f0046ru.ml
+microsft0x8024f0045ru.tk
+microsft0x8024f0045ru.ml
+microsft0x8024f0045ru.ga
 microsft0x8024f005aus.tk
 microsft0x8024f005aus.ml
 microsft0x8024f0019aus.gq
 microsft0x8024f0043.ml
 microsft0x8024f0042.ml
 microsft0x8024f0042.gq
-www.microsft0x8024f0042.ml
-www.microsft0x8024f0042.gq
+microsft0x8024f0042.ml
+microsft0x8024f0042.gq
 microsft0x8024f0024aus.cf
 microsft0x8024f0042.ga
 microsft0x8024f0035ru.cf
@@ -28289,33 +28289,33 @@ microsft0x8024f0040.tk
 microsft0x8024f0034.cf
 microsft0x8024f0033aus.cf
 microsft0x8024f0039ru.gq
-www.microsft0x8024f0043.cf
-www.microsft0x8024f0043.ml
-www.microsft0x8024f0042.ga
-www.microsft0x8024f0042.cf
+microsft0x8024f0043.cf
+microsft0x8024f0043.ml
+microsft0x8024f0042.ga
+microsft0x8024f0042.cf
 microsft0x8024f0035ru.tk
 microsft0x8024f0035ru.ml
 microsft0x8024f0010aus.ml
-www.microsft0x8024f0043.gq
-www.microsft0x8024f0043.ga
-www.microsft0x8024f0042.tk
-www.microsft0x8024f0039ru.ga
-www.microsft0x8024f0040.tk
+microsft0x8024f0043.gq
+microsft0x8024f0043.ga
+microsft0x8024f0042.tk
+microsft0x8024f0039ru.ga
+microsft0x8024f0040.tk
 microsft0x8024f0034.tk
 microsft0x8024f0033aus.ga
-www.microsft0x8024f0040.ml
-www.microsft0x8024f0040.ga
+microsft0x8024f0040.ml
+microsft0x8024f0040.ga
 microsft0x8024f0034.ml
 microsft0x8024f0034.gq
 microsft0x8024f0018aus.ml
 microsft0x8024f0036ru.ml
-www.microsft0x8024f0038ru.cf
-www.microsft0x8024f0038ru.ml
-www.microsft0x8024f0038ru.gq
-www.microsft0x8024f0037ru.gq
-www.microsft0x8024f0038ru.tk
-www.microsft0x8024f0037ru.tk
-www.microsft0x8024f0037ru.ml
+microsft0x8024f0038ru.cf
+microsft0x8024f0038ru.ml
+microsft0x8024f0038ru.gq
+microsft0x8024f0037ru.gq
+microsft0x8024f0038ru.tk
+microsft0x8024f0037ru.tk
+microsft0x8024f0037ru.ml
 microsft0x8024f0036ru.cf
 microsft0x8024f0033aus.ml
 microsft0x8024f0033aus.gq
@@ -28323,88 +28323,88 @@ microsft0x8024f0023aus.tk
 microsft0x8024f0023aus.ml
 microsft0x8024f0023aus.gq
 microsft0x8024f0019aus.tk
-www.microsft0x8024f0019aus.tk
-www.microsft0x8024f0034.gq
+microsft0x8024f0019aus.tk
+microsft0x8024f0034.gq
 microsft0x8024f0034.ga
-www.microsft0x8024f0036ru.ga
+microsft0x8024f0036ru.ga
 microsft0x8024f0024aus.gq
 microsft0x8024f0035ru.gq
 microsft0x8024f0024aus.ga
 microsft0x8024f0033aus.tk
-www.microsft0x8024f0035ru.gq
-www.microsft0x8024f0035ru.ml
-www.microsft0x8024f0035ru.cf
-www.microsft0x8024f0036ru.cf
-www.microsft0x8024f0036ru.ml
-www.microsft0x8024f0035ru.tk
-www.microsft0x8024f0035ru.ga
+microsft0x8024f0035ru.gq
+microsft0x8024f0035ru.ml
+microsft0x8024f0035ru.cf
+microsft0x8024f0036ru.cf
+microsft0x8024f0036ru.ml
+microsft0x8024f0035ru.tk
+microsft0x8024f0035ru.ga
 microsft0x8024f006aus.ml
 microsft0x8024f0024aus.tk
 microsft0x8024f0024aus.ml
-www.microsft0x8024f0033aus.cf
-www.microsft0x8024f0034.tk
-www.microsft0x8024f0034.cf
-www.microsft0x8024f0034.ga
-www.microsft0x8024f0034.ml
-www.microsft0x8024f0033aus.tk
-www.microsft0x8024f0033aus.ga
-www.microsft0x8024f0033aus.ml
+microsft0x8024f0033aus.cf
+microsft0x8024f0034.tk
+microsft0x8024f0034.cf
+microsft0x8024f0034.ga
+microsft0x8024f0034.ml
+microsft0x8024f0033aus.tk
+microsft0x8024f0033aus.ga
+microsft0x8024f0033aus.ml
 microsft0x8024f0023aus.ga
 microsft0x8024f0022aus.tk
 microsft0x8024f0018aus.tk
 microsft0x8024f0018aus.gq
 microsft0x8024f0017aus.ml
-www.microsft0x8024f0023aus.cf
-www.microsft0x8024f0023aus.ga
-www.microsft0x8024f0024aus.ga
-www.microsft0x8024f0024aus.cf
-www.microsft0x8024f0024aus.ml
-www.microsft0x8024f0023aus.ml
-www.microsft0x8024f0023aus.gq
-www.microsft0x8024f0024aus.tk
-www.microsft0x8024f0023aus.tk
+microsft0x8024f0023aus.cf
+microsft0x8024f0023aus.ga
+microsft0x8024f0024aus.ga
+microsft0x8024f0024aus.cf
+microsft0x8024f0024aus.ml
+microsft0x8024f0023aus.ml
+microsft0x8024f0023aus.gq
+microsft0x8024f0024aus.tk
+microsft0x8024f0023aus.tk
 microsft0x8024f009aus.gq
 microsft0x8024f0019aus.ga
-www.microsft0x8024f0022aus.ml
 microsft0x8024f0022aus.ml
-www.microsft0x8024f0022aus.tk
+microsft0x8024f0022aus.ml
+microsft0x8024f0022aus.tk
 microsft0x8024f0017aus.gq
 microsft0x8024f0019aus.cf
 microsft0x8024f0017aus.ga
-www.microsft0x8024f0018aus.ga
+microsft0x8024f0018aus.ga
 microsft0x8024f0018aus.ga
 microsft0x8024f009aus.ga
-www.microsft0x8024f007aus.ml
+microsft0x8024f007aus.ml
 microsft0x8024f0017aus.tk
 microsft0x8024f0017aus.cf
 microsft0x8024f009aus.ml
 microsft0x8024f009aus.cf
-www.microsft0x8024f0017aus.cf
-www.microsft0x8024f0017aus.ga
-www.microsft0x8024f0017aus.gq
-www.microsft0x8024f0018aus.gq
-www.microsft0x8024f0018aus.tk
-www.microsft0x8024f0017aus.ml
-www.microsft0x8024f0018aus.ml
-www.microsft0x8024f0017aus.tk
-www.microsft0x8024f0018aus.cf
-www.microsft0x8024f007aus.ga
-www.microsft0x8024f0019aus.cf
-www.microsft0x8024f0019aus.ml
-www.microsft0x8024f0019aus.ga
+microsft0x8024f0017aus.cf
+microsft0x8024f0017aus.ga
+microsft0x8024f0017aus.gq
+microsft0x8024f0018aus.gq
+microsft0x8024f0018aus.tk
+microsft0x8024f0017aus.ml
+microsft0x8024f0018aus.ml
+microsft0x8024f0017aus.tk
+microsft0x8024f0018aus.cf
+microsft0x8024f007aus.ga
+microsft0x8024f0019aus.cf
+microsft0x8024f0019aus.ml
+microsft0x8024f0019aus.ga
 microsft0x8024f0010aus.cf
 microsft0x8024f006aus.cf
-www.microsft0x8024f006aus.tk
-www.microsft0x8024f0010aus.tk
-www.ioserrordetected.gq
-www.microsft0x8024f004aus.ml
-www.microsft0x8024f002aus.ml
+microsft0x8024f006aus.tk
+microsft0x8024f0010aus.tk
+ioserrordetected.gq
+microsft0x8024f004aus.ml
+microsft0x8024f002aus.ml
 microsft0x8024f002aus.ml
 microsft0x8024f003aus.ml
 microsft0x8024f003aus.ga
 ioserrordetected.ga
 ioserrordetected.tk
-www.microsft0x8024f004aus.cf
+microsft0x8024f004aus.cf
 microsft0x8024f004aus.gq
 microsft0x8024f002aus.cf
 microsft0x8024f004aus.ga
@@ -28412,56 +28412,56 @@ microsft0x8024f002aus.gq
 microsft0x8024f0010aus.gq
 microsft0x8024f005aus.gq
 microsft0x8024f002aus.tk
-www.microsft0x8024f001aus.cf
+microsft0x8024f001aus.cf
 microsft0x8024f003aus.tk
-www.microsft0x8024f002aus.cf
-www.microsft0x8024f008aus.cf
+microsft0x8024f002aus.cf
+microsft0x8024f008aus.cf
 microsft0x8024f006aus.ga
 ioserrordetected.cf
 microsft0x8024f004aus.cf
-www.microsft0x8024f002aus.tk
-www.microsft0x8024f003aus.gq
+microsft0x8024f002aus.tk
 microsft0x8024f003aus.gq
-www.microsft0x8024f003aus.ga
-www.microsft0x8024f003aus.tk
-www.microsft0x8024f003aus.ml
+microsft0x8024f003aus.gq
+microsft0x8024f003aus.ga
+microsft0x8024f003aus.tk
+microsft0x8024f003aus.ml
 ioserrordetected.gq
 ioserrordetected.ml
 microsft0x8024f007aus.gq
 microsft0x8024f004aus.ml
-www.ioserrordetected.tk
-www.ioserrordetected.ml
-www.ioserrordetected.ga
+ioserrordetected.tk
+ioserrordetected.ml
+ioserrordetected.ga
 microsft0x8024f001aus.gq
-www.microsft0x8024f002aus.gq
-www.microsft0x8024f003aus.cf
-www.microsft0x8024f001aus.ga
-www.microsft0x8024f002aus.ga
-www.microsft0x8024f001aus.gq
-www.microsft0x8024f004aus.gq
+microsft0x8024f002aus.gq
+microsft0x8024f003aus.cf
+microsft0x8024f001aus.ga
+microsft0x8024f002aus.ga
+microsft0x8024f001aus.gq
+microsft0x8024f004aus.gq
 microsft0x8024f001aus.ga
 microsft0x8024f005aus.cf
 ioserrorx7664.tk
-www.ioserrorx7664.tk
-www.microsft0x8024f004aus.tk
+ioserrorx7664.tk
+microsft0x8024f004aus.tk
 microsft0x8024f004aus.tk
 microsft0x8024f003aus.cf
 microsft0x8024f001aus.tk
-www.microsft0x8024f004aus.ga
-www.microsft0x8024f0010aus.ml
-www.microsft0x8024f001aus.tk
-www.microsft0x8024f005aus.cf
-www.microsft0x8024f007aus.gq
-www.microsft0x8024f0010aus.ga
-www.microsft0x8024f008aus.ga
-www.microsft0x8024f006aus.ml
-www.ioserrordetected.cf
+microsft0x8024f004aus.ga
+microsft0x8024f0010aus.ml
+microsft0x8024f001aus.tk
+microsft0x8024f005aus.cf
+microsft0x8024f007aus.gq
+microsft0x8024f0010aus.ga
+microsft0x8024f008aus.ga
+microsft0x8024f006aus.ml
+ioserrordetected.cf
 microsft0x8024f002aus.ga
-www.microsft0x8024f009aus.tk
-www.microsft0x8024f008aus.gq
-www.microsft0x8024f009aus.ga
-www.microsft0x8024f008aus.tk
-www.microsft0x8024f001aus.ml
+microsft0x8024f009aus.tk
+microsft0x8024f008aus.gq
+microsft0x8024f009aus.ga
+microsft0x8024f008aus.tk
+microsft0x8024f001aus.ml
 microsft0x8024f001aus.cf
 microsft0x8024f001aus.ml
 microsoft0x8024f002aus.ga
@@ -28621,12 +28621,12 @@ beundisturbedbut.tk
 alreadygoneaway.tk
 
 # https://www.zscaler.com/blogs/research/anti-coinminer-mining-campaign
-www.xmrminingpro.com
+xmrminingpro.com
 xmrminingpro.com
 coin-blocker.com
 
 # https://www.zscaler.com/blogs/research/cryptominers-and-stealers-malware-edition
-www.eraspire.com
+eraspire.com
 babalu.workscx.com
 irc.lapiscolorido.com
 ssh.lapiscolorido.com
