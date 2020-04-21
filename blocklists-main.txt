@@ -24898,6 +24898,7 @@ nuovalo.icu
 # https://blog.yoroi.company/research/the-ursnif-gangs-keep-threatening-italy/
 blogger.scentasticyoga.com
 link.kunstsignal.net
+
 # https://blog.yoroi.company/warning/campagna-di-attacco-ransomware/
 blogs.nwp2.xcut.pl
 oshorainternational.com
@@ -25382,7 +25383,6 @@ driversearch.site
 driversearch.space
 
 # https://blog.yoroi.company/research/hunting-for-sofacy-lojax-double-agent-analysis/
-regvirt.com
 mail.regvirt.com
 regvirt.com
 
@@ -26371,7 +26371,6 @@ niarhoslondon.com
 opsantorinitours.com
 progunjobs.com
 rocketpak.com
-scottishwindowsolutions.com
 silkygames.com
 snapshotsandwhatnots.com
 snotterkind.com
