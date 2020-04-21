@@ -3658,7 +3658,6 @@ kekbobbie.com
 myip.opendns.com
 t199447q.com
 minoparisi.com
-minoparisi.com
 10bonusonline24.info
 line.monalisapizzeriasi.com
 line.ivorycell.net
@@ -3703,6 +3702,7 @@ himkon.ga
 # http://www.malware-traffic-analysis.net/2019/12/27/index.html
 prajoon.000webhostapp.com
 centre-de-conduite-roannais.com
+
 
 
 
@@ -3753,7 +3753,6 @@ Update.nextdata.site
 # https://unit42.paloaltonetworks.com/cortex-xdr-detects-netsupport-manager-rat-campaign/
 # https://github.com/pan-unit42/iocs/blob/master/NetSupportManager
 geo.netsupportsoftware.com
-firstteamcareer.com
 romashka.cn
 afsasdfa33.xyz
 latamdcs.com
@@ -3807,7 +3806,6 @@ osupd.com
 mywinnetwork.ddns.net
 chromup.com
 securityupdated.com
-googlmail.net
 microsoftupdated.net
 syn.broadcaster.rocks
 googlmail.net
@@ -3876,11 +3874,8 @@ kaspersky.host
 hotmai1.com
 0utlook.bid
 service.chrome-up.date
-chrome-up.date
-chrome-up.date
 timezone.live
 service1.chrome-up.date
-chrome-up.date
 servicesystem.serveirc.com
 analytics-google.org
 microsoftsubsystem.com-adm.in
@@ -3934,7 +3929,6 @@ cswksfwq.kfesv.xyz
 Connect.bafunpda.xyz
 
 # https://unit42.paloaltonetworks.com/mirai-variant-echobot-resurfaces-with-13-previously-unexploited-vulnerabilities/
-
 # https://github.com/pan-unit42/iocs/blob/master/mirai/ECHOBOT_28thOct2019.md
 akuma.pw
 akumaiotsolutions.pw
@@ -3966,7 +3960,6 @@ jackhex.md5c.net
 lala513.gicp.net
 linkdatax.com
 logitechwkgame.com
-lzsps.ml
 mail.queryurl.com
 md.sony36.com
 md5c.net
@@ -4133,19 +4126,14 @@ string2me.com
 cdnverify.net
 ndpmedia24.com
 win10-update.com
-0-day.us
-acorn-paper.com
-asaigoldenrice.com
 brevini-france.cf
 diamondfoxpanel.ml
-fast-cargo.com
 guelphupholstery.com
 ocha-gidi.xyz
 onedrivenet.xyz
 panelonetwothree.ga
 panelonetwothree.ml
 securebotnetpanel.tk
-stemtopx.com
 stevemike-fireforce.info
 stevemikeforce.com
 t2m.io
@@ -4315,10 +4303,6 @@ DomainDomain Use
 163-i.com
 163corn.com
 180cash-out.com
-185.165.29.25
-185.165.29.51
-185.165.29.59
-193.124.178.134
 198-163.com
 1awdeb.com
 1c1c1000.com
@@ -4378,8 +4362,6 @@ DomainDomain Use
 4-tek-it.com
 40uk.duckdns.org
 433455666778.com
-46.183.222.15
-46.20.33.87
 4osandshorties.com
 4qonlinestoresintl.com.ng
 4qonlinetrade.org.ng
@@ -22982,6 +22964,7 @@ wikipeldia.org
 # https://unit42.paloaltonetworks.com/new-mirai-variant-targets-enterprise-wireless-presentation-display-systems/
 autourbe.com.co
 epicrustserver.cf
+
 
 
 
