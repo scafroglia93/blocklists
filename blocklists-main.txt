@@ -24292,8 +24292,8 @@ Wugulaf.com
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/coronavirus-update-app-leads-to-project-spy-android-and-ios-spyware/
 cashnow.ee
-spy.cashnow.ee 
-xyz.cashnow.ee 
+spy.cashnow.ee
+xyz.cashnow.ee
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/zoomed-in-a-look-into-a-coinminer-bundled-with-zoom-installer/
 2no.co
@@ -24349,7 +24349,6 @@ safetb-amazon.jp
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/outlaw-updates-kit-to-kill-older-miner-versions-targets-more-systems/
 minpop.com
-
 # https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/
 ms-ethics.net
 deb-cn.net
@@ -24394,6 +24393,7 @@ volusion-cdn.com
 1118069275.rsc.cdn77.org
 bo0uiomeglecaptures.net
 uoibppop.tk
+
 
 
 
