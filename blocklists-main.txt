@@ -3030,8 +3030,6 @@ testworks.ru
 lp.cooktracking.com
 koapkmobi.com
 ddl.okyesmobi.com
-ddl.okyesmobi.com
-ddl.okgoodmobi.com
 ddl.okgoodmobi.com
 
 # https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/
@@ -3113,7 +3111,6 @@ wb-bot.org
 jmttrading.org
 cyptian.com
 beastgoc.com
-private-kurier.com
 wb-invest.net
 wfcwallet.com
 chainfun365.com
@@ -3414,6 +3411,7 @@ benangin.com
 # https://securelist.com/roaming-mantis-part-3/88071/
 sagawa-otqwt.com
 sagawa-polsw.com
+
 
 
 
