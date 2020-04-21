@@ -23570,7 +23570,6 @@ adobe-plugin.bid
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1080
 service.pandtelectric.com
-basa.nutarborg.com
 iuyefgweoiuhf.xyz
 for.iuyefgweoiuhf.xyz
 line.largefamiliesonpurpose.com
@@ -23623,7 +23622,7 @@ dman30.ddns.net
 teddyboe34.dns.navy
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1070
-www.5spoons.com
+5spoons.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1068
 ashtoncandlecompany.com
@@ -24182,6 +24181,7 @@ aliiuyrt.xyz
 wow.doorattendants.com
 pro.prosperitybookkeeping.net
 me.jmitchelldayton.com
+
 
 
 
