@@ -1601,7 +1601,6 @@ intersys32.com
 
 # https://research.checkpoint.com/2019/preamo-a-clicker-campaign-found-on-google-play/
 res.mnexuscdn.com
-
 # https://research.checkpoint.com/2019/speakup-a-new-undetected-backdoor-linux-trojan/
 Speakupomaha.com
 Linuxservers.000webhostapp.com
@@ -1676,6 +1675,7 @@ flashplayerr.club
 
 # https://research.checkpoint.com/2018/return-festi-rootkit/
 5cm.co.za
+
 
 
 
