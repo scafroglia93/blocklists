@@ -2273,7 +2273,6 @@ iyouthen.com
 
 # drweb
 # https://news.drweb.com/list
-# https://news.drweb.com/show/?i=13746&lng=en
 
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/FakeChromeUpdate/README.adoc
 traficbouncer.xyz
@@ -2445,6 +2444,7 @@ vksecured.ru
 work.gopetrom.com
 worldofswords.net
 zastrahui.xyz
+
 
 
 
