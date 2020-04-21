@@ -2,6 +2,7 @@
 
 
 
+
 # bitdefender
 # https://labs.bitdefender.com/blog/
 
@@ -502,7 +503,6 @@ C44E9AC1C39D6F01509088DEF3046C15.online
 v01.74AE36124716F613CB65D1C467749689.online
 v01.586B50FC7C8C0677239599562BBF4FEE.online
 v01.26119DAC2973F3B9BE66CEEA938DAEAE.online
-cdncache-a.akamaihd.net
 bounce-w.top
 
 # https://labs.bitdefender.com/2019/06/an-apt-blueprint-gaining-new-visibility-into-financial-threats/
@@ -531,6 +531,7 @@ EC33503163B5789F6786C0D82B479364.online
 898799673.rsc.cdn77.org
 1898799673.rsc.cdn77.org
 hh1m.com
+
 
 
 
