@@ -3078,6 +3078,41 @@ testworks.ru
 # kaspersky
 # https://securelist.com/
 
+# https://securelist.com/apt-phantomlance/96772/
+osloger.biz
+log4jv.info
+sqllitlever.info
+anofrio.com
+anaehler.com
+viodger.com
+mine.remaariegarcia.com
+egg.stralisemariegar.com
+api.anaehler.com
+cloud.anofrio.com
+video.viodger.com
+term.ursulapaulet.com
+inc.graceneufville.com
+log.osloger.biz
+file.log4jv.info
+news.sqllitlever.info
+us.jaxonsorensen.club
+staff.kristianfiedler.club
+bit.catalinabonami.com
+hr.halettebiermann.com
+cyn.ettebiermahalet.com
+mtk.baimind.com
+ming.chujong.com
+mokkha.goongnam.com
+ckoen.dmkatti.com
+sadma.knrowz.com
+itpk.mostmkru.com
+aki.viperse.com
+game2015.net
+taiphanmemfacebookmoi.info
+nhaccuatui.android.zyngacdn.com
+quam.viperse.com
+jang.goongnam.com
+
 # https://securelist.com/unkillable-xhelper-and-a-trojan-matryoshka/96487/
 lp.cooktracking.com
 koapkmobi.com
