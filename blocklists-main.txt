@@ -23312,6 +23312,23 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/04/26/asnarok/
+sophosfirewallupdate.comt
+sophosfirewallupdate.com
+filedownloaderservers.com
+ragnarokfromasgard.com
+sophosenterprisecenter.com
+sophoswarehouse.com
+sophosproductupdate.com
+sophostraining.org
+filedownloaderserverx.com
+filedownloaderserver.com
+updatefileservercross.com
+
+# https://news.sophos.com/en-us/2020/04/24/lockbit-ransomware-borrows-tricks-to-keep-up-with-revil-and-maze/
+lockbitkodidilol.onion
+lockbitks2tvnmwk.onion
+
 # https://news.sophos.com/en-us/2020/02/25/cloud-snooper-attack-bypasses-firewall-security-measures/
 cloud.newsofnp.com
 ssl.newsofnp.com
