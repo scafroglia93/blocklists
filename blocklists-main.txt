@@ -3938,6 +3938,53 @@ centre-de-conduite-roannais.com
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/anatomy-of-formjacking-attacks/
+cheshirehorse.com
+92wear.vn
+posterburner.com
+
+# https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/
+corona-masr21.com
+corona-masr3.com
+corona-virusus.com
+allsurgicalfacemask.com
+surgicalfacemaskpharmacyonline.com
+selectsanitizer.com
+survivecoronavirus.org
+facemasksus.com
+coronavirussecrets.com
+pandemic-survival-coronavirus.com
+internet-covid19.xyz
+coronavirusaware.xyz
+covid19center.online
+Whatsapp.version.gratis
+whatsapp.cc0.co
+coronamasksupply.com
+coronavirusinrealtime.com
+coronashirts.store
+coronavirus-latest-update.info
+coronavirus-com.info
+sharkroulette.com
+covid19-remedy.com
+rxcovid.com
+anticovid19-pharmacy.com
+coronavirus2day.com
+hashtag.sslproviders.net
+coronavirus-game.ru
+buygoods.com
+corona-masr4.com
+coronaviruscovid19-information.com
+corona-virusapps.com
+covid-19-gov.com
+corona-map-data.com
+covidpreventandcure.com
+covidwhereandhow.xyz
+coronavirusstatus.space
+coronavirus123.org
+covide19cleanse.com
+cdn.dsultra.com
+sunrisepromos.com
+
 # https://unit42.paloaltonetworks.com/covid-19-themed-cyber-attacks-target-government-and-medical-organizations/
 tempinfo.96.lt
 ftp.lookmegarment.com
