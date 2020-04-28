@@ -26765,6 +26765,24 @@ executenet.pw
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/new-distribution-mechanism-nanocore-rat
+aboki0419.duckdns.org
+abokijob.hopto.org
+oluwaboi.duckdns.org
+zafia.ro
+bigworldhomes.com
+audiosv.com
+tumercarpet.com
+Lapurisima.cl
+
+# https://www.zscaler.com/blogs/research/multistage-freedom-loader-used-spread-azorult-and-nanocore-rat
+won2020.duckdns.org
+
+# https://www.zscaler.com/blogs/research/fake-vpn-sites-deliver-infostealers
+nordfreevpn.com
+ws38.watashinonegai.ru
+vpn4test.net
+
 # https://www.zscaler.com/blogs/research/new-ursnif-campaign-shift-powershell-mshta
 xolzrorth.com
 grumnoud.com
