@@ -538,6 +538,17 @@ hh1m.com
 # cert-pa
 # https://www.cert-pa.it/
 
+# https://www.cert-pa.it/notizie/campagna-malspam-sload-veicolata-in-italia-via-pec/
+nephemp.com
+joplock.eu
+zarwrite.eu
+oomovers.com
+woodlandislamiccenter.com
+
+# https://www.cert-pa.it/notizie/campagna-di-phishing-ai-danni-di-utenti-outlook/
+b1z.org
+fleingt.c1.biz
+
 # https://www.cert-pa.it/notizie/campagna-malware-android-con-riferimenti-a-inps-e-covid-19/
 inps-informa.online
 inps-iforma.online
