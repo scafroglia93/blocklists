@@ -538,6 +538,10 @@ hh1m.com
 # cert-pa
 # https://www.cert-pa.it/
 
+# https://www.cert-pa.it/notizie/campagna-malspam-con-target-italia-per-diffondere-ursnif/
+gstat.dondyablo.com
+securezza.at
+
 # https://www.cert-pa.it/notizie/campagna-malspam-sload-veicolata-in-italia-via-pec/
 nephemp.com
 joplock.eu
