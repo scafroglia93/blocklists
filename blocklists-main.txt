@@ -2462,6 +2462,38 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/04/23/eset-discovery-monero-mining-botnet-disrupted/
+scitie.ddns.net
+ddw.ddns.net
+c0d3.ddns.net
+volvo.ddns.net
+xcod.ddns.net
+mrxud.ddns.net
+d001.ddns.net
+xkm.ddns.net
+luio.ddns.net
+xcud.ddns.net
+aut2scr.ddns.net
+fanbmypersondrive.icu
+mydrivepersonpdvsa.icu
+mydrivepersonfanb.icu
+mycountermppd.xyz
+calypsoempire.ddns.net
+mgud2xd.ddns.net
+aut0hk.ddns.net
+xcud.zapto.org
+accountantlive.icu
+shittybooks.review
+hakerz123.ddns.net
+jcmewjjkyc0d3.ddns.net
+urtyerc0d3.ddns.net
+MoOHyAYeuaut2scr.ddns.net
+pNUMWWDLjPmzg.ddns.net
+gJyapcAGoc0d3.ddns.net
+OHOFqlXNJluio.ddns.net
+gulfup.me
+b.top4top.io
+
 # https://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/
 # https://github.com/eset/malware-ioc/tree/master/turla#turla-watering-hole-armenia
 armconsul.ru
