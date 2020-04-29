@@ -26800,6 +26800,27 @@ executenet.pw
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/compromised-wordpress-sites-used-distribute-adwind-rat
+digitaltextile.com.ru
+haus-pesjak.at
+eddyshatsworld.pl
+thaivictory.co.th
+herryemoore.com
+feylibertad.org
+mahalowood.com
+newsha.jsonland.ir
+stillval.com
+thediscoveryrun.com
+jeddahcrumbly.com
+dev.medialogistics2020.ca
+unks123.duckdns.org:46865
+lay.dubya.us
+fresh.ygto.com
+gwiza1988.hopto.org
+praisesalways.ddns.net
+wawa.cleansite.us
+dlee889.mywire.org
+
 # https://www.zscaler.com/blogs/research/new-distribution-mechanism-nanocore-rat
 aboki0419.duckdns.org
 abokijob.hopto.org
