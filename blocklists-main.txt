@@ -541,6 +541,9 @@ hh1m.com
 # https://www.cert-pa.it/notizie/campagna-malspam-con-target-italia-per-diffondere-ursnif/
 gstat.dondyablo.com
 securezza.at
+line.mackmclain.com
+link.sustainableworkplacewellness.com
+line.monalisapizzeriasi.com
 
 # https://www.cert-pa.it/notizie/campagna-malspam-sload-veicolata-in-italia-via-pec/
 nephemp.com
