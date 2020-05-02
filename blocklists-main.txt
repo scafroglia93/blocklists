@@ -24590,6 +24590,9 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/webmonitor-rat-bundled-with-zoom-installer/
+dabmaster.wm01.to
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/
 Bambinos.bounceme.net
 bbtt.site
