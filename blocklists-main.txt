@@ -49,7 +49,7 @@ megabitcoin.life
 mandevelopm.or
 gpetrofig.beget.tech
 
-# 3https://labs.bitdefender.com/2019/12/revisiting-glupteba-still-relevant-five-years-after-debut/
+# https://labs.bitdefender.com/2019/12/revisiting-glupteba-still-relevant-five-years-after-debut/
 # https://www.bitdefender.com/files/News/CaseStudies/study/301/Bitdefender-Glupteba-Old-Dog-New-Tricks-en-EN.pdf
 bigtext.club
 newscommer.com
@@ -3505,6 +3505,63 @@ sagawa-polsw.com
 # malware-traffic-analysis
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
+
+# https://www.malware-traffic-analysis.net/2020/05/01/index.html
+piedmontrescue.org
+ghefgekil.club
+smallhole.club
+severeconditions.xyz
+obratapres.pw
+
+# https://www.malware-traffic-analysis.net/2020/04/30/index.html
+qut69bf00e.com
+collahahhaged.us
+univerzamjw.us
+aita.mrboatstudio.com
+wkcanisius.nl
+
+# https://www.malware-traffic-analysis.net/2020/04/29/index.html
+acuendoj.us
+from adespartc.us
+arwresaub.us
+bostiwro.us
+ciflaratzz.us
+ditionith.us
+folseine.us
+joelstonem.us
+maaltijdr.us
+nisabooz.us
+ulianag.us
+sdsandrahuin.us
+seddauf.us
+wajdana.us
+zensimup.us
+advancegeneral.com
+amsterbiter.com
+annabelladekor.hu
+azparksfoundation.org
+econature-energie.com
+hundebetreuung-ri.ch
+icos.wolease-ontwikkeling.nl
+lusikkasopassa.net
+m-akashgroup.com
+maakotchen.info
+monagence.net
+multitechinduaq.com
+periotexas.com
+pioneerpune.com
+qlifamily.org
+rds.revolutioninfosystems.biz
+sanizon1.wolease-ontwikkeling.nl
+sarlatimmobilier.fr
+springparkdentistrytx.com
+sb-law.com
+taxcenterga.com
+test-pof.boosh.io
+themillionlivesproject.com
+wealthplanpartners.insure
+monio.fr
+brusce.com
 
 # http://www.malware-traffic-analysis.net/2020/04/27/index.html
 ottawacomfort.ca
