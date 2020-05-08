@@ -2294,6 +2294,16 @@ iyouthen.com
 
 
 
+# csirt-it
+# https://csirt.gov.it/contenuti
+
+# https://csirt.gov.it/contenuti/scansioni-massive-a-danno-di-siti-wordpress-e-vulnerabilita-individuata-nel-plug-in-ninja-forms-al02-200508-csirt-ita
+count.trackstatisticsss.com
+ws.stivenfernando.com
+
+
+
+
 # drweb
 # https://news.drweb.com/list
 
