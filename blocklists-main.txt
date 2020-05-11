@@ -2506,6 +2506,9 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/05/11/breaking-news-app-promises-news-brings-ddos-attacks/
+i-updater.com
+
 # https://www.welivesecurity.com/2020/04/23/eset-discovery-monero-mining-botnet-disrupted/
 scitie.ddns.net
 ddw.ddns.net
