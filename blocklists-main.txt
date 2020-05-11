@@ -26940,6 +26940,37 @@ executenet.pw
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/targeted-attacks-indian-government-and-financial-institutions-using-jsoutprox-rat
+scndppe.ddns.net
+backjaadra.ddns.net
+
+# https://www.zscaler.com/blogs/research/resurgence-qakbot-stealer-newly-registered-domains
+8bmskg.sn.files.1drv.com
+g1wf8w.dm.files.1drv.com 
+public.sn.files.1drv.com
+g1xquw.dm.files.1drv.com
+g1wf8w.dm.files.1drv.com 
+di2szw.ch.files.1drv.com 
+8bmskg.sn.files.1drv.com 
+di1jlq.ch.files.1drv.com 
+rh6zdw.by.files.1drv.com 
+pr6zdw.by.files.1drv.com 
+gofjig.dm.files.1drv.com 
+ztmjyq.sn.files.1drv.com 	
+qb6zdw.by.files.1drv.com 
+grieche.apptec24.com
+9.kamstore.com.ua
+econspiracy.se
+blog.buatvideomu.com
+intermed19.com
+greenmagicbd.com
+y-sani.com
+tianmaouae.com
+dctechdelhi.com
+themmacoach.com
+ebook.w3wvg.com
+masson.prodigyprinting.com
+
 # https://www.zscaler.com/blogs/research/compromised-wordpress-sites-used-distribute-adwind-rat
 digitaltextile.com.ru
 haus-pesjak.at
