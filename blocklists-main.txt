@@ -24880,6 +24880,11 @@ uoibppop.tk
 # yoroi
 # https://yoroi.company/blog/
 
+# https://yoroi.company/research/poulight-stealer-a-new-comprehensive-stealer-from-russia/
+fff.gearhostpreview.com
+u43692210a.ha003.t.justns.ru
+poullight.ru
+
 # https://yoroi.company/research/outlaw-is-back-a-new-crypto-botnet-targets-european-organizations/
 debian-package.center
 
