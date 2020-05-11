@@ -23387,6 +23387,11 @@ epicrustserver.cf
 # sentinelone
 # https://labs.sentinelone.com/
 
+# https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
+eustylejssync.appspot.com
+asiasyncdb.com
+officeasiaupdate.appspot.com
+
 # https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
 erasmus-plius.tomasjs.com
 easytogets.com
