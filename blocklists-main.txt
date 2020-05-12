@@ -4112,6 +4112,11 @@ centre-de-conduite-roannais.com
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/
+linkrequest.live
+matissues.com
+unique.fontsupdate.com
+
 # https://unit42.paloaltonetworks.com/anatomy-of-formjacking-attacks/
 cheshirehorse.com
 92wear.vn
