@@ -24915,6 +24915,103 @@ uoibppop.tk
 
 
 
+# uscert
+# https://www.us-cert.gov/ncas/analysis-reports
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133p
+btt5sxcx90.com
+rottastics36w.net
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133o
+nanocoatingindonesia.co.id
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133n
+nanocoatingindonesia.co.id
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133m
+indogulf.hopto.org
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133l
+marianvanherp.nl
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133i
+sharedisplay.crabdance.com
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133g
+crphone.mireene.com
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133f
+inhyunits.co.kr
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133a
+028xmz.com
+168wangpi.com
+33cow.com
+3x-tv.com
+51shousheng.com
+530hr.com
+919xy.com
+92myhw.com
+97nb.net
+aedlifepower.com
+aisou123.com
+aloe-china.com
+anlway.com
+ap8898.com
+apshenyihl.com
+as-brant.ru
+aurumgroup.co.id
+bogorcenter.com
+cabba-cacao.com
+castorbyg.dk
+creativefishstudio.com
+danagloverinteriors.com
+duratransgroup.com
+eventum.cwsdev3.biz
+eygingenieros.com
+growthincone.com
+inverstingpurpose.com
+locphuland.com
+markcoprintandcopy.com
+marmarademo.com
+matthias-dlugi.de
+new.titanik.fr
+nuokejs.com
+pakteb.com
+qdbazaar.com
+rhythm86.com
+rxrenew.us
+sensationalsecrets.com
+stokeinvestor.com
+streamf.ru
+theinspectionconsultant.com
+vinhsake.com
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133e
+urlz.fr
+
+# https://www.us-cert.gov/ncas/analysis-reports/ar20-133d
+1588-2040.co.kr
+korea-tax.info
+
+# https://www.us-cert.gov/ncas/analysis-reports/AR18-337C
+anonyme.com
+evilsecure9.wordpress.com
+followsec7.wordpress.com
+key88secu7.wordpress.com
+keytwocode.wordpress.com
+lordsecure4u.wordpress.com
+payforsecure7.wordpress.com
+secangel7d.wordpress.com
+union83939k.wordpress.com
+zeushelpu.wordpress.com
+
+# https://www.us-cert.gov/ncas/analysis-reports/AR18-337B
+jcmi5n4c3mvgtyt5.onion
+
+
+
+
 # yoroi
 # https://yoroi.company/blog/
 
