@@ -4112,8 +4112,94 @@ centre-de-conduite-roannais.com
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/hoaxcalls-mirai-target-legacy-symantec-web-gateways/
+plexle.us
+
 # https://unit42.paloaltonetworks.com/updated-backconfig-malware-targeting-government-and-military-organizations/
 unique.fontsupdate.com
+
+# https://unit42.paloaltonetworks.com/covid-19-themed-malware-within-cloud-environments/
+kplico.com
+teknik.io
+tempinfo.96.it
+unlimitedimportandexport.com
+
+# https://unit42.paloaltonetworks.com/silverterrier-covid-19-themed-business-email-compromise/
+academydea.com
+coffiices.com
+goldenlion.sg
+ladbible.com
+mecharnise.ir
+mikeservers.eu
+modcloudserver.eu
+petroindonesia.co.id
+posqit.net
+reynoldsgh.com
+sylvaclouds.eu
+uzoclouds.eu
+welheadcontrol.com
+12kungwsdyducationaldeveloperinvestmenty.duckdns.org
+6uniteddefenceforstdygorvermentsocialeme.duckdns.org
+americanmicrosoftclouddepartment.duckdns.org
+antipiracydetectorganisationforwsdy3film.duckdns.org
+bbchenkotsdywoolandpappercompanybnhs5.duckdns.org
+chinoex2onlineantibullyandgeneralxpstdy5.duckdns.org
+chnes9wealthandstdyorganisationsumit.duckdns.org
+chneswealstdy8thandorganisationjokbo.duckdns.org
+chneswealthandorganisationstdy7joppl.duckdns.org
+chneswsdy13wealthandmoduleorganisationrn.duckdns.org
+chneswsdy8wealthandorganisationjokbo.duckdns.org
+chnfrndsecurityandgorvermentstdy1socialf.duckdns.org
+chnfrndsub1inteligentangencysndy4project.duckdns.org
+chnfrndtsdysecurityandgorvermentsocialjf.duckdns.org
+chnfrndwsdy1securityandgorvermentsocialf.duckdns.org
+cloudfilesharingdomainurllinksys.duckdns.org
+crimedetectivefor1stdygorvermentndsocial.duckdns.org
+empowermentorganisationstday1government.duckdns.org
+engin3worldstdydevelopmentandtechnology.duckdns.org
+engintsdy3worlddevelopmentandtechnology.duckdns.org
+fileexchangeserverprotocolsystemintergra.duckdns.org
+filegotosecureothers.duckdns.org
+frndgreen1frdycreamcostmeticsladiesshop.duckdns.org
+frndgreen3creamwsdycostmeticsbabystored.duckdns.org
+globaltransfersecurefilethroughcloud.duckdns.org
+green9wsdyelectronicsandkitchenappliance.duckdns.org
+investmenteducationkungykmtsdy8agender.duckdns.org
+kung11ducationalstdydeveloperinvestmenty.duckdns.org
+kung13eduationalstdydeveloperinvestmenty.duckdns.org
+kungeducationalinvestment8tusdyagender.duckdns.org
+kungfrdyeducationalinvestment8agender.duckdns.org
+kungglobalinvestmenteductgpmstdy8addres.duckdns.org
+kungglobalinvestmentjpjeductaddres5stdy.duckdns.org
+kungglobalinvestmentjpjwsdy6eductaddres.duckdns.org
+kungstdy7globalinvestmentjmpeductaddres.duckdns.org
+kungwsdy7globalinvestmentjmpeductaddres.duckdns.org
+livevideoremoteconference.duckdns.org
+mastervisacloudesystemprtomicrosftwareus.duckdns.org
+msofficeinternatiinalfilecloudtransfer.duckdns.org
+msofficewordfiletransfertotheadmintrue.duckdns.org
+office365securefilegatewaytransfer.duckdns.org
+omentradinginternationalprivateltd.duckdns.org
+prodigtsdy5organizationalcompanygroupin.duckdns.org
+russchine2specialstdy1plumbingmaterialsv.duckdns.org
+russchine2specialstdy2plumbingmaterialgh.duckdns.org
+russchine2wsdy1specialplumbingmaterialsv.duckdns.org
+russchine2wsdyspecial6plumbingjkmaterial.duckdns.org
+shgshg13nationalwsdyobjindustrialatempt.duckdns.org
+shgshg9nationalobjwsdyindustrialgoogler.duckdns.org
+shgshgnationalindustrialwsdy8googleklm.duckdns.org
+shgshgnationalobjindustrialstdy10atempt.duckdns.org
+shgshgnstdy7ationalindustrialgoogleklm.duckdns.org
+shgshgstdy9nationalobjindustrialgoogle.duckdns.org
+silentexploitfileexchangerzeroday.duckdns.org
+tescogroseryand1wsdayelectronicstorehome.duckdns.org
+tescohomegroseryandelectronicstday2store.duckdns.org
+tescostday1groseryandelectronicstorehome.duckdns.org
+webxpostdytechnologyhardsoftware5buyers.duckdns.org
+wewewewewesesesesasbacwederffggffddsss.duckdns.org
+windowsdefenderwithfiewallprotocolsecure.duckdns.org
+windowsfirewallprotcolsecuritysystem.duckdns.org
+worldengindevelopnw7stdymenttechnology.duckdns.org
 
 # https://unit42.paloaltonetworks.com/anatomy-of-formjacking-attacks/
 cheshirehorse.com
@@ -26778,18 +26864,18 @@ backjaadra.ddns.net
 
 # https://www.zscaler.com/blogs/research/resurgence-qakbot-stealer-newly-registered-domains
 8bmskg.sn.files.1drv.com
-g1wf8w.dm.files.1drv.com 
+g1wf8w.dm.files.1drv.com
 public.sn.files.1drv.com
 g1xquw.dm.files.1drv.com
-g1wf8w.dm.files.1drv.com 
-di2szw.ch.files.1drv.com 
-8bmskg.sn.files.1drv.com 
-di1jlq.ch.files.1drv.com 
-rh6zdw.by.files.1drv.com 
-pr6zdw.by.files.1drv.com 
-gofjig.dm.files.1drv.com 
-ztmjyq.sn.files.1drv.com 	
-qb6zdw.by.files.1drv.com 
+g1wf8w.dm.files.1drv.com
+di2szw.ch.files.1drv.com
+8bmskg.sn.files.1drv.com
+di1jlq.ch.files.1drv.com
+rh6zdw.by.files.1drv.com
+pr6zdw.by.files.1drv.com
+gofjig.dm.files.1drv.com
+ztmjyq.sn.files.1drv.com
+qb6zdw.by.files.1drv.com
 grieche.apptec24.com
 9.kamstore.com.ua
 econspiracy.se
@@ -29439,8 +29525,3 @@ gokickes.com
 # windshift
 flux2key.com
 string2me.com
-
-
-
-
-
