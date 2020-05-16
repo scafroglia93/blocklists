@@ -3556,6 +3556,96 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+# http://www.malware-traffic-analysis.net/2020/05/14/index2.html
+177-73-231-37-user-conectivainfor.com.br
+46-10-204-78.btc-net.bg
+84-21-193-190.ip.btc-net.bg
+cgw-211-24-72-139.bbrtl.time.net.my
+dynrak234g-9-10-67-105.inwitelecom.net
+host173-17-static.58-217-b.business.telecomitalia.it
+posta.studionagra.it
+17.5studio.eu
+cloudacademies.p
+cornetresearch.co.uk
+endoukensetsu.co.jp
+gjvtri.org
+guardolificiosteni.com
+gwirelessfresno.com
+healthyat60plus.com
+lacantine.life
+onlinerouletteinaustralia.com
+realestatebyc.com
+sidomaripublishing.com
+stavkovekurzy.24livescore.sk
+taxirueti.ch
+vahidfoundation.org
+all-pro-handel.de
+ballesdegolfaveclogo.com
+carreraderecho.com
+dittvel.com
+freakshowfilms.net
+immobilier-gelas.com
+lgsports.se
+tahvilnedir.com
+primetropics.com
+bssz.se
+debaat-chiropractoren.nl
+knihanavstevpolovnehoreviru.sk
+langhundra.nu
+re-alist.nl
+staging1.driteksolutions.com
+
+# https://app.any.run/tasks/fdc5e34f-1f77-4043-bf0d-08de95051433/
+vincenzos.ug
+sorrentino.ug
+
+# http://www.malware-traffic-analysis.net/2020/05/12/index.html
+angelqtbw.us
+ariankacf.us
+arzenitlu.us
+falhiblaqv.us
+hotteswc.us
+ppugsasiw.us
+pufuletzpb.us
+brisbaneair.com
+carbonne-immobilier.com
+edgewaterunitedmethodist.org
+iris.gov.mn
+masterstvo.org
+consultationdocteurpronobis.fr
+degalmun.jjcars.es
+azparksfoundation.org
+equineantipoaching.com
+rudhyog.in
+betaalbare-website.be
+boosh.io
+inter-dekor.hr
+abogadoaccidenteslaboralesen-madrid.com
+
+# https://pastebin.com/CdReThSS
+acessogeek.com
+agetic-adm.gouv.ml
+allianceship.net
+alwatadpharma.com
+anhvienakay.vn
+betarg.com
+bookpeopleunite.org
+boxmusic.com.br
+bw4limo.us
+choptaswisscamp.in
+cinnamonmagazine.com
+civtecafrica.com
+convergenciaglobal.com
+cricktracksafaris.com
+dcthatta.gov.pk
+derodeantraciet.be
+edisun.vn
+energyfutureconf.com
+enjoy-tv.com
+rentbishop.com
+robertsonoptical.com
+tjgdjt.net.cn
+
 # https://www.malware-traffic-analysis.net/2020/05/11/index.html
 ffermwyrzf.us
 harukihotarugf.us
