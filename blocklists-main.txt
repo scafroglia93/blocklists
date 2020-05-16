@@ -23986,7 +23986,6 @@ ftp.0603bye.info
 js.0603bye.info
 js.ftp1202.site
 ftp.ftp1202.site
-192.187.111.66
 down.down0116.info
 down.mys2018.xyz
 down.wpdtest1017.site
@@ -28280,7 +28279,6 @@ natristhub.club
 appleidservice.jp
 
 # https://www.zscaler.com/blogs/research/scammers-use-cheap-and-squatted-domains-create-fake-sites
-# Fake Airline domains:
 aegeanairlines.online
 aerlingus-airlines.com
 aero-mexico.com
@@ -28354,8 +28352,6 @@ southwest-phone-number.com
 spiritairlines-number.com
 suncountry-airlines.com
 united-airlines-number.com
-
-# Scam domains on 185.251.39.220
 trencontrer.tk
 tifarrterdr.tk
 viterfamill.tk
@@ -29076,8 +29072,6 @@ eausignifie.tk
 caceeffectu.tk
 altomberhom.tk
 uffireorgan.tk
-
-# host-185-251-39-220.hosted-by-vdsina.ru
 lestimerpla.tk
 rvoirprsiden.tk
 hainmainten.tk
@@ -29090,8 +29084,6 @@ essantgarde.tk
 mobilepost.icu
 passwordmonitor.icu
 raportlogin.icu
-
-# Scam domains on 185.251.39.181
 uxsemblermi.tk
 couvrirmoye.tk
 lcomposerma.tk
@@ -29172,8 +29164,6 @@ mobileindividuel.icu
 cabinetshare.icu
 loginpicture.icu
 monitoraccount.icu
-
-# Techsupport scam domains on 216.10.249.196 targeting Microsoft users
 criticalsupporterrorservices.ml
 criticalsupporterrorservices.tk
 criticalsupporterrorservices.gq
