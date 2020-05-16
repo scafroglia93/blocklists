@@ -2374,7 +2374,6 @@ xyi-sosi-guboi-trisi.xyz
 cherry-pot.top
 fastscreen.ru
 torrent-igri.com
-румайнкрафт.рф
 clearcheats.ru
 worldcodes.ru
 mmotalks.com
@@ -28159,7 +28158,7 @@ master-of-bitcoin.net
 ea-no7.net
 tebarameatsfiji.com
 rosyheartsfiji.com
-mytripland.com:80
+mytripland.com
 alonhadat24h.vn
 thinkmonochrome.co.uk
 hanggiadungduc.vn
