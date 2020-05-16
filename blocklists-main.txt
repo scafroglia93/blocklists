@@ -1,10 +1,24 @@
 # hosts-blocklists
+# blocklists-main
 
 
 
 
 # bitdefender
 # https://labs.bitdefender.com/blog/
+
+# https://labs.bitdefender.com/2020/05/mandrake-owning-android-devices-since-2016/
+# https://www.bitdefender.com/files/News/CaseStudies/study/329/Bitdefender-PR-Whitepaper-Mandrake-creat4464-en-EN-interactive.pdf
+androidfirmware.ca
+androidfirmware.cc
+androidfirmware.ir
+androidfirmware.top
+androidfrimware.com
+android-soft.top
+livingstream.mobi
+nfmmlrkagflemt.top
+rendfiles.top
+xjkbhysexthnpl.top
 
 # https://labs.bitdefender.com/2020/04/new-dark_nexus-iot-botnet-puts-others-to-shame/
 # https://www.bitdefender.com/files/News/CaseStudies/study/319/Bitdefender-PR-Whitepaper-DarkNexus-creat4349-en-EN-interactive.pdf
