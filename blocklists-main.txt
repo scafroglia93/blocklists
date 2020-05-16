@@ -28668,6 +28668,56 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/05/14/raticate/
+allenservice.ga
+gelcursot.top
+negrodesigns.ga
+pitchstak.ga
+stngpetty.ga
+webxpo.ga
+gelcursot.top
+pitchstak.ga
+binzom.com
+cbespania.info
+conrak.net
+coxemen.com
+czxpkj.com
+dachfix.com
+ef-oh.com
+hearee.com
+hsctsu.com
+hypnose-beziers.com
+jevmod.com
+jinshasoft.com
+lighthouse-campus24.com
+miscov.com
+odoyo.net
+oleum.gmbh
+phochain.com
+pizzans.com
+pupilfy.com
+ratokasutka.com
+rdrfi.com
+skylod.com
+slashoff.com
+sofisleep.com
+tellpizzqhut.com
+terenium.com
+vibe.restaurant
+yamatobb.com
+yncits89.com
+bywebhost.com
+tucson1989.duckdns.org
+pedrobedoya201904.duckdns.org
+cashout2018.ddns.de
+mail.newmedicacare.com
+mail.jrdigitalstore.com
+mail.koyo.com.my
+mail.qoa.com.my
+mail.sedirectory.com.my
+mail.arkazo.com
+mail.alhilaly-group.com
+
 # https://news.sophos.com/en-us/2020/04/26/asnarok/
 sophosfirewallupdate.comt
 sophosfirewallupdate.com
