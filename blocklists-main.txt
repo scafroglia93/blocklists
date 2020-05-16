@@ -29270,8 +29270,13 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
-https://www.tgsoft.it/italy/news_archivio.asp?id=1086
-manage.hosting.aruba.it
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1087
+lintux.ir
+ptankers.com
+bilkas.eu
+tarfros.eu
+illionback.eu
+zapforyou.eu
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1085
 victorlascos.tech
