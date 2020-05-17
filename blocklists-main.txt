@@ -32319,6 +32319,13 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/glupteba-campaign-exploits-mikrotik-routers-still-large
+deepsound.live
+sndvoices.com
+2makestorage.com
+cloudcast.best
+hotgifts.online
+
 # https://www.zscaler.com/blogs/research/targeted-attacks-indian-government-and-financial-institutions-using-jsoutprox-rat
 scndppe.ddns.net
 backjaadra.ddns.net
