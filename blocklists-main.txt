@@ -7,6 +7,16 @@
 # bitdefender
 # https://labs.bitdefender.com/blog/
 
+# https://labs.bitdefender.com/2020/05/iranian-chafer-apt-targeted-air-transportation-and-government-in-kuwait-and-saudi-arabia/
+# https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf
+dropboxengine.com
+redjewelry.biz
+apigoogle-accounts.biz
+update-microsoft.space
+
+# https://labs.bitdefender.com/2020/05/android-malware-in-covid-19-clothes-steals-sms-and-contacts/
+flyrosebifr.webhop.me
+
 # https://labs.bitdefender.com/2020/05/mandrake-owning-android-devices-since-2016/
 # https://www.bitdefender.com/files/News/CaseStudies/study/329/Bitdefender-PR-Whitepaper-Mandrake-creat4464-en-EN-interactive.pdf
 androidfirmware.ca
