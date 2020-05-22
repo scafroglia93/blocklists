@@ -2529,6 +2529,17 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
+# https://github.com/eset/malware-ioc/tree/master/winnti_group
+n8.ahnlabinc.com
+owa.ahnlabinc.com
+ssl2.ahnlabinc.com
+www2.dyn.tracker.com
+ssl2.dyn-tracker.com
+client.gnisoft.com
+nmn.nhndesk.com
+ssl.lcrest.com
+
 # https://www.welivesecurity.com/2020/05/11/breaking-news-app-promises-news-brings-ddos-attacks/
 i-updater.com
 
