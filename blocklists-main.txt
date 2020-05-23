@@ -29797,6 +29797,12 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/05/21/asnarok2/
+ragnarokfromasgard.com
+updatefileservercross.com
+filedownloaderservers.com
+9sg.me
+
 # https://news.sophos.com/en-us/2020/05/14/raticate/
 allenservice.ga
 gelcursot.top
