@@ -32440,6 +32440,45 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/update-javascript-skimmer-enhancements
+tags-analitic.icu
+felers.club
+targetad.icu
+tags-bootstrap.icu
+tags-app.icu
+tagapp.icu
+ssecurapi.club
+secrityipa.club
+cdnjustuno.icu
+analitic.club
+sucurl.net
+sucuritester.com
+linkedtop.com
+comanio.github.io
+magento-security.org
+magesource.su
+marketplace-magento.com
+cdn.qraved.co
+cdn.soundpublishing.com
+assets-js.com
+ahf.co.uk
+dedelicate.com
+googe-js-config.com
+gooogletagsmanager.com
+jquerystatic.net
+jquerylib.at
+jquery-js.com
+jquery-us.com
+jquerycdn.at
+cyberrock.com.br
+cycloneletterwinners.org
+1mp8ms2wyy5i3rqkyt2rrmh2-wpengine.netdna-ssl.com
+1t8b9hnzn9kozmrk1jwyk11i-wpengine.netdna-ssl.com
+3tzn49xkui340zbygcwudh19-wpengine.netdna-ssl.com
+
+# https://www.zscaler.com/blogs/research/latest-version-amadey-introduces-screen-capturing-and-pushes-remcos-rat
+sh1091505.a.had.su
+
 # https://www.zscaler.com/blogs/research/glupteba-campaign-exploits-mikrotik-routers-still-large
 deepsound.live
 sndvoices.com
