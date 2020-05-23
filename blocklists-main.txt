@@ -30346,6 +30346,11 @@ prcp.mygoodsday.org
 # symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/greenbug-espionage-telco-south-asia
+apps.vvvnews.com 
+vsiegru.com 
+kopilkaorukov.com 
+
 # https://www.symantec.com/blogs/threat-intelligence/increase-emotet-spam-observed-blocked-symantec
 urwww.4celia.com
 capsaciphone.com
