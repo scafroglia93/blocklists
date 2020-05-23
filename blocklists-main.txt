@@ -31080,6 +31080,13 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-devil-shadow-botnet-hidden-in-fake-zoom-installers/
+hosting303.000webhostapp.com
+madleets.ddns.net
+
+# https://blog.trendmicro.com/trendlabs-security-intelligence/qnodeservice-node-js-trojan-spread-via-covid-19-lure/
+central.qhub.qua.one
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-troopers-back-usbferry-attack-targets-air-gapped-environments/
 # https://documents.trendmicro.com/assets/Tech-Brief-Tropic-Trooper-s-Back-USBferry-Attack-Targets-Air-gapped-Environments.pdf
 dpponline.trickip.org
