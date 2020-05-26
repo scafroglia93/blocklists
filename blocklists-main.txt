@@ -4134,6 +4134,10 @@ testworks.ru
 # kaspersky
 # https://securelist.com/
 
+# https://securelist.com/in-app-advertising-in-android/97065/
+ti.domainforlite.com
+uu.domainforlite.com
+
 # https://securelist.com/apt-phantomlance/96772/
 osloger.biz
 log4jv.info
