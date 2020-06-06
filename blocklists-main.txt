@@ -37248,6 +37248,9 @@ jcmi5n4c3mvgtyt5.onion
 # yoroi
 # https://yoroi.company/blog/
 
+# https://yoroi.company/research/new-cyber-operation-targets-italy-digging-into-the-netwire-attack-chain/
+cloudservices-archive.best
+
 # https://yoroi.company/research/cyber-criminal-espionage-operation-insists-on-italian-manufacturing/
 atn-com.pw
 
