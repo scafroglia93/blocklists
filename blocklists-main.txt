@@ -8813,6 +8813,41 @@ testworks.ru
 # kaspersky
 # https://securelist.com/
 
+# https://securelist.com/cycldek-bridging-the-air-gap/97157/
+web.laovoanew.com
+tinmoi.vieclamthemde.com
+kinhte.chototem.com
+news.trungtamwtoa.com
+mychau.dongnain.com
+hcm.vietbaonam.com
+login.thanhnienthegioi.com
+luan.conglyan.com
+toiyeuvn.dongaruou.com
+tintuc.daikynguyen21.com
+web.laomoodwin.com
+login.giaoxuchuson.com
+lat.conglyan.com
+thegioi.kinhtevanhoa.com
+laovoanew.com
+cdn.laokpl.com
+login.dangquanwatch.com
+info.coreders.com
+thanhnien.vietnannnet.com
+login.diendanlichsu.com
+login.vietnamfar.com
+cophieu.dcsvnqvmn.com
+nghiencuu.onetotechnologys.com
+tinmoi.thoitietdulich.com
+khinhte.chinhsech.com
+images.webprogobest.com
+web.hcmuafgh.com
+news.cooodkord.com
+24h.tinthethaoi.com
+quocphong.ministop14.com
+nhantai.xmeyeugh.com
+thoitiet.yrindovn.com
+hanghoa.trenduang.com
+
 # https://securelist.com/in-app-advertising-in-android/97065/
 ti.domainforlite.com
 uu.domainforlite.com
