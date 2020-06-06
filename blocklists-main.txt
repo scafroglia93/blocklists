@@ -6077,6 +6077,23 @@ hh1m.com
 
 
 
+# cert-agid
+# https://cert-agid.gov.it/
+
+# https://cert-agid.gov.it/news/indennita-covid-19-distribuito-malware-apk-tramite-falso-sito-inps/
+inps-it.top
+greedyduck.top
+
+# https://cert-agid.gov.it/news/campagna-di-phishing-ai-danni-di-clienti-aruba/
+aruba-di.blogspot.com
+aruba-di.com
+
+# https://cert-agid.gov.it/news/campagna-ransomware-fuckunicorn-sfrutta-emergenza-covid-19/
+fofl.it
+
+
+
+
 # cert-pa
 # https://www.cert-pa.it/
 
