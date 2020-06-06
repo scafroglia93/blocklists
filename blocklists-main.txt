@@ -5525,9 +5525,6 @@ ztm.webcindario.com
 manitolapara.webcindario.com
 verifi-card.webcindario.com
 
-
-
-
 # https://labs.bitdefender.com/2020/05/iranian-chafer-apt-targeted-air-transportation-and-government-in-kuwait-and-saudi-arabia/
 # https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf
 dropboxengine.com
@@ -7862,6 +7859,120 @@ iyouthen.com
 
 # csirt-it
 # https://csirt.gov.it/contenuti
+
+# https://csirt.gov.it/contenuti/siti-di-phishing-ai-danni-di-istituti-bancari-italiani-al04-200604-csirt-ita
+poste-it-pay-fcc-html.com
+poste-it-pay-fcc-jod-html.com
+poste-it-pay-fcc-jod.com
+poste-it-pay-fcc.com
+stabilisci-nuova-sicurezza.com
+auitoaccessomail.com
+bpolsbloccare5333.com
+intesasanpaolo-it-login.com
+it-authentication-fcc-job-fcc.com
+it-jod-fcc-fcc-authentication.com
+aggiorna-dati.info
+aggiornamento. info
+appintesa.com
+assistenza-gruppoisp.com
+gruppointesaisp.info
+infodati-020.com
+info-dati-020.com
+infosecurepsd2mps.com
+intesa-sicura-cliente.com
+nexi-aggiorna.com
+psd2intesaweb.com
+sicurezza-bancobpm.com
+verificaisp.online
+web-dati2020.online
+protocollo-poste-l1taliane.com
+aggiarnamentointesasanpaolo.com
+aggiornamento-updt.com
+direttivasicurezza.online
+m-cartablocco-unicreditonline-verificare.com
+protocollo-poste-ltaliane.com
+remissione-carta-isp.com
+riemissione-carta-isp.com
+security-fineco.com
+sicurezzaaggiornamentiintesa.com
+sicurezza-web.site
+sicuro-accesso.com
+sicurezza-web.cloud
+
+# https://csirt.gov.it/contenuti/campagne-di-diffusione-del-trojan-bancario-ursnif-al01-200601-csirt-ita
+gstat.couturefloor.com
+line.starlightgroupllc.com
+line.mbclegacyllc.net
+gstat.peshtigodental.com
+gstat.premiamo.eu
+gstat.secundamo.com
+gstat.secundato.com
+gstat.secundato.net
+gstat.securezal.com
+gstat.securezal.xyz
+gstat.sloleaks.com
+gstat.ylonnsalonchicago.com
+attenzione.hazlotumismapr.com
+client.seamospracticas.com
+
+# https://csirt.gov.it/contenuti/nuova-versione-comrat-al01-200528-csirt-ita
+arinas.tk
+bedrost.com
+branter.tk
+bronerg.tk
+celestyna.tk
+crusider.tk
+davilta.tk
+deme.ml
+dixito.ml
+duke6.tk
+elizabi.tk
+hofa.tk
+hunvin.tk
+lakify.ml
+lindaztert.net
+misters.ml
+pewyth.ga
+sameera.gq
+sanitar.ml
+sumefu.gq
+umefu.gq
+vefogy.cf
+vylys.com
+wekanda.tk
+anger.scieron.com
+eu-travellyta.dns-report.com
+ftp.callsoft.mrbasic.com
+ftp.ceremon.2waky.com
+ftp.fueldust.compress.to
+ftp.geraldic.zzux.com
+ftp.linear.wikaba.com
+ftp.mysterysoft.epac.to
+ftp.onlineshop.sellclassics.com
+ftp.robot.wikaba.com
+ftp.tower7.epac.to
+ftp.zebra.wikaba.com
+mouses.strangled.net
+pneumo.mooo.com
+razory.mooo.com
+showme.twilightparadox.com
+stager.ignorelist.com
+callsoft.mrbasic.com
+ceremon.2waky.com
+foods.jkub.com
+fueldust.compress.to
+geraldic.zzux.com
+linear.wikaba.com
+mysterysoft.epac.to
+nexus.x24hr.com
+onlineshop.sellclassics.com
+progress.zyns.com
+robot.wikaba.com
+robotech.lflink.com
+scrabble.ikwb.com
+tellmemore.4irc.com
+tower7.epac.to
+zebra.wikaba.com
 
 # https://csirt.gov.it/contenuti/scansioni-massive-a-danno-di-siti-wordpress-e-vulnerabilita-individuata-nel-plug-in-ninja-forms-al02-200508-csirt-ita
 count.trackstatisticsss.com
