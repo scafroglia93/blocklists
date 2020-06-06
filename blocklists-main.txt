@@ -7983,6 +7983,7 @@ ws.stivenfernando.com
 
 # drweb
 # https://news.drweb.com/list
+# https://github.com/DoctorWebLtd/malware-iocs
 
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/FakeChromeUpdate/README.adoc
 traficbouncer.xyz
