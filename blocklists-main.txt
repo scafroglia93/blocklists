@@ -36224,6 +36224,26 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1095
+gstat.llbntv.com
+bizzznez.com
+bizzznez.org
+billionaire.ddns.net
+
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1094
+dnsaa.net
+
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1089
+fofl.it
+gstat.echowin.com
+line.xuexiaomi.com  
+lame-mht.duckdns.org
+wshsoft.company
+consulttrus.org
+consaltinger.com
+line.beibiandmom.com
+gstat.ddoborguild.com
+
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1088
 gstat.getlearningsolutions.com
 gstat.securitiessupportunit.com
