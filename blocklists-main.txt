@@ -36155,6 +36155,11 @@ prcp.mygoodsday.org
 # symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sms-phishing-coronavirus
+Scotia-0nline.com
+client-7492703.online
+uk-covid-19.webredirect.org
+
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/greenbug-espionage-telco-south-asia
 apps.vvvnews.com 
 vsiegru.com 
