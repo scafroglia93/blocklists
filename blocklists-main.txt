@@ -8341,6 +8341,12 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-malspam-distribuisce-agent-tesla-al01-200609-csirt-ita
+dextrotrading.com 
+
+# https://csirt.gov.it/contenuti/continua-la-campagna-di-distribuzione-di-apk-malevoli-tramite-finti-siti-inps-al01-200608-csirt-ita
+comunicazioneinps.top
+
 # https://csirt.gov.it/contenuti/siti-di-phishing-ai-danni-di-istituti-bancari-italiani-al04-200604-csirt-ita
 poste-it-pay-fcc-html.com
 poste-it-pay-fcc-jod-html.com
