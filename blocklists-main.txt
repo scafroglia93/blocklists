@@ -9297,6 +9297,20 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+# http://www.malware-traffic-analysis.net/2020/06/08/index2.html
+ziddat.com
+
+# http://www.malware-traffic-analysis.net/2020/06/08/index.html
+jkp-standard.rs
+cockadoodledont.com
+hpvideo.tv/pzuoiepmui
+idecorfurnitures.com
+old.manuengelen.be
+noseaceptandevoluciones.com
+artdeko.lt
+hd-school.com.ua
+salwadm.com
+
 # http://www.malware-traffic-analysis.net/2020/06/03/index2.html
 a-zcorner.com
 knockoutlights.com
