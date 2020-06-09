@@ -36107,6 +36107,35 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/06/09/kingminer-report/
+# https://github.com/sophoslabs/IoCs/blob/master/Troj-Kingmine
+q.112adfdae.tk
+a.1b051fdae.tk
+1d28ebfdae.com
+3096bfdae.com
+ww33.3096bfdae.com
+q.30263fdae.tk
+309cffdae.tk
+3190cfdae.com
+aa.30583fdae.tk
+q.30583fdae.tk
+w.30713fdae.tk
+qqqw.3113cfdae.com
+qqqw1.3113cfdae.com
+ww.3113cfdae.com
+31524fdae.com
+a.5c12fdae.tk
+a.869d4fdae.tk
+aqwxrfghh.com
+l.aqwxrfghh.com
+brydfghh.com
+w.ddff1.tk
+a.qwerr.ga
+ll.homewrt.com
+w1.hamewrt.com
+w.homewrt.com
+w1.homewrt.com
+
 # https://news.sophos.com/en-us/2020/05/21/asnarok2/
 ragnarokfromasgard.com
 updatefileservercross.com
