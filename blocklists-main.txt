@@ -8341,6 +8341,13 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/identificata-apk-malevola-che-sfrutta-lemergenza-covid19-al04-200611-csirt-ita
+inps-informa.website
+inps-forma.online
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-malspam-di-agent-tesla-al02-200611-csirt-ita
+mail.ductoslimpios.com.mx
+
 # https://csirt.gov.it/contenuti/campagna-di-malspam-distribuisce-agent-tesla-al01-200609-csirt-ita
 dextrotrading.com 
 
