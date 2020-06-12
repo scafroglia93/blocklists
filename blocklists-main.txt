@@ -37444,6 +37444,20 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/new-android-spyware-actionspy-revealed-via-phishing-attacks-from-earth-empusa/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29
+gotossl.ml
+goforssl.top
+geo2ipapi.org
+appbuliki.com
+umutyole.com
+t.freenunn.com
+start.apiforssl.com
+bloomberg.com.cm
+static.apiforssl.com
+cdn.doublesclick.me
+static.doublesclick.info
+status.search-sslkey-flush.com
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-devil-shadow-botnet-hidden-in-fake-zoom-installers/
 hosting303.000webhostapp.com
 madleets.ddns.net
