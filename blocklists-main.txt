@@ -39491,13 +39491,19 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/return-higaisa-apt
+sixindent.epizy.com
+goodhk.azurewebsites.net
+zeplin.atwebpages.com
+comcleanner.info
+
 # https://www.zscaler.com/blogs/research/new-campaign-abusing-stackblitz-tool-host-phishing-pages
 js-pgrnce.stackblitz.io
-wny.asia/a/linkage.php
-autojovi4x4.com/usa.html
+wny.asia
+autojovi4x4.com
 angular-ivy-aabnsh.stackblitz.io
 angular-ivy-yfhcr3.stackblitz.io
-notas.dyndns.dk/del3/login.php
+notas.dyndns.dk
 1nxbcc-hedxe8.stackblitz.io
 2podk-ff4mtn.stackblitz.io
 6eyyd-zjrnne.stackblitz.io
