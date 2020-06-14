@@ -8341,6 +8341,11 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-phishing-ai-danni-di-utenti-amazon-al03-200612-csirt-ita
+sellercentral.amazon.ids901.ooguy.com 
+earnmoney.lk 
+ooguy.com 
+
 # https://csirt.gov.it/contenuti/identificata-apk-malevola-che-sfrutta-lemergenza-covid19-al04-200611-csirt-ita
 inps-informa.website
 inps-forma.online
