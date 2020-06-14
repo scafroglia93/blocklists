@@ -37417,6 +37417,14 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1096
+consaltin.com
+consaltin.org
+gstat.llbntv.org
+gstat.vmf216.com
+egamcorps.ga
+alphastand.trade
+
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1095
 gstat.llbntv.com
 bizzznez.com
