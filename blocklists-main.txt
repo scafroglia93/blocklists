@@ -966,6 +966,17 @@ duniaenewsportal.ddns.net
 # bitdefender
 # https://labs.bitdefender.com/blog/
 
+# https://labs.bitdefender.com/2020/06/bitterapt-revisited-the-untold-evolution-of-an-android-espionage-tool/
+# https://www.bitdefender.com/files/News/CaseStudies/study/352/Bitdefender-PR-Whitepaper-BitterAPT-creat4571-en-EN-GenericUse.pdf
+blitzchatlog.ddns.net
+flashnewsservice.org
+gandharaart.org
+mypicks4u.com
+phoneshieldnet.com 
+playupdateapp.serveblog.net
+spiceworld.rf.gd
+techfront.com.cn
+
 # https://labs.bitdefender.com/2020/06/banking-trojan-metamorfo-hijacks-trusted-apps-to-run-malware/
 # https://www.bitdefender.com/files/News/CaseStudies/study/333/Bitdefender-PR-Whitepaper-Metamorfo-creat4500-en-EN-GenericUse.pdf
 buleva.webcindario.com
