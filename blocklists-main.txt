@@ -6932,6 +6932,44 @@ s4egy.com
 # checkpoint
 # https://research.checkpoint.com
 
+# https://research.checkpoint.com/2020/phishing-campaign-exploits-samsung-adobe-and-oxford-servers/
+t.email1.samsung.ca
+t-email1.ottawashowers.ca
+t-email1.instantytpresence.com
+flycloud.co.il
+cosmos.org.in
+iyak.org.tr
+ankit-gupta.co.in
+istern.co.il
+junestore.club
+popskill.net
+yourhindinews.com
+mrdigitalduniya.com
+vrpublicnews.com
+learndigitalseo.com
+ghassociates.co.in
+yournewstv.com
+codewithjustin.com
+pretrendy.com
+dalelaganj.com
+getfasternews.com
+bloggingthenews.com
+wpbasket.co.il
+acornmagic.club
+heaccountabilitycollective.com
+legaltax.in
+cbcvietnam.org
+zeriio.com
+ww.indoxxi.pl
+espinozaweb.net
+rumahcendekiaunj.com
+beatanyinvestment.club
+activedomain53.com
+absoluteaesthetics.co.uk
+tremplinedu.com
+iamkongu.com
+kwentongnoypi.com
+
 # https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/
 realteks.gjdredj.com
 spool.jtjewifyn.com
