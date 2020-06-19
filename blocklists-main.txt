@@ -8755,6 +8755,38 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/
+# https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf
+153.re
+adstat.red
+adtrax.net
+akamai.sytes.net
+amz-eu401.com
+blabla234342.sytes.net
+mx1.be
+statad.de
+time.servehttp.com
+upd.re
+update.xn--6frz82g
+updatecloud.sytes.net
+updchecking.sytes.net
+wlsts.net
+
+# https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/
+# https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_Operation_Interception.pdf
+# https://github.com/eset/malware-ioc/tree/master/interception
+cwjamaica.biz
+sbsserv.camdvr.org
+km.wu.ac.th
+safebrowsing.gleeze.com
+markham.ca
+online.verzatec.com
+nic.mywire.org
+chuta.jp
+comnet.aev.com
+servicediscovery.kozow.com
+w3.casacam.net
+
 # https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/
 # https://github.com/eset/malware-ioc/tree/master/gamaredon
 abdurs.space
