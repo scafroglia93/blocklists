@@ -6096,6 +6096,14 @@ hh1m.com
 # cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/campagna-massiva-jasperloader-veicola-ftcode-via-pec/
+documento.jescy.com
+documento.mialeeka.com
+documento.haileywilkinson.com
+documento.selltokengarffhonda.com
+documento.noothercouncil.com
+z2uymda1mtk.top
+
 # https://cert-agid.gov.it/news/indennita-covid-19-distribuito-malware-apk-tramite-falso-sito-inps/
 inps-it.top
 greedyduck.top
