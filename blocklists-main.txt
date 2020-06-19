@@ -10089,6 +10089,12 @@ testworks.ru
 # kaspersky
 # https://securelist.com/
 
+# https://securelist.com/microcin-is-here/97353/
+apps.uzdarakchi.com
+forum.uzdarakchi.com
+forum.mediaok.info
+owa.obokay.com
+
 # https://securelist.com/cycldek-bridging-the-air-gap/97157/
 web.laovoanew.com
 tinmoi.vieclamthemde.com
