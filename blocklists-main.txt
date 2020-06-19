@@ -8403,6 +8403,38 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-massiva-jasperloader-veicola-ftcode-via-pec-al02-200618-csirt-ita
+documento.jescy.com
+documento.mialeeka.com
+documento.haileywilkinson.com
+documento.selltokengarffhonda.com
+documento.noothercouncil.com
+z2uymda1mtk.top
+
+# https://csirt.gov.it/contenuti/exploit-sfrutta-la-vulnerabilita-remote-code-execution-in-exim-mta-al01-200618-csirt-ita
+hostapp.be
+
+# https://csirt.gov.it/contenuti/campagna-spam-di-trickbot-sfrutta-il-tema-black-lives-matter-al01-200617-csirt-ita
+vmrriktf.monster
+ygzggxeh.monster
+mnjcszrh.monster
+shmbidgp.monster
+copsbiau.monster
+
+# https://csirt.gov.it/contenuti/attacchi-a-pulse-secure-vpn-al02-200615-csirt-ita
+host.cutestboty.com
+keepass.cutestboty.com
+anno1119.com
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-malspam-di-ursnif-nuovi-ioc-17-06-al01-200615-csirt-ita
+link.icloudcowboy.com
+gstat.peshtigodental.com
+gstat.vmf216.com
+line.harpbyrequest.com
+gstat.sloleaks.com
+line.monalisapizzeriasi.com
+line.orangetheorymb.com
+
 # https://csirt.gov.it/contenuti/campagna-di-phishing-ai-danni-di-utenti-amazon-al03-200612-csirt-ita
 sellercentral.amazon.ids901.ooguy.com 
 earnmoney.lk 
