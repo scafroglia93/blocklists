@@ -955,6 +955,11 @@ xn--navyfderal-36a.com
 xn--navyfedera-j0b.org
 yandex-account-security.com
 
+# https://github.com/AmnestyTech/investigations/tree/master/2020-06-15_india
+researchplanet.zapto.org
+socialstatistics.zapto.org
+duniaenewsportal.ddns.net
+
 
 
 
