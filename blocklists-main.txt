@@ -36823,6 +36823,9 @@ zzkehui-cn.com
 # sentinelone
 # https://labs.sentinelone.com/
 
+# https://labs.sentinelone.com/inside-a-trickbot-cobaltstrike-attack-server/
+wizardmagik.best
+
 # https://labs.sentinelone.com/sarwent-malware-updates-command-detonation/
 whatsmyhomeworthlondonontario.ca
 beurbn.com
