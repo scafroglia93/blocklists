@@ -10092,6 +10092,9 @@ testworks.ru
 # kaspersky
 # https://securelist.com/
 
+# https://securelist.com/oh-what-a-boot-iful-mornin/97365/
+bamo.ocry.com:
+
 # https://securelist.com/microcin-is-here/97353/
 apps.uzdarakchi.com
 forum.uzdarakchi.com
