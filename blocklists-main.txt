@@ -37508,6 +37508,9 @@ prcp.mygoodsday.org
 # symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sodinokibi-ransomware-cobalt-strike-pos
+d2zblloliromfu.cloudfront.net
+
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sms-phishing-coronavirus
 Scotia-0nline.com
 client-7492703.online
