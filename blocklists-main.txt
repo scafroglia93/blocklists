@@ -36931,6 +36931,7 @@ bitcoinsmaker.site
 # https://github.com/sophoslabs/IoCs
 
 # https://news.sophos.com/en-us/2020/06/24/glupteba-report/
+# https://github.com/sophoslabs/IoCs/blob/master/Trojan-Glupteba
 anotheronedom.com
 bestblues.tech
 easywbdesign.com
