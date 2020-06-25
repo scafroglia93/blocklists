@@ -36930,6 +36930,31 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/06/24/glupteba-report/
+anotheronedom.com
+bestblues.tech
+easywbdesign.com
+gamedate.xyz
+getfixed.xyz
+gfixprice.xyz
+maxbook.space
+robotatten.com
+sleepingcontrol.com
+sndvoices.com
+whitecontroller.com
+myonetime.top
+venoxcontrol.com
+pathmyonetime.top
+1.podcast.best
+capmusic.ru
+fundbook.xyz
+hotaction.online
+netoftime.com
+hotbooks.xyz
+infocarnames.ru
+maxbook.site
+setbird.website
+
 # https://news.sophos.com/en-us/2020/06/09/kingminer-report/
 # https://github.com/sophoslabs/IoCs/blob/master/Troj-Kingmine
 q.112adfdae.tk
