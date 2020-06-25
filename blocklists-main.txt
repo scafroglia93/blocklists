@@ -8403,6 +8403,14 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-malspam-di-masslogger-al02-200624-csirt-ita
+geohydroconsult.com 
+klisa.com.tr
+opticaoptigral.cl
+
+# https://csirt.gov.it/contenuti/campagna-di-lokibot-colpisce-utenze-italiane-al01-200624-csirt-ita
+nnasout.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-agent-tesla-al02-200623-csirt-ita
 mail.protege.com.mx 
 
