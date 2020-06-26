@@ -37614,6 +37614,16 @@ adobe-plugin.bid
 # tgsoft
 # http://www.tgsoft.it/italy/news_list.asp
 
+# https://www.tgsoft.it/italy/news_archivio.asp?id=1099
+xoptutorials.com
+nerfvbg.eu
+calipoolslv.com
+tech-vopsire.ro
+alphastand.trade
+kbfvzoboss.bid
+line.lifeartphotographers.com
+gstat.thecrowband.com
+
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1097
 documento.reevesandcompany.com
 documento.madeintaylors.com
