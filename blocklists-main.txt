@@ -40014,6 +40014,10 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/taurus-new-stealer-town
+bit-browser.gq
+Atest001.website
+
 # https://www.zscaler.com/blogs/research/targeted-attack-leverages-india-china-border-dispute-lure-victims
 userimage8.360doc.com
 image91.360doc.com
