@@ -8406,6 +8406,18 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-sfrutta-tema-del-coronavirus-per-veicolare-bootkit-rovnix-al02-200626-csirt-ita
+ruclient.dns04.com
+alex.dnset.com
+bamo.ocry.com
+loge.otzo.com
+edge.microft.dynssl.com
+0077.x24hr.com
+microft.dynssl.com 
+
+# https://csirt.gov.it/contenuti/nuovi-ioc-relativi-alla-campagna-malspam-di-trickbot-al02-200625-csirt-ita
+memberlogin.cloud
+
 # https://csirt.gov.it/contenuti/campagna-malspam-di-masslogger-al02-200624-csirt-ita
 geohydroconsult.com 
 klisa.com.tr
