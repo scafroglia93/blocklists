@@ -6932,6 +6932,9 @@ s4egy.com
 # checkpoint
 # https://research.checkpoint.com
 
+# https://research.checkpoint.com/2020/the-return-of-the-bot-shop-crew/
+pkalexeivic.com
+
 # https://research.checkpoint.com/2020/phishing-campaign-exploits-samsung-adobe-and-oxford-servers/
 t.email1.samsung.ca
 t-email1.ottawashowers.ca
