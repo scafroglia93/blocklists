@@ -12741,6 +12741,13 @@ executenet.pw
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/cryptojacking-docker-images-for-mining-monero/
+73avhutb24chfsh6.onion
+5pwcq42aa42fjzel.onion
+
+# https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/
+qf2020.top
+
 # https://unit42.paloaltonetworks.com/los-zetas-from-eleethub-botnet/
 eleethub.com
 irc.eleethub.com
