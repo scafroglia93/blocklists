@@ -8781,6 +8781,10 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/06/24/new-ransomware-uses-covid19-tracing-guise-target-canada-eset-decryptor/
+covid19tracer.ca
+tracershield.ca
+
 # https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/
 # https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf
 153.re
