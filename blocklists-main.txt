@@ -9944,7 +9944,6 @@ secure-imrworldwide.com
 danchimviet.info
 wfpscripts.homeunix.com
 cdn-ampproject.com
-danviet.vn
 io.blogsite.org
 danviethouston.com
 your-ip.getmyip.com
