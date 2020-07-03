@@ -8406,6 +8406,69 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/finta-fattura-brt-veicola-il-malware-ursnif-al01-200703-csirt-ita
+lavorosubordinatosmartw.org 
+
+# https://csirt.gov.it/contenuti/aggiornamento-campagna-di-malspam-che-veicola-avaddon-al01-200701-csirt-ita
+transip.digital 
+
+# https://csirt.gov.it/contenuti/codice-malevolo-per-sottrarre-dati-di-pagamento-nei-metadati-di-immagini-al02-200701-csirt-ita
+cddn.site
+magentorates.com
+pixasbay.com
+lebs.site
+bestcdnforbusiness.com
+apilivechat.com
+undecoveria.com
+wosus.site
+jqueryanalise.xyz
+jquery-analitycs.com
+xciy.net
+yxxi.net
+cxizi.net
+yzxi.net
+sonol.site
+webtrans.site
+koinweb.site
+xoet.site
+ads-fbstatistic.com
+bizrateservices.com
+towbarchat.com
+teamsystems.info
+j-queries.com
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-malspam-che-veicola-jasperloader-nuovi-ioc-01-07-al01-200701-csirt-ita
+documents.hopedaletech.com
+documents.cfmontessori.com
+z2uymda1mtk.top
+documents.catherineschepise.com
+documents.olivasmarket.com
+mamontenius.club
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-malspam-di-ursnif-nuovi-ioc-30-06-al02-200630-csirt-ita
+gstat.peshtigodental.com
+gstat.securityguardlisting.com
+222.222.67.208.in-addr.arpa
+gstat.sloleaks.com
+gstat.securezal.com
+gstat.securezal.xyz
+gstat.secundato.com
+gstat.secundato.net
+gstat.secundamo.com
+gstat.premiamo.eu
+gstat.premiamo.com
+gstat.securezzas.com
+gstat.securezzis.net
+gstat.securanto.net
+gstat.securanto.com
+line.ehrlum.com
+
+# https://csirt.gov.it/contenuti/malware-lucifer-sfrutta-vulnerabilita-critiche-per-impattare-i-sistemi-windows-al01-200628-csirt-ita
+yzzswt.com
+pool.supportxmr.com
+gulf.moneroocean.stream
+qf2020.top
+
 # https://csirt.gov.it/contenuti/campagna-sfrutta-tema-del-coronavirus-per-veicolare-bootkit-rovnix-al02-200626-csirt-ita
 ruclient.dns04.com
 alex.dnset.com
