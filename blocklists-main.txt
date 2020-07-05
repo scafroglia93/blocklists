@@ -40113,6 +40113,11 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/cybergate-rat-and-redline-stealer-delivered-ongoing-autoit-malware-campaigns
+resisproject.me
+resisproject.cc
+yellowbag.top
+
 # https://www.zscaler.com/blogs/research/taurus-new-stealer-town
 bit-browser.gq
 Atest001.website
