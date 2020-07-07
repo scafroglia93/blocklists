@@ -8406,6 +8406,12 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-malspam-distribuisce-formbook-al01-200705-csirt-ita
+easterncarryoutva.com
+cifcolorado.com
+yofdyk.com
+kungwsdycommunicationtariffsuplier30mgh.duckdns.org
+
 # https://csirt.gov.it/contenuti/finta-fattura-brt-veicola-il-malware-ursnif-al01-200703-csirt-ita
 lavorosubordinatosmartw.org 
 
