@@ -6127,6 +6127,10 @@ hh1m.com
 # cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/finta-comunicazione-dellagenzia-delle-entrate-veicola-il-malware-ursnif/
+gstat.262productions.com
+gstat.peshtigodental.com
+
 # https://cert-agid.gov.it/news/campagna-massiva-jasperloader-veicola-ftcode-via-pec/
 documento.jescy.com
 documento.mialeeka.com
