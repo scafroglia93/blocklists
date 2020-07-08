@@ -963,6 +963,37 @@ duniaenewsportal.ddns.net
 
 
 
+# avast
+# https://blog.avast.com/topic/threat-research
+# https://decoded.avast.io/
+# https://github.com/avast/ioc
+
+# https://blog.avast.com/avast-finds-banking-trojan-cerberus-on-google-play-avast
+goldegrillz.top
+
+# https://blog.avast.com/apt-attack-targets-central-asian-companies-avast
+# https://decoded.avast.io/luigicamastra/apt-group-planted-backdoors-targeting-high-profile-networks-in-central-asia/
+# https://github.com/avast/ioc/tree/master/Microcin
+kliju.wulinon.com
+offcialwrittencomplaint.com
+heroisshit.com
+update.heroisshit.com
+runtime.heroisshit.com
+ans.moutw.com
+612bb.sheetsbrandnewday.com
+qrot.apjgtipty.com
+bzz.utakatarefrain.com
+app.obokay.com
+nan.thanhale.com
+bestrongerlouder.com
+log.bestrongerlouder.com
+9hnvb8917gzr.com
+future-hope2011.com
+yuemt.zzux.com
+
+
+
+
 # bitdefender
 # https://labs.bitdefender.com/blog/
 
