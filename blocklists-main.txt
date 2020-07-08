@@ -8437,6 +8437,44 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-ursnif-veicolata-attraverso-finto-messaggio-dhl-impatta-utenze-italiane-al01-200708-csirt-ita
+casevacenze2020top.com 
+uncomfermed.com 
+
+# https://csirt.gov.it/contenuti/nuovi-ioc-della-campagna-ursnif-agenzia-delle-entrate-al02-200707-csirt-ita
+gstat.sergiocilli.com
+line.winneratlaw.com
+
+# https://csirt.gov.it/contenuti/strongpity3-utilizzato-per-il-furto-di-dati
+upd-ncx4-server.com
+upd3-srv-system-app.com
+syse-update-app4.com
+upd32-secure-serv4.com
+system2-cdn5-mx8.com
+secure-upd21-app2.com
+ms21-app3-upload.com
+apt5-secure3-state.com
+upd8-sys2-apt.com
+update5-sec3-system.com
+state-awe3-apt.com
+app-system2-update.com
+awe232-service-app.com
+ms6-upload-serv3.com
+updt-servc-app2.com
+cdn2-system3-secrv.com
+file3-netwk-system.com
+service-net2-file.com
+system2-access-sec43.com
+ms-sys-security.com
+mailtransfersagents.com
+hostoperationsystems.com
+inhousesoftwaredevelopment.com
+mentiononecommon.com
+safecopydisk.com
+fileservingpro.com
+network-msx-system33.com
+mx3-rewc-state.com	
+
 # https://csirt.gov.it/contenuti/campagna-di-malspam-distribuisce-formbook-al01-200705-csirt-ita
 easterncarryoutva.com
 cifcolorado.com
