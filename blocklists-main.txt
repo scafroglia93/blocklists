@@ -8441,6 +8441,12 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-email-di-phishing-dellagenzia-delle-entrate-veicola-ursnif-al02-200708-csirt-ita
+gstat.careinmexico.com
+zdesigns-studio.net 
+gstat.sloleaks.com
+gstat.peshtigodental.com
+
 # https://csirt.gov.it/contenuti/campagna-ursnif-veicolata-attraverso-finto-messaggio-dhl-impatta-utenze-italiane-al01-200708-csirt-ita
 casevacenze2020top.com 
 uncomfermed.com 
