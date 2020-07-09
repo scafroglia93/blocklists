@@ -10772,6 +10772,45 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+# http://www.malware-traffic-analysis.net/2020/07/01/index.html
+407.cd.gov.mn
+bangrajan.org
+centruldeinfoliere.ro
+detayworx.com
+hipnosesemlimites.com.br
+konkanparadise.com
+pelatihanspss.com
+sql-experts.com
+delandwinebar.com
+yongcan0f.com
+2020aix.com
+31pces-walk.com
+59siwf-farm.com
+61wsov-ring.com
+ldrhonda.casa
+sweeteator.best
+plutiasitop.top
+
+# http://www.malware-traffic-analysis.net/2020/06/30/index.html
+anacatellieventos.com.br
+conserviengenharia.com.br
+cursosler.com.br
+digifish3.com
+lartabea.org.br
+nasproje.com
+ocean2river.com
+staging-emama.kinsta.cloud
+stega.com.br
+sx-facemask.com
+tarimelaletleri.com
+technodroidstore.tk
+aloveschool.com
+ctbrt.com
+naturestyle-moebel.com
+99swus-game.com
+64kapd-bowl.com
+19sped-lane.com
+
 # http://www.malware-traffic-analysis.net/2020/06/26/index.html
 dy5x1.com
 ofxvp.com
