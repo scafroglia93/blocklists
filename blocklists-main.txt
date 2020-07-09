@@ -8932,6 +8932,15 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+# https://github.com/eset/malware-ioc/tree/master/evilnum
+api.win640.com
+api.adobe.com.kz
+cdn.lvsys.com
+d2nz6secq3489l.cloudfront.net
+faxing-mon.best
+json.ama-prime-client.com
+
 # https://www.welivesecurity.com/2020/06/24/new-ransomware-uses-covid19-tracing-guise-target-canada-eset-decryptor/
 covid19tracer.ca
 tracershield.ca
