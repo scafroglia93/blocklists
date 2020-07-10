@@ -8444,6 +8444,24 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+
+# https://csirt.gov.it/contenuti/ursnif-veicolato-anche-tramite-file-word-al02-200708-csirt-ita
+gofast22gfor.com
+qumogtromb2a.com
+vpsrating.top
+35lvt.com
+softson.ru
+lha-sa.ru
+lets-drink.ru
+amehota2gfgh.com
+ioyyf.com
+e9bja.com
+nix4e.com
+9ygw2.com
+
+# https://csirt.gov.it/contenuti/phishing-per-la-diffusione-di-avaddon-al02-200707-csirt-ita
+tldrnet.top
+
 # https://csirt.gov.it/contenuti/nuova-email-di-phishing-dellagenzia-delle-entrate-veicola-ursnif-al02-200708-csirt-ita
 gstat.careinmexico.com
 zdesigns-studio.net 
