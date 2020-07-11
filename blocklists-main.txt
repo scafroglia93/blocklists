@@ -38904,6 +38904,10 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/new-mirai-variant-expands-arsenal-exploits-cve-2020-10173/
+methcnc.duckdns.org
+methscan.duckdns.org
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/us-local-government-services-targeted-by-new-magecart-credit-card-skimming-attack/
 cdns-static.com
 renew-analytics.com
