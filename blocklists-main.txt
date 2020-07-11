@@ -40288,6 +40288,9 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/deep-dive-m00nd3v-logger
+m00nd3v.com
+
 # https://www.zscaler.com/blogs/research/cybergate-rat-and-redline-stealer-delivered-ongoing-autoit-malware-campaigns
 resisproject.me
 resisproject.cc
