@@ -6127,6 +6127,14 @@ hh1m.com
 # cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/campagna-sload-v-2-9-3-veicolata-via-pec/
+sheyenneweber.com
+mzgotech.com
+sirisms.com
+peliculadeestreno.com
+ponmer.eu
+lwyhef.eu
+
 # https://cert-agid.gov.it/news/finta-comunicazione-dellagenzia-delle-entrate-veicola-il-malware-ursnif/
 gstat.262productions.com
 gstat.peshtigodental.com
