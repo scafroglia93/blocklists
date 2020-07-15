@@ -37782,6 +37782,20 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2020/07/14/raticate-rats-as-service-with-commercial-crypter/
+# https://github.com/sophoslabs/IoCs/blob/master/malware-raticate-cloudeye.csv
+castmart.ga
+pitchstak.ga
+stngpetty.ga
+farsson.com
+ggautosrep.ga
+anransd.com
+nyoxibwer.com
+glowtey.com
+allenservice.ga
+bbbr1.ddns.com.br
+jevuknz34ronf3pl.onion
+
 # https://news.sophos.com/en-us/2020/06/24/glupteba-report/
 # https://github.com/sophoslabs/IoCs/blob/master/Trojan-Glupteba
 anotheronedom.com
