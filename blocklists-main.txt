@@ -38481,6 +38481,7 @@ adobe-plugin.bid
 
 
 # tgsoft
+# https://www.tgsoft.it/italy/news_list.asp
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1106
 gstat.sergiocilli.com
