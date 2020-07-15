@@ -11041,6 +11041,37 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+# http://www.malware-traffic-analysis.net/2020/07/14/index.html
+1bwsl4.com
+804gtd.com
+m33xa3.com
+n9i9ep.com
+nm5oi0.com
+uhq943.com
+ldrglobal.casa
+slizilinno.top
+portivitto.top
+mramoritto.top
+
+# http://www.malware-traffic-analysis.net/2020/07/13/index2.html
+84-21-193-56.ip.btc-net.bg
+peronotis.com
+
+# http://www.malware-traffic-analysis.net/2020/07/13/index.html
+consorciorebeck.com
+cultivodepeces.com
+nadismedia.com
+shopgiachuan.com
+sportbettingdubuque.com
+sylviesanteminceur.net
+kovenant.hu
+mac-rail.com
+overnightfile.com
+accesoeducativo.com
+gaw.explik.at
+api10.apgolop.at
+api10.v8engine.at
+
 # http://www.malware-traffic-analysis.net/2020/07/09/index2.html
 9ygw2.com
 e9bja.com
