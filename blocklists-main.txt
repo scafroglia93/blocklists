@@ -8452,6 +8452,9 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/attivita-di-scanning-per-sfruttare-vulnerabilita-citrix-al02-200714-csirt-ita
+hostwindsdns.com
+
 # https://csirt.gov.it/contenuti/compromissione-di-domini-su-infrastruttura-azure-al01-200712-csirt-ita
 360stage.stahls.com
 analytics.glamst.com
