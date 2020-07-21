@@ -8452,6 +8452,9 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-di-lokibot-colpisce-utenze-italiane-al02-200717-csirt-ita
+colorlux.ro
+
 # https://csirt.gov.it/contenuti/attivita-di-scanning-per-sfruttare-vulnerabilita-citrix-al02-200714-csirt-ita
 hostwindsdns.com
 
