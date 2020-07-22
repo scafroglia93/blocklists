@@ -8452,6 +8452,16 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-bl01-200721-csirt-ita
+beeba.io
+techyhint.com
+oraripersonale.metodoinforma.it
+metanor.gr
+bnemati.ir
+dainiksomoy24.com
+zahran-eg.com
+addahealingmusic.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-di-lokibot-colpisce-utenze-italiane-al02-200717-csirt-ita
 colorlux.ro
 
