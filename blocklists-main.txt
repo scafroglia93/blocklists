@@ -13368,6 +13368,21 @@ executenet.pw
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
+# https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/
+rdmsi.com
+rsshay.com
+sharjatv.com
+wwmal.com
+allsecpackupdater.com
+tacsent.com
+acrlee.com
+kopilkaorukov.com
+digi.shanx.icu
+tprs-servers.eu
+oudax.com
+kizlarsoroyur.com
+intelligent-finance.site
+
 # https://unit42.paloaltonetworks.com/cryptojacking-docker-images-for-mining-monero/
 73avhutb24chfsh6.onion
 5pwcq42aa42fjzel.onion
