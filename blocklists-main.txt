@@ -8452,6 +8452,22 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuovi-ioc-per-jasperloader-al02-200723-csirt-ita
+wws.saltwatercrew.com
+reality.relevelled.com
+mobile-refund.ca
+mobile-refund.fund
+files.backroadboutique.com
+files.backroadboutique.us
+files.backroadboutique.net
+files.backroadboutique.info
+new-grant-premium-accreditation.icu
+files.lauragoes.com
+webiiite.org
+files.weeklywakeup.com
+files.orinb.com
+files.truxtunroad.com
+
 # https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-bl01-200721-csirt-ita
 beeba.io
 techyhint.com
@@ -8461,6 +8477,8 @@ bnemati.ir
 dainiksomoy24.com
 zahran-eg.com
 addahealingmusic.com
+postpolicy.it
+musei.basilicata.beniculturali.it
 
 # https://csirt.gov.it/contenuti/nuova-campagna-di-lokibot-colpisce-utenze-italiane-al02-200717-csirt-ita
 colorlux.ro
