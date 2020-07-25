@@ -8452,6 +8452,17 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/formbook-contro-utenze-italiane
+cookfrenzy.com
+jrgqbs.com
+arbgh.com
+855v.net
+didunmenye.com
+swankitty.com
+nuraniqq.com
+dinosaurlanddaily.com
+mailetcinc.com
+
 # https://csirt.gov.it/contenuti/nuovi-ioc-per-jasperloader-al02-200723-csirt-ita
 wws.saltwatercrew.com
 reality.relevelled.com
