@@ -39542,6 +39542,10 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/updates-on-thiefquest-the-quickly-evolving-macos-malware/
+andrewka6.pythonanywhere.com
+lemareste.pythonanywhere.com
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/new-mirai-variant-expands-arsenal-exploits-cve-2020-10173/
 methcnc.duckdns.org
 methscan.duckdns.org
