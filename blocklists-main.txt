@@ -9308,6 +9308,23 @@ zastrahui.xyz
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
+# https://github.com/eset/malware-ioc/tree/master/gmera
+repbaerray.pw
+macstockfolio.com
+latinumtrade.com
+trezarus.com
+trezarus.net
+cointrazer.com
+apperdenta.com
+narudina.com
+nagsrsdfsudinasa.com
+cupatrade.com
+stepbystepby.com
+licatrade.com
+creditfinelor.com
+maccatreck.com
+
 # https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
 # https://github.com/eset/malware-ioc/tree/master/evilnum
 api.win640.com
