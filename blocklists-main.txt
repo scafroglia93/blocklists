@@ -8452,6 +8452,71 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-ursnif-attraverso-finto-sollecito-di-pagamento-brt-al04-200728-csirt-ita
+inviatotutoneladon.com
+gestioneinbizzotutto.com
+
+# https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-ioc-aggiornati-28-07-al02-200728-csirt-ita
+arrd.ro
+bazarot.com
+bartboutens.nl
+benluckman.com
+yeichner.com
+ballooneo.com
+www.bendys.com.au
+biomayest.com
+www.shablingo.com
+ximboo.com
+billandroger.com
+artewebestudio.com
+azjones.info
+bcpcircle.com
+biglaughs.org
+
+# https://csirt.gov.it/contenuti/individuata-nuova-versione-del-ransomware-phobos-al01-200728-csirt-ita
+backgrounds.pk
+jamshed.pk
+tarssdsfdfsdr23.ru
+zaragozsa.ug
+zaragoza.co.ug
+skdjgfbsdkjbfns3423.ru
+marckapiksa.ug
+levitts.ug
+levitt.ug
+tribunal.ug
+uytgvhdfsdxc.ug
+qd34gf23.ru
+time234wa234rper346465432.ug
+timebound.ug
+dgdfasddfs.ru
+bnixons.ug
+timekeeper.ug
+leatherlites.ug
+myhostiger.ug
+myhostest.ug
+triathlethe.ug
+nvbcdfsvxcs.ug
+qd34g34ewdfsf23.ru
+vcxxzazxc.ug
+band.pk
+imobiles.pk
+marketprice.pk
+micozup.ru
+dailyvideos.pk
+aaron.ug
+sprakitiktitkitik2322225431.ru
+kanorkanor23.ru
+alexliasko.ug
+aleaiasko.ug
+alexliasko.co.ug
+shopandpop.su
+boundertime.ru
+marcakass.ug
+evanhopping.com
+
+# https://csirt.gov.it/contenuti/identificato-nuovo-framework-per-la-distribuzione-di-mata-bl01-200728-csirt-ita
+Mobielbankierenbetaalverzoek.live
+
 # https://csirt.gov.it/contenuti/formbook-contro-utenze-italiane
 cookfrenzy.com
 jrgqbs.com
