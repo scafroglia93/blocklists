@@ -8452,6 +8452,9 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/malware-pony-distribuito-ad-utenti-italiani-tramite-campagna-malspam-al01-200804-csirt-ita
+kboyud.com 
+
 # https://csirt.gov.it/contenuti/finte-email-di-rimborso-finalizzate-al-furto-di-credenziali-al04-200731-csirt-ita
 ni4377884-1.web13.nitrado.hosting
 ni4377260-1.web17.nitrado.hosting
