@@ -8452,6 +8452,13 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/finte-email-di-rimborso-finalizzate-al-furto-di-credenziali-al04-200731-csirt-ita
+ni4377884-1.web13.nitrado.hosting
+ni4377260-1.web17.nitrado.hosting
+
+# https://csirt.gov.it/contenuti/nuova-ondata-di-campagne-guloader-distribuisce-formbook-sfruttando-brand-dhl-al03-200731-csirt-ita
+fbdoskitryupanel.webredirect.org
+
 # https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-al02-200731-csirt-ita
 eldridgelondon.com
 jojofun.co.uk
