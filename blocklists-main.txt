@@ -11759,7 +11759,6 @@ nzssdm.com
 
 # https://securelist.com/operation-shadowhammer/89992/
 asushotfix.com
-liveupdate01.asus.com
 
 # https://securelist.com/azorult-analysis-history/89922/
 ravor.ac.ug
@@ -14151,7 +14150,6 @@ unique.fontsupdate.com
 
 # https://unit42.paloaltonetworks.com/covid-19-themed-malware-within-cloud-environments/
 kplico.com
-teknik.io
 tempinfo.96.it
 unlimitedimportandexport.com
 
@@ -14159,7 +14157,6 @@ unlimitedimportandexport.com
 academydea.com
 coffiices.com
 goldenlion.sg
-ladbible.com
 mecharnise.ir
 mikeservers.eu
 modcloudserver.eu
@@ -40668,9 +40665,6 @@ suzuki.datastore.pe.hu
 # https://blog.yoroi.company/research/karkoff-2020-a-new-apt34-espionage-operation-involves-lebanon-government/
 godoycrus.com
 
-# https://blog.yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
-share.dmca.gripe
-
 # https://blog.yoroi.company/research/transparent-tribe-four-years-later/
 awsyscloud.com
 
@@ -41904,7 +41898,6 @@ backjaadra.ddns.net
 # https://www.zscaler.com/blogs/research/resurgence-qakbot-stealer-newly-registered-domains
 8bmskg.sn.files.1drv.com
 g1wf8w.dm.files.1drv.com
-public.sn.files.1drv.com
 g1xquw.dm.files.1drv.com
 g1wf8w.dm.files.1drv.com
 di2szw.ch.files.1drv.com
