@@ -40524,6 +40524,9 @@ uoibppop.tk
 # uscert
 # https://www.us-cert.gov/ncas/analysis-reports
 
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
+cnaweb.mrslove.com
+
 # https://www.us-cert.gov/ncas/analysis-reports/ar20-133p
 btt5sxcx90.com
 rottastics36w.net
