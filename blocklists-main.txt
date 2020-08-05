@@ -41646,6 +41646,46 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/cybercriminals-targeting-multiple-vulnerabilities-wordpress-plugins
+localdates19.com
+accept.ddns.net
+addyaoutdoors.com
+aiforum.guu.ru
+alkawtherwater.com
+ateamhouston.com
+belocean.com.mm
+celejow.siwydym.pl
+chaykaraneshomal.com
+cocotierlodge-nosybe.com
+denizdugunsalonu.net
+emirizm.com
+hydro-m.fr
+jaguar70.ru
+kare.ba
+kdrsweb.com
+magasini.com
+mahawu.com
+Mlshop.pl
+mt2yangstore.com
+pestostop.com
+reservator.news
+slovo.guru
+aldawliatires.com
+art-logics.com
+babystorelaspezia.com
+bhagwandascycle.com
+carlube.co.uk
+davincyinstituts-minceur-reunion.com
+detayinterior.com
+ecsgroup.co
+flaviomosconi.it
+szzccc.com
+trilogym.it
+sandoguardian.com
+chhotumaharaj.com
+Megumiohigashi.com
+houjuen.org
+
 # https://www.zscaler.com/blogs/research/new-voicemail-themed-phishing-attacks-use-evasion-techniques-and-steal-credentials
 novoips.xyz
 voced-mxd.xyz
