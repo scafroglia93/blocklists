@@ -8452,6 +8452,10 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-diffonde-ursnif-attraverso-un-finto-rimborso-di-pagamento-brt-al03-200805-csirt-ita
+statoffbal.com
+fattnumdelordine.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-di-malspam-distribuisce-jasperloader-e-ftcode-al02-200805-csirt-ita
 files.lauragoes.com
 dropbox.lightsculpters.com
