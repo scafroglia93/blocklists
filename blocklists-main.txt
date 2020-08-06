@@ -8452,6 +8452,16 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-di-malspam-distribuisce-jasperloader-e-ftcode-al02-200805-csirt-ita
+files.lauragoes.com
+dropbox.lightsculpters.com
+z2uymda1mtk.top
+z2uymda2mjc.top
+nmgymda2mjc.top
+
+# https://csirt.gov.it/contenuti/nuove-evidenze-di-campagna-agenttesla-al01-200805-csirt-ita
+mail.solivera.com
+
 # https://csirt.gov.it/contenuti/malware-pony-distribuito-ad-utenti-italiani-tramite-campagna-malspam-al01-200804-csirt-ita
 kboyud.com 
 
