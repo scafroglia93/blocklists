@@ -40587,6 +40587,10 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/water-nue-campaign-targets-c-suites-office-365-accounts/
+highstreetmuch.xyz
+takeusall.online
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/updates-on-thiefquest-the-quickly-evolving-macos-malware/
 andrewka6.pythonanywhere.com
 lemareste.pythonanywhere.com
