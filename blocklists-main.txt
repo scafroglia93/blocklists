@@ -8452,6 +8452,12 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/ursa-loader-contro-utenti-italiani-al01-200808-csirt-ita
+hse.com.bn 
+
+# https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-al03-200807-csirt-ita
+aeroasia-interior.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-diffonde-ursnif-attraverso-un-finto-rimborso-di-pagamento-brt-al03-200805-csirt-ita
 statoffbal.com
 fattnumdelordine.com
