@@ -11866,6 +11866,7 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
+
 # http://www.malware-traffic-analysis.net/2020/08/10/index.html 
 albazai.com.sa
 ufs.pivotroots.com
@@ -11925,7 +11926,6 @@ phamthuan.com
 rmacadetstore.com
 fivestarcleanerstx.com
 thelibrarysamui.com
-cdn.speedof.me
 a.strandsglobal.com
 
 # http://www.malware-traffic-analysis.net/2020/07/20/index2.html
@@ -39662,7 +39662,6 @@ adobe-plugin.bid
 # https://www.tgsoft.it/italy/news_list.asp
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1109
-cdn.speedof.me
 phanmemninjarank.com
 mpbharat.com
 trendsonlines.com
