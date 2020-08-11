@@ -8455,6 +8455,9 @@ iyouthen.com
 # https://csirt.gov.it/contenuti/campagna-crime-che-fa-uso-di-allegati-rtf-malevoli-bl01-200811-csirt-ita
 officelog.org
 
+# https://csirt.gov.it/contenuti/individuate-295-estensioni-malevole-nel-web-store-di-chrome-al01-200810-csirt-ita
+fly-analytics.com
+
 # https://csirt.gov.it/contenuti/ursa-loader-contro-utenti-italiani-al01-200808-csirt-ita
 hse.com.bn 
 
