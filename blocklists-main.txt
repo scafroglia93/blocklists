@@ -11866,7 +11866,6 @@ sagawa-polsw.com
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
-
 # http://www.malware-traffic-analysis.net/2020/08/10/index.html 
 albazai.com.sa
 ufs.pivotroots.com
