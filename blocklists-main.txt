@@ -8452,6 +8452,9 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-crime-che-fa-uso-di-allegati-rtf-malevoli-bl01-200811-csirt-ita
+officelog.org
+
 # https://csirt.gov.it/contenuti/ursa-loader-contro-utenti-italiani-al01-200808-csirt-ita
 hse.com.bn 
 
