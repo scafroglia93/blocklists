@@ -8452,6 +8452,9 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/false-email-dal-ministero-delle-infrastrutture-e-dei-trasporti-al01-200812-csirt-ita
+mitgovit.online
+
 # https://csirt.gov.it/contenuti/campagna-crime-che-fa-uso-di-allegati-rtf-malevoli-bl01-200811-csirt-ita
 officelog.org
 
