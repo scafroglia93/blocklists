@@ -6127,6 +6127,12 @@ hh1m.com
 # cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/wp-content/uploads/2020/08/IoC_Ursnif_13-08-2020.txt
+gstat.sloleaks.com
+social.interactivegood.com
+line.smartinteractivetech.com
+gstat.rayzacastillo.com
+
 # https://cert-agid.gov.it/news/campagna-sload-v-2-9-3-veicolata-via-pec/
 sheyenneweber.com
 mzgotech.com
