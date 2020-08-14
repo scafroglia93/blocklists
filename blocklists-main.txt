@@ -40791,6 +40791,11 @@ me.jmitchelldayton.com
 # trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
+# https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29
+# https://documents.trendmicro.com/assets/pdf/XCSSET_Technical_Brief.pdf
+adobestats.com
+flixprice.com
+
 # https://blog.trendmicro.com/trendlabs-security-intelligence/water-nue-campaign-targets-c-suites-office-365-accounts/
 highstreetmuch.xyz
 takeusall.online
