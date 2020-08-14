@@ -8458,6 +8458,13 @@ iyouthen.com
 # csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-emotet-con-riferimenti-allambito-sanitario-al05-200813-csirt-ita
+cnoenc.com
+nickkind.com
+phrachudadhuj.com
+multiesfera.com
+nikolovmedia.com
+
 # https://csirt.gov.it/contenuti/false-email-dal-ministero-delle-infrastrutture-e-dei-trasporti-al01-200812-csirt-ita
 mitgovit.online
 
