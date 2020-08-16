@@ -42195,6 +42195,10 @@ dubbergergbb.com
 # zscaler
 # https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/research/purplewave-new-infostealer-russia
+had.su
+beget.tech
+
 # https://www.zscaler.com/blogs/research/cybercriminals-targeting-multiple-vulnerabilities-wordpress-plugins
 localdates19.com
 accept.ddns.net
