@@ -4,7 +4,7 @@
 
 
 
-# amnenstytech
+## amnenstytech
 # https://github.com/AmnestyTech
 
 # https://github.com/AmnestyTech/investigations/blob/master/2018-08-01_nso/indicators.csv
@@ -963,7 +963,7 @@ duniaenewsportal.ddns.net
 
 
 
-# avast
+## avast
 # https://blog.avast.com/topic/threat-research
 # https://decoded.avast.io/
 # https://github.com/avast/ioc
@@ -994,7 +994,7 @@ yuemt.zzux.com
 
 
 
-# bitdefender
+## bitdefender
 # https://labs.bitdefender.com/blog/
 
 # https://labs.bitdefender.com/2020/06/bitterapt-revisited-the-untold-evolution-of-an-android-espionage-tool/
@@ -6124,7 +6124,7 @@ hh1m.com
 
 
 
-# cert-agid
+## cert-agid
 # https://cert-agid.gov.it/
 
 # https://cert-agid.gov.it/wp-content/uploads/2020/08/IoC_Ursnif_13-08-2020.txt
@@ -6167,7 +6167,7 @@ fofl.it
 
 
 
-# cert-pa
+## cert-pa
 # https://www.cert-pa.it/
 
 # https://www.cert-pa.it/notizie/campagna-malspam-con-target-italia-per-diffondere-ursnif/
@@ -6978,7 +6978,7 @@ s4egy.com
 
 
 
-# checkpoint
+## checkpoint
 # https://research.checkpoint.com
 
 # https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/
@@ -7399,7 +7399,7 @@ flashplayerr.club
 
 
 
-# citizenlab
+## citizenlab
 # https://github.com/citizenlab/malware-indicators
 
 # https://github.com/citizenlab/malware-indicators/tree/master/202006_DarkBasin
@@ -8455,7 +8455,7 @@ iyouthen.com
 
 
 
-# csirt-it
+## csirt-it
 # https://csirt.gov.it/contenuti
 
 # https://csirt.gov.it/contenuti/nuova-campagna-emotet-con-riferimenti-allambito-sanitario-al05-200813-csirt-ita
@@ -9806,7 +9806,7 @@ ws.stivenfernando.com
 
 
 
-# drweb
+## drweb
 # https://news.drweb.com/list
 # https://github.com/DoctorWebLtd/malware-iocs
 
@@ -9983,7 +9983,7 @@ zastrahui.xyz
 
 
 
-# eset
+## eset
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
 
@@ -11232,7 +11232,7 @@ static-addtoany.com
 
 
 
-# guardicore
+## guardicore
 # https://www.guardicore.com/labs/
 
 # https://www.guardicore.com/2020/04/vollgar-ms-sql-servers-under-attack/
@@ -11347,7 +11347,7 @@ testworks.ru
 
 
 
-# hackeralert
+## hackeralert
 # https://hackeralert.it/index.php
 
 # https://hackeralert.it/index.php?page=entryDetails&id=85
@@ -11389,7 +11389,7 @@ pabioapple.com
 
 
 
-# kaspersky
+## kaspersky
 # https://securelist.com/
 
 # https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
@@ -11887,7 +11887,7 @@ sagawa-polsw.com
 
 
 
-# malware-traffic-analysis
+## malware-traffic-analysis
 # https://twitter.com/malware_traffic
 # http://www.malware-traffic-analysis.net/index.html
 
@@ -13213,7 +13213,7 @@ centre-de-conduite-roannais.com
 
 
 
-# marco-ramilli
+## marco-ramilli
 # https://marcoramilli.com/
 
 # https://marcoramilli.com/2020/03/19/is-apt27-abusing-covid-19-to-attack-people/
@@ -14254,7 +14254,7 @@ executenet.pw
 
 
 
-# pan-unit42
+## pan-unit42
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
 
@@ -14911,7 +14911,7 @@ epicrustserver.cf
 
 
 
-# pan-unit42-playbook
+## pan-unit42-playbook
 # https://pan-unit42.github.io/playbook_viewer/
 
 # chafer
@@ -15482,7 +15482,7 @@ string2me.com
 
 
 
-# pan-unit42-silverterrier
+## pan-unit42-silverterrier
 # https://github.com/pan-unit42/iocs/blob/master/silverterrier/domains19.csv
 012-il.net
 012net.net
@@ -38791,7 +38791,7 @@ zzkehui-cn.com
 
 
 
-# sentinelone
+## sentinelone
 # https://labs.sentinelone.com/
 
 # https://labs.sentinelone.com/inside-a-trickbot-cobaltstrike-attack-server/
@@ -38897,7 +38897,7 @@ bitcoinsmaker.site
 
 
 
-# sophos
+## sophos
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
@@ -39585,7 +39585,7 @@ prcp.mygoodsday.org
 
 
 
-# symantec
+## symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us
@@ -39682,7 +39682,7 @@ adobe-plugin.bid
 
 
 
-# tgsoft
+## tgsoft
 # https://www.tgsoft.it/italy/news_list.asp
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1113#
@@ -40969,7 +40969,7 @@ me.jmitchelldayton.com
 
 
 
-# trendmicro
+## trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29
@@ -41241,7 +41241,7 @@ uoibppop.tk
 
 
 
-# uscert
+## uscert
 # https://www.us-cert.gov/ncas/analysis-reports
 
 # https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
@@ -41341,7 +41341,7 @@ jcmi5n4c3mvgtyt5.onion
 
 
 
-# yoroi
+## yoroi
 # https://yoroi.company/blog/
 
 # https://yoroi.company/research/new-cyber-operation-targets-italy-digging-into-the-netwire-attack-chain/
@@ -42366,7 +42366,7 @@ dubbergergbb.com
 
 
 
-# zscaler
+## zscaler
 # https://www.zscaler.com/blogs/research
 
 # https://www.zscaler.com/blogs/research/purplewave-new-infostealer-russia
