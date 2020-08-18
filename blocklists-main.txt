@@ -155,7 +155,6 @@ doitforthefame-now.com
 do-itonyour-own.com
 domain-redirect.com
 domainsearching.net
-domainsearching.net
 domain-security.org
 donateabox.co
 donateaflower.com
@@ -169,7 +168,6 @@ editorscolumn.net
 egov-online.com
 egov-segek.info
 egov-sergek.info
-ehistorybooks.com
 ehistorybooks.com
 elitecarz.net
 eltiempo-news.com
@@ -278,7 +276,6 @@ indrive.info
 ineediscounts.com
 info24.live
 infospotpro.com
-infospress.com
 insta-foto.net
 internetmobilespeed.com
 intim-media.net
@@ -303,7 +300,6 @@ kurjerserviss.com
 labonneforme.net
 leadersnews.org
 leggingsjustforyou.com
-legyelvodas.com
 legyelvodas.com
 legyelvodas.net
 leleader.org
@@ -374,7 +370,6 @@ myshoesforever.com
 myshop4u.net
 mystulchik.com
 mysuperheadphones.co
-mysuperheadphones.co
 myukadventures.com
 nation24.info
 nationalleagues.net
@@ -382,10 +377,8 @@ nbrowser.org
 newandfresh.com
 newandroidapps.net
 newarrivals.club
-newarrivals.club
 newcooking.org
 newdailycoupons.com
-newmodel.online
 newmodel.online
 newnhotapps.com
 news-alert.org
@@ -455,7 +448,6 @@ ppcisdead.com
 prikol-girls.com
 promosdereve.com
 promotionlove.co
-promotionlove.co
 puffyteddybear.com
 purple-enveloppe.com
 quitmyjob.xyz
@@ -486,7 +478,6 @@ sergek.info
 services-sync.com
 service-update.online
 shia-voice.com
-shia-voice.com
 shoppingdailydeals.net
 shortfb.com
 shuturl.com
@@ -508,7 +499,6 @@ start2playnow.com
 starting-from0.com
 statisticsdb.net
 stopmysms.com
-stopsms.biz
 sunday-deals.com
 supportonline4me.com
 surprising-sites.com
@@ -564,7 +554,6 @@ urspanishteacher.net
 vanillaandcream.com
 vastdealsnow.com
 verify-app.online
-videosdownload.co
 vider-image.com
 viedechretien.org
 vie-en-islam.com
@@ -608,7 +597,6 @@ yourgreatestsmartphone.com
 yourhotelreservation.info
 yummyfoodallover.com
 zednewszm.com
-zm-banks.com
 zm-banks.com
 zm-weather.com
 zsports-info.com
@@ -866,7 +854,6 @@ whatsuppweb.me
 wi-fi.email
 www.secure-email.site
 xbz.pw
-
 # https://github.com/AmnestyTech/investigations/blob/master/2019-08-16_evolving_phishing/domains.txt
 srf-goolge.site
 gmailusercontent.site
