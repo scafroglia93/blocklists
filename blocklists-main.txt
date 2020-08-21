@@ -11254,6 +11254,14 @@ static-addtoany.com
 ## guardicore
 # https://www.guardicore.com/labs/
 
+# https://github.com/guardicore/labs_campaigns/tree/master/Fanel
+fanelishere.ro
+fanelroot.tk
+fanelishere.tk
+fanelishere.com
+arhive.davidhacked.tk
+tehnichost.biz
+
 # https://www.guardicore.com/2020/04/vollgar-ms-sql-servers-under-attack/
 # https://github.com/guardicore/labs_campaigns/tree/master/Vollgar
 a.vollar.ga
