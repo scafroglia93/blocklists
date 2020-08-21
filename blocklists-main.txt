@@ -8461,6 +8461,22 @@ iyouthen.com
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuovi-riscontri-relativi-al-malware-emotet-ioc-aggiornati-20-08-al01-200820-csirt-ita
+thichdirung.com
+sungvalopkhongsam.com
+drshekharbiswas.com
+proyectobayacu.com
+digitalmarketingbloggers.com
+recuperaatupareja.com
+laibray.com
+zmgmedia.com
+moinbariatrics.com
+srivenkateswarainfratech.com
+panaglobalschool.com
+logoonthego.com
+pakgreenenterprise.com
+sac-serv.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-emotet-con-riferimenti-allambito-sanitario-al05-200813-csirt-ita
 cnoenc.com
 nickkind.com
