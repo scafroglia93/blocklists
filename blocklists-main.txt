@@ -9864,6 +9864,16 @@ ws.stivenfernando.com
 # https://news.drweb.com/list
 # https://github.com/DoctorWebLtd/malware-iocs
 
+# https://news.drweb.com/show/?i=13907&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/APT_XPath/README.adoc
+tv.teldcomtv.com
+dns03.cainformations.com
+sultris.com
+kkkfaster.jumpingcrab.com
+pneword.net
+v.nnncity.xyz
+nicodonald.accesscam.org
+
 # https://github.com/DoctorWebLtd/malware-iocs/blob/master/FakeChromeUpdate/README.adoc
 traficbouncer.xyz
 traficbouncerbackup.xyz
