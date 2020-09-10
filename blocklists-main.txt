@@ -8493,6 +8493,13 @@ iyouthen.com
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-malspam-di-masslogger-sfrutta-fedex-come-esca-al02-200910-csirt-ita
+ftp.ayudasaudiovisuales.com
+
+# https://csirt.gov.it/contenuti/campagna-malspam-distribuisce-il-malware-dridex-al01-200910-csirt-ita
+pharmacy.binarybizz.com
+sweepegy.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-malspam-distribuisce-malware-mekotio-sfruttando-il-dominio-mef-gov-it-al01-200904-csirt-ita
 sicurezza.southcentralus.cloudapp.azure.com
 tassacomprenderebbe.eastus.cloudapp.azure.com
