@@ -8493,6 +8493,57 @@ iyouthen.com
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/nuova-campagna-malspam-distribuisce-malware-mekotio-sfruttando-il-dominio-mef-gov-it-al01-200904-csirt-ita
+sicurezza.southcentralus.cloudapp.azure.com
+tassacomprenderebbe.eastus.cloudapp.azure.com
+sarebbeprovafiscale.southcentralus.cloudapp.azure.com
+comprenderebbefiscale.eastus.cloudapp.azure.com
+
+# https://csirt.gov.it/contenuti/catena-di-infezione-di-masslogger-bl01-200903-csirt-ita
+paninoteka.si
+
+# https://csirt.gov.it/contenuti/nuovi-ioc-della-campagna-di-phishing-che-sfrutta-il-nome-del-ministero-delle-infrastrutture-e-dei-trasporti-al02-200903-csirt-ita
+googlchrm.online
+elanstudio.hu
+
+# https://csirt.gov.it/contenuti/campagna-malspam-di-masslogger-usa-istituti-bancari-come-esca-al03-200901-csirt-ita
+paninoteka.si
+milebgd.mycpanel.rs
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-di-trickbot-tramite-emotet-al04-200831-csirt-ita
+king61tours.com
+grzegorzkucharski.com
+karaz-sd.com
+
+# https://csirt.gov.it/contenuti/nuova-campagna-malspam-veicola-malware-lokibot-al03-200831-csirt-ita
+espaciointeriores.com.ar
+
+# https://csirt.gov.it/contenuti/nuova-campagna-diffonde-lemon-duck-sfruttando-lemergenza-covid-19-al03-200828-csirt-ita
+d.ackng.com
+t.amynx.com
+t.jdjdcjq.top
+t.zer9g.com
+t.zz3r0.com
+lplp.ackng.com
+p.b69kq.com
+p.k3qh4.com
+
+# https://csirt.gov.it/contenuti/nuova-campagna-malspam-diffonde-ursnif-attraverso-una-finta-email-dellinps-al01-200828-csirt-ita
+gstat.sloleaks.com
+gstat.securezal.com
+gstat.securezal.xyz
+gstat.premiamo.eu
+gstat.secundamo.com
+gstat.secundato.net
+gstat.secundato.com
+gstat.securanto.com
+gstat.premiamo.com
+gstat.securezzis.net
+gstat.securanto.net
+gstat.securezzas.com
+web.coryriley.com
+gstat.kangweid.com
+
 # https://csirt.gov.it/contenuti/nuova-campagna-diffonde-ursnif-sfruttando-lemergenza-covid-19-al03-200824-csirt-ita
 houunolu1.xyz
 
