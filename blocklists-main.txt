@@ -8493,6 +8493,81 @@ iyouthen.com
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-malspam-sfrutta-il-nome-dellorganizzazione-mondiale-della-sanita-per-veicolare-ursnif-al02-200925-csirt-ita
+log.idealfurnituredirect.com
+stats.idealfurnituregalleryny.com
+line.queensfurnitureoutlet.com
+service.idealfurnitureoutlet.com
+link.giantfurnitureoutlet.com
+web.cindycrawfordgroup.com
+gstat.sloleaks.com
+sertificatkey.com
+
+# https://csirt.gov.it/contenuti/nuove-campagne-malspam-che-distribuiscono-emotet-al01-200925-csirt-ita
+www.namwasports.com
+tulyboutiquehouse.com
+namwasports.com
+haniyyacrafts.com
+kanbonim.com
+aahnaturals.net
+safiullah.com
+ladsbarbearia.com
+armahouse.com
+bitbenderz.com
+lagera.com
+msmartyford.com
+geisterhouse.com
+konican.com
+coolcomputers.info
+
+# https://csirt.gov.it/contenuti/aggiornamento-sulla-campagna-malspam-a-tema-agenzia-delle-entrate-al02-200924-csirt-ita
+1933peizi.com
+agenziaentrate.digital
+gestiondecorreo.info
+
+# https://csirt.gov.it/contenuti/emotet-individuati-nuovi-ioc-al01-200923-csirt-ita
+priyamcollection.com
+querofornecedores.com
+hulianwang114.com
+ixirhost.xyz
+weneedyourhelpnow.org
+averyair.com
+drippglobal.com
+
+# https://csirt.gov.it/contenuti/campagna-malspam-diffonde-ursnif-attraverso-una-finta-comunicazione-di-agenzia-delle-entrate-al01-200922-csirt-ita
+line.stopcollectionharassment.com
+log.rstempler.com
+service.mymindmap.net
+stats.stopthecase.com
+link.stopcollectionlawsuits.com
+
+# https://csirt.gov.it/contenuti/lucifer-il-cryptominer-espande-le-proprie-funzionalita-al02-200921-csirt-ita
+guyeyuyu.com
+qianduoduo.pw
+tyz2020.top
+qf2020.top
+
+# https://csirt.gov.it/contenuti/campagna-malspam-per-veicolare-emotet-a-utenti-italiani-al01-200921-csirt-ita
+veccino56.com
+girlgeekdinners.com
+marblingmagpie.com
+
+# https://csirt.gov.it/contenuti/mrbminer-nuovo-malware-infetta-database-mssql-al01-200918-csirt-ita
+vihansoft.ir
+mrbfile.xyz
+
+# https://csirt.gov.it/contenuti/nuova-campagna-malspam-diffonde-ursnif-attraverso-una-finta-email-dellinps-al04-200914-csirt-ita
+web.fromtheeast.org
+stat.healingwithtapping.com
+service.eftformotherissues.com
+log.theziongroup.com
+web.alicegrange.com
+line.wedowindowsplus.com
+
+# https://csirt.gov.it/contenuti/campagna-agent-tesla-nuove-evidenze-al01-200912-csirt-ita
+mail.mlibano.com.br
+mail.hybridgroupco.com
+
 # https://csirt.gov.it/contenuti/campagna-malspam-di-masslogger-sfrutta-fedex-come-esca-al02-200910-csirt-ita
 ftp.ayudasaudiovisuales.com
 
@@ -9254,9 +9329,9 @@ bartboutens.nl
 benluckman.com
 yeichner.com
 ballooneo.com
-www.bendys.com.au
+bendys.com.au
 biomayest.com
-www.shablingo.com
+shablingo.com
 ximboo.com
 billandroger.com
 artewebestudio.com
