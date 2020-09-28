@@ -8493,6 +8493,11 @@ iyouthen.com
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/attacco-fileless-veicolato-tramite-malspam-diffonde-modi-rat-al01-200928-csirt-ita
+mondns.myftp.org
+vanesaescribano.com
+phix.es
+
 # https://csirt.gov.it/contenuti/campagna-malspam-sfrutta-il-nome-dellorganizzazione-mondiale-della-sanita-per-veicolare-ursnif-al02-200925-csirt-ita
 log.idealfurnituredirect.com
 stats.idealfurnituregalleryny.com
