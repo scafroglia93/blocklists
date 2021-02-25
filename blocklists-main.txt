@@ -960,6 +960,24 @@ researchplanet.zapto.org
 socialstatistics.zapto.org
 duniaenewsportal.ddns.net
 
+# https://github.com/AmnestyTech/investigations/tree/master/2020-09-25_finfisher
+flash.browserupdate.download
+current.browserupdate.download
+files.browserupdate.download
+browserupdate.download
+
+# https://github.com/AmnestyTech/investigations/tree/master/2021-02-24_vietnam/indicators
+ssl.arkouthrie.com
+widget.shoreoa.com
+s3.hiahornber.com
+tips.jasperpfeiffer.com
+land.rellecharlessper.com
+art.guillermoespana.com
+api.ciscofreak.com
+node.podzone.org
+delicalo.dnsalias.net
+coco.cechire.com
+
 
 
 
