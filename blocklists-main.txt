@@ -11921,7 +11921,6 @@ apd1.warnlog.com
 apd1.thunup.com
 adsunflower.com
 adfuture.cn
-mayitek.com
 
 # https://securelist.com/oh-what-a-boot-iful-mornin/97365/
 bamo.ocry.com
@@ -12462,7 +12461,6 @@ a.strandsglobal.com
 # http://www.malware-traffic-analysis.net/2020/07/20/index2.html
 gachchiulua.com.vn
 wellnewssbeautyhub.com
-icanhazip.com
 
 # http://www.malware-traffic-analysis.net/2020/07/20/index.html
 b5js78uz.com
@@ -21682,7 +21680,6 @@ dieboldnlxdorf.com
 dierchmann.com
 dieseltechniic.com
 diesis--intl.com
-differencebetween.info
 difs-tw.com
 digexports.com
 digifunds.com.ng
@@ -40280,7 +40277,6 @@ studentscorner.info
 groupchips.com
 countrygroup.nl
 dezarii.net
-cba.pl
 baoduongdieuhoa365.com
 hoangminhmz.com
 baobatdongsanonline.com
@@ -40321,7 +40317,6 @@ mamelina.com
 viralstyle.shop
 inquima.com.br
 smartscape.eu
-stardata.it
 samelimarket.com
 productbeforebuying.com
 mbakluli.com
