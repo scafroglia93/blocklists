@@ -35428,6 +35428,37 @@ updateplayernow.win
 ## symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/microsoft-exchange-server-protection
+api.onedvirer.xyz
+
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lazarus-north-korea-indictment
+airbseeker.com
+ants2whale.com
+beastgoc.com
+celasllc.com
+coingotrade.com
+dorusio.com
+globalkeystroke.com
+jmttrading.org
+kupaywallet.com
+levelframeblog.com
+qnalytica.com
+unioncrypto.vip
+woodmate.it
+
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware
+bigtopweb.com
+panhardware.com 
+
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sunburst-supply-chain-attack-solarwinds
+avsvmcloud.com
+ervsystem.com
+infinitysoftwares.com
+
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/palmerworm-blacktech-espionage-apt
+asiainfo.hpcloudnews.com
+loop.microsoftmse.com
+
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us
 advokat-hodonin.info
 backup.awarfaregaming.com
