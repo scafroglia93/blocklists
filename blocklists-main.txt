@@ -2818,7 +2818,6 @@ clientstats.epss.org.ly
 drpc.duckdns.org
 kalifhaftar.blogspot.com
 libya-10.com.ly
-libyana.ly
 libyanews111.blogspot.com
 sirtggp.com
 
@@ -5996,7 +5995,6 @@ chuta.jp
 comnet.aev.com
 cwjamaica.biz
 km.wu.ac.th
-markham.ca
 nic.mywire.org
 online.verzatec.com
 safebrowsing.gleeze.com
@@ -9072,7 +9070,6 @@ bhatner.com
 
 # http://www.malware-traffic-analysis.net/2020/01/27/index.html
 delhisexclinic.com
-ident.me
 ikosher.co.il
 
 # http://www.malware-traffic-analysis.net/2020/01/24/index.html
@@ -9088,7 +9085,6 @@ line.rllconsulting.com
 line.zepcnc.com
 lline.rosenstock.net
 minoparisi.com
-myip.opendns.com
 t199447q.com
 
 # http://www.malware-traffic-analysis.net/2020/01/23/index.html
@@ -9162,7 +9158,6 @@ tics.cibariefoodconsulting.com
 tru.cheersportacademy.com
 
 # https://marcoramilli.com/2019/04/05/step-by-step-office-dropper-dissection/
-apps.identrust.com
 bilgiegitimonline.com
 
 # https://marcoramilli.com/2019/02/28/ransomware-trojan-and-miner-together-against-pik-group/
@@ -9372,7 +9367,6 @@ gaia-glow.com
 galaarchitecturaldesign.com
 galamotel.com
 galletour.com
-galyonkin.com
 gamereview.website
 garagedoorrepairbasehorks.com
 garagedoorrepairhaworth.com
@@ -11026,7 +11020,6 @@ yahoo.incloud-go.com
 akhtaredanesh.com
 arbiogaz.com
 arcadecreative.com
-armaholic.com
 asan-max.com
 autotrans.hr
 azmwn.suliparwarda.com
@@ -11054,7 +11047,6 @@ pomegranates.org
 riyadhfoods.com
 school.suliparwarda.com
 shapingtomorrowsworld.org
-skepticalscience.com
 spearhead-training.com
 suliparwarda.com
 tmclub.eu
@@ -35795,7 +35787,6 @@ renatocoto.com
 rouxweb.com
 sallyabbeyarts.com
 sharethin.com
-shoutout.wix.com
 sitebilisim.com
 sixpenceworkshop.com
 skydiarynepal.org
@@ -39046,9 +39037,6 @@ y56fds.appspot.com
 yt76uyhxzz.appspot.com
 ytyfazxz.appspot.com
 Yu56sdzsa.appspot.com
-
-# https://www.zscaler.com/blogs/research/innfirat-new-rat-aiming-your-cryptocurrency-and-more
-rgho.st
 
 # https://www.zscaler.com/blogs/research/saefko-new-multi-layered-rat
 acpananma.com
