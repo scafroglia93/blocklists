@@ -7381,6 +7381,62 @@ testworks.ru
 ## kaspersky
 # https://securelist.com/
 
+# https://securelist.com/gravityrat-the-spy-returns/99097/
+bollywoods.co.in
+chat2hire.net
+chuki.mozillaupdates.us
+click2chat.org
+cvstyler.co.in
+daily.windowsupdates.eu
+dailybuild.mozillaupdates.com
+enigma.net.in
+gozap.co.in
+gyzu.mozillaupdates.us
+melodymate.co.in
+n1.nortonupdates.online
+n2.nortonupdates.online
+n3.nortonupdates.online
+n4.nortonupdates.online
+nightly.windowsupdates.eu
+nightlybuild.mozillaupdates.com
+orangevault.net
+sake.mozillaupdates.us
+savitabhabi.co.in
+sharify.co.in
+strongbox.in
+teraspace.co.in
+titaniumx.co.in
+u01.msoftserver.eu
+u02.msoftserver.eu
+u03.msoftserver.eu
+u04.msoftserver.eu
+ud01.microsoftupdate.in
+ud02.microsoftupdate.in
+ud03.microsoftupdate.in
+ud04.microsoftupdate.in
+wesharex.net
+x-trust.net
+zen.mozillaupdates.us
+
+# https://securelist.com/montysthree-industrial-espionage/98972/
+autosport-club.tekcities.com
+dl10-web-stock.ru
+dl16-web-eticket.ru
+dl166-web-eticket.ru
+dl55-web-yachtbooking.xyz
+
+# https://securelist.com/mosaicregressor/98849/
+menjitghyukl.myfirewall.org
+
+# https://securelist.com/transparent-tribe-part-2/98233/
+sharemydrives.com
+sharingmymedia.com
+tryanotherhorse.com
+
+# https://securelist.com/transparent-tribe-part-1/98127/
+newsbizupdates.net
+uronlinestores.net
+
 # https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
 static-cdn1.com
 
