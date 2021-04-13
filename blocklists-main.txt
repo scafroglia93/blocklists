@@ -855,7 +855,7 @@ vers.pw
 weblive.pw
 whatsuppweb.me
 wi-fi.email
-www.secure-email.site
+secure-email.site
 xbz.pw
 
 # https://github.com/AmnestyTech/investigations/blob/master/2019-08-16_evolving_phishing/domains.txt
@@ -7382,7 +7382,7 @@ testworks.ru
 # https://securelist.com/
 
 # https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
-www.static-cdn1.com
+static-cdn1.com
 
 # https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 mnmski.cafe24.com
@@ -7970,7 +7970,7 @@ persuaddek.ru
 theaterpunti.ru
 thevietnamwarshow.com
 vootingzel.com
-www.tfuller.cn
+tfuller.cn
 
 # http://www.malware-traffic-analysis.net/2020/07/14/index.html
 1bwsl4.com
@@ -10351,7 +10351,7 @@ wfpyutf.com
 wnrfa9y.com
 ws3adlfkm1.com
 ws3lfkm.com
-www.nasproje.com
+nasproje.com
 x0fopmxsq5y2oqud.com
 xcjhb30ton.com
 xekolw77fznpwzb.com
