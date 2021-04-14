@@ -1006,6 +1006,105 @@ yuemt.zzux.com
 ## bitdefender
 # https://labs.bitdefender.com/blog/
 
+# https://labs.bitdefender.com/2021/04/from-cracks-to-empty-wallets-how-popular-cracks-lead-to-digital-currency-and-data-theft/
+4wye25lxiiws2n2uh7gyftn7cnas45o7adf5jjmnkusmhevaortywsad.onion
+pya3iu6oldo62qn6yhimjztryxz3tqhb7bqkspfmdaqu5lqmspxxt5qd.onion
+qmev4br46su73tn7wco5yx3f5ckcljchmgwtm56nvxbzkzngt777uoqd.onion
+rxa3aqwxcz2sqthq5b4epmxjweaipq2phadfk6cmpvgdzqpyhfss4ryd.onion
+s5dthib3esbzbbp4v6txpd4al2ozfpitkqk72hsdontvcmig3qdfacad.onion
+wbjp5c5nfu6mnxb6pdtqgfhssdrzjf4756tj4bhhupnvqhv4sidfqgqd.onion
+yzffgdbyrci3zdgerrarmx6faadvmtmcxboj25qvjb334cfuemh5t4ad.onion
+cbjpyldwxfc5bzdszzbrcatrjlevjr5qsk44enytvkovkv2thzxmjhyd.onion
+snbrrmnu3j7awyxu.onion
+
+# https://labs.bitdefender.com/2021/03/golang-bot-starts-targeting-wordpress-websites/
+daryinformtrand.com
+declarebusinessgroup.ga
+dontkinhooot.tw
+linetoadsactive.ga
+lovegreenpencils.ga
+lowerthenskyactive.ga
+strongcapitalads.ga
+talkingaboutfirms.ga
+transandfiestas.ga
+travelfornamewalking.ga
+
+# https://labs.bitdefender.com/2021/03/fin8-group-is-back-in-business-with-improved-badhatch-kit/
+# https://www.bitdefender.com/files/News/CaseStudies/study/394/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf
+us-west.com
+
+# https://labs.bitdefender.com/2021/01/remcos-rat-revisited-a-colombian-coronavirus-themed-campaign/
+# https://www.bitdefender.com/files/News/CaseStudies/study/390/Bitdefender-PR-Whitepaper-Remcos-creat5080-en-EN-GenericUse.pdf
+chasefre.chasefre.pics
+
+# https://labs.bitdefender.com/2020/11/a-detailed-timeline-of-a-chinese-apt-espionage-attack-targeting-south-eastern-asian-government-institutions/
+# https://labs.bitdefender.com/2020/11/a-detailed-timeline-of-a-chinese-apt-espionage-attack-targeting-south-eastern-asian-government-institutions/
+bitupdating.com
+bkavutil.com
+cloud.wmiprvse.com
+eapconfig.com
+eofficeupdate.com
+eofficeupdating.com
+goog1eupdate.com
+iatupdate.com
+igfxpers.com
+igfxsrvc.com
+iumsvc.com
+ksdeui.com
+ksdeupdate.com
+lotus.wmiprvse.com
+mdnsresponder.com
+mfaupdate.com
+mfaupdating.com
+msdtcupdate.com
+msseces.com
+nissrv.com
+osppsvc.com
+realteke.com
+unikeyupdate.com
+unikeyupdating.com
+update.wmiprvse.com
+updateui.com
+winserverupdate.com
+wmiprvse.com
+ws2008update.com
+
+# https://labs.bitdefender.com/2020/10/theres-a-new-a-golang-written-rat-in-town/
+box.conf1g.com
+log.conf1g.com
+
+# https://labs.bitdefender.com/2020/10/fake-users-rave-but-real-users-rant-as-apps-on-google-play-deal-aggressive-adware/
+api.hdvideoplayer.top
+api.instragramvideodownload.top
+api.launcherfor.top
+api.privatemsg.top
+api.socialvideodownloader.top
+api.sportcounter.top
+api.supervideoplayer.top
+api.wallpaper4k.top
+t.lineranalysis.com
+
+# https://labs.bitdefender.com/2020/10/lemonduck-crypto-miner-a-kingminer-successor/
+# https://www.bitdefender.com/files/News/CaseStudies/study/373/Bitdefender-PR-Whitepaper-LemonDuck-creat4826-en-EN-GenericUse.pdf
+d.ackng.com
+t.amynx.com
+t.zer9g.com
+t.zz3r0.com
+
+# https://labs.bitdefender.com/2020/09/apps-on-google-play-tainted-with-cerberus-banker-malware/
+2fapass.club
+androidradio.life
+downdating.club
+fitnessstrategy.xyz
+groovefitness.xyz
+loversfinder.xyz
+positivefitness.club
+safeyourdata.xyz
+sport4ever.club
+vipyoga.today
+weatherclub.club
+yoga4u.xyz
+
 # https://labs.bitdefender.com/2020/06/bitterapt-revisited-the-untold-evolution-of-an-android-espionage-tool/
 # https://www.bitdefender.com/files/News/CaseStudies/study/352/Bitdefender-PR-Whitepaper-BitterAPT-creat4571-en-EN-GenericUse.pdf
 blitzchatlog.ddns.net
