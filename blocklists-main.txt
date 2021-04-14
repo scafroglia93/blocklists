@@ -34750,6 +34750,97 @@ zzkehui-cn.com
 
 
 
+## prodaft
+# https://github.com/prodaft/malware-ioc
+
+# https://github.com/prodaft/malware-ioc/tree/master/SilverFish
+# https://www.prodaft.com/m/uploads/SilverFish_TLPWHITE.pdf
+40ort.750.credit
+adagio.betterworldshopping.com
+admirer.onehourcfo.com
+alertmeter.info
+backup.awarfaregaming.com
+bmlor.750.credit
+builder.visionarybusiness.net
+champions.gdtc.org
+coloradospringsroofing.info
+combat.strategyforgood.com
+context.septemberyears.org
+d3ser9acyt7cdp.cloudfront.net
+daddy.stlouisdemoday.com
+defender5.coachwithak.com
+enkins.findfwd.com
+fanta.swofficefurniture.com
+flowers.netplusplans.com
+flowers.thegardnerco.com
+freeresultsguide.com
+freespace.givingprofits.net
+gallery.wineadam.com
+group3.pulsedesigngroup.us
+inferno.bigpurposebigimpact.com
+inspirer.cartsandmowers.com
+joke.webproduct.info
+joomla.lifepath.site
+lamarfish.com
+lion.vipjoyeria.com
+method.nonprofitsustainability.com
+moreeu.cn
+moreofit.cn
+phpmyadmin.xsunx.com
+pixelapn2.adsprofitnetwork.com
+pixelapn.adsprofitnetwork.com
+plkiu.daniyalmedicaltech.com
+pointers.ecostratas.com
+popcorn.net-zerodesign.com
+printing.laminatesandthings.com
+promo9.promossupply.com
+prompt.powerofpartnerships.net
+q.promossupply.com
+robotvice.com
+rock.core-thought.com
+roofingspecialists.info
+rtfv.info/time
+securesearchnow.com
+signup-now.com
+snuff.mybabyrose.com
+standart.sdtranspo.com
+tanzaniafisheries.com
+test.directfwd.com
+test.news.pocketstay.com
+time.suehyatt.com
+twimg-us.azureedge.net
+zombie.susan-hyatt.com
+
+# https://github.com/prodaft/malware-ioc/tree/master/BrunhildaProject
+# https://github.com/prodaft/malware-ioc/blob/master/BrunhildaProject/BrunHilda_DaaS.pdf
+gymwithoutproblems.club
+skeletontree.top
+ttdom.xyz
+welnessfitnessclub.club
+
+# https://github.com/prodaft/malware-ioc/tree/master/OpBlueRaven
+# https://threatintel.blog/OPBlueRaven-Part1/
+# https://threatintel.blog/OPBlueRaven-Part2/
+colorpickerdesk.com
+digitalsoundmaker99.com
+expressdesign9.com
+fgfotr.com
+hawrickday.com
+hong-security.com
+landscapesboxdesign9.com
+milkmovemoney.com
+moviedvdpower.com
+mozillaupdate.com
+nattplot.com
+softowii.com
+tableofcolorize.com
+untypicaldesign9.com
+uoplotr.com
+vmware-cdn.com
+
+
+
+
 ## sentinelone
 # https://labs.sentinelone.com/
 
