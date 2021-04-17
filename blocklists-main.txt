@@ -35342,8 +35342,6 @@ t.jdjdcjq.top
 t.zer9g.com
 t.zz3r0.com
 
-
-
 # https://news.sophos.com/en-us/2020/07/14/raticate-rats-as-service-with-commercial-crypter/
 # https://github.com/sophoslabs/IoCs/blob/master/malware-raticate-cloudeye.csv
 allenservice.ga
