@@ -35235,6 +35235,115 @@ bitcoinsmaker.site
 # https://news.sophos.com/en-us/category/sophoslabs/sophoslabs-uncut/
 # https://github.com/sophoslabs/IoCs
 
+# https://news.sophos.com/en-us/2021/04/15/bazarloader/
+# https://github.com/sophoslabs/IoCs/blob/master/Troj-BazarLd.csv
+australiatourism.bazar
+bestsightsofwildaustralia.bazar
+restinaustraliaplace.bazar
+sightsofsydney21.bazar
+sydneynewtours.bazar
+vacationinsydney2021.bazar
+
+# https://news.sophos.com/en-us/2021/03/23/black-kingdom/
+# https://github.com/sophoslabs/IoCs/blob/master/Ransomware_BlackKingDom.csv
+yuuuuu44.com
+
+# https://news.sophos.com/en-us/2021/02/16/conti-ransomware-evasive-by-nature/
+# https://github.com/sophoslabs/IoCs/blob/master/Ransomware-Conti.csv
+contirecovery.best
+docns.com
+tapavi.com
+
+# https://news.sophos.com/en-us/2021/01/21/mrbminer-cryptojacking-to-bypass-international-sanctions/
+# https://github.com/sophoslabs/IoCs/blob/master/Miner-Mrbminer.csv
+mrbfile.xyz
+mrbftp.xyz
+mrbpool.xyz
+poolmrb.xyz
+vihansoft.ir
+
+# https://news.sophos.com/en-us/2021/01/12/new-android-spyware-targets-users-in-pakistan/
+# https://github.com/sophoslabs/IoCs/blob/master/Android-pakchat.csv
+kv33.zapto.org
+pakchat.online
+pmdu.info
+tplinsurance.xyz
+
+# https://news.sophos.com/en-us/2020/12/18/fishy-french-covid-contact-tracing-app-is-a-data-thief-pest/
+# https://github.com/sophoslabs/IoCs/blob/master/Android-fauxanticovid.csv
+bandofdna.top
+clubmasters.top
+differentplayers.top
+jrdonnald.top
+newwaystadium.top
+
+# https://news.sophos.com/en-us/2020/12/16/systembc/
+# https://github.com/sophoslabs/IoCs/blob/master/Malware-SystemBC.csv
+advertrex20.xyz
+advertsp74.xyz
+asdasd08.com
+asdasd08.xyz
+decatos30.com
+decatos30.xyz
+gentexman37.xyz
+mexstat128.com
+sdadvert197.com
+shopweb95.xyz
+
+# https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/
+# https://github.com/sophoslabs/IoCs/blob/master/Ransomware-Ryuk.csv
+chainnss.com
+fastbloodhunter.com
+mn.fastbloodhunter.com
+
+# https://news.sophos.com/en-us/2020/09/24/email-delivered-modi-rat-attack-pastes-powershell-commands/
+mondns.myftp.org
+phix.es
+vanesaescribano.com
+
+# https://news.sophos.com/en-us/2020/09/09/faking-it-the-thriving-business-of-fake-alert-web-scams/ 
+# https://github.com/sophoslabs/IoCs/blob/master/mal-fakealert.csv
+abdurantom.com
+airwiseq.cf
+appconnect.bekapro.xyz
+apps-notification.com
+goodthings.ml
+helpiossuprrt.info
+highsecureus.com
+ios-service-billing1-xps.azurewebsites.net
+lookee.info
+m.smita.club
+peachtrackerus.com
+popads.net
+popcash.net
+promobi-shield.eu
+qwertyasia.com
+qwertytracks.com
+qwertytrackz.com
+satecgs.xyz
+serverconnect.boraer.xyz
+support-main.com
+support.dheje.xyz
+support.lolopod.xyz
+support.marusia.xyz
+support.paluns.xyz
+system-update-alert.com
+top.support-quick.com
+trackoo.info
+trafiq.party
+yourphoneboost.com
+
+# https://news.sophos.com/en-us/2020/08/25/lemon_duck-cryptominer-targets-cloud-apps-linux/
+# https://github.com/sophoslabs/IoCs/blob/master/Trojan-LDMiner.csv
+d.ackng.com
+lplp.ackng.com
+t.amynx.com
+t.jdjdcjq.top
+t.zer9g.com
+t.zz3r0.com
+
+
+
 # https://news.sophos.com/en-us/2020/07/14/raticate-rats-as-service-with-commercial-crypter/
 # https://github.com/sophoslabs/IoCs/blob/master/malware-raticate-cloudeye.csv
 allenservice.ga
