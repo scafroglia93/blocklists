@@ -38291,6 +38291,9 @@ uoibppop.tk
 ## uscert
 # https://www.us-cert.gov/ncas/analysis-reports
 
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126b
+feticost.com
+
 # https://us-cert.cisa.gov/ncas/analysis-reports/ar20-232a
 agarwalpropertyconsultants.com
 anca-aste.it
