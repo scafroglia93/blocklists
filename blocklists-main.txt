@@ -38294,6 +38294,28 @@ uoibppop.tk
 # https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126b
 feticost.com
 
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-105a
+eyetechltd.com
+megatoolkit.com
+nikeoutletinc.org
+reyweb.com
+sense4baby.fr
+
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048b
+beastgoc.com
+jmttrading.org
+
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048d
+kupaywallet.com
+levelframeblog.com
+
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048c
+unioncrypto.vip
+
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048g
+ants2whale.com
+qnalytica.com
+
 # https://us-cert.cisa.gov/ncas/analysis-reports/ar20-232a
 agarwalpropertyconsultants.com
 anca-aste.it
