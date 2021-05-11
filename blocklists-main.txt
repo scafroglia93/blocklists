@@ -4818,6 +4818,16 @@ webhttps.websecexp.com
 
 
 
+## cleafy
+# https://www.cleafy.com/resources/documents
+
+# https://www.cleafy.com/documents/teabot
+kopozkapalo.xyz
+sepoloskotop.xyz
+
+
+
+
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
