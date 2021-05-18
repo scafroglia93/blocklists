@@ -4831,6 +4831,9 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-malevola-impatta-le-utenze-di-banca-mediolanum-al01-210518-csirt-ita
+domande-controllo.com
+
 # https://csirt.gov.it/contenuti/nuove-campagne-diffondono-formbook-al01-20201023-csirt-ita
 4006789517.com
 bchselfdrive.com
