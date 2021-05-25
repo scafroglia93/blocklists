@@ -4831,6 +4831,15 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/individuata-una-nuova-versione-del-ransomware-zeppelin-al02-210525-csirt-ita
+btcxchange.online
+
+# https://csirt.gov.it/contenuti/infostealer-raccoon-diffuso-tramite-versioni-compromesse-di-software-vpn-al01-210525-csirt-ita
+nordsecure.click
+nordsfreevpn.com
+vpn-nord.net
+vpnnords.com
+
 # https://csirt.gov.it/contenuti/campagna-malevola-impatta-le-utenze-di-banca-mediolanum-al01-210518-csirt-ita
 domande-controllo.com
 
