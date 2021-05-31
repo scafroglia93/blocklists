@@ -11150,6 +11150,25 @@ quotidianoannunci.it
 
 
 
+
+
+
+## 
+https://www.microsoft.com/security/blog/microsoft-security-intelligence/
+https://github.com/microsoft/mstic
+
+# 
+
+
+
+
+
+
+
+
+
+
+
 ## pan-unit42
 # https://unit42.paloaltonetworks.com/
 # https://github.com/pan-unit42/iocs
