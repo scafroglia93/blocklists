@@ -11150,21 +11150,60 @@ quotidianoannunci.it
 
 
 
-
-
-
-## 
+## microsoft
 https://www.microsoft.com/security/blog/microsoft-security-intelligence/
 https://github.com/microsoft/mstic
 
-# 
+# https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/
+74d6b7b2.app.giftbox4u.com
+aimsecurity.net
+cdn.theyardservice.com
+cdnappservice.firebaseio.com
+cdnappservice.web.app
+cityloss.com
+content.pcmsar.net
+cross-checking.com
+dailydews.com
+dataplane.theyardservice.com
+doggroomingnews.com
+email.theyardservice.com
+emergencystreet.com
+enpport.com
+eventbrite-com-default-rtdb.firebaseio.com
+financialmarket.org
+giftbox4u.com
+hanproud.com
+holescontracting.com
+humanitarian-forum-default-rtdb.firebaseio.com
+humanitarian-forum.web.app
+logicworkservice.web.app
+newsplacec.com
+newstepsco.com
+pcmsar.net
+r20.rs6.net
+security-updater-default-rtdb.firebaseio.com
+security-updater.web.app
+smtp2.theyardservice.com
+static.theyardservice.com
+stockmarketon.com
+stsnews.com
+supportcdn-default-rtdb.firebaseio.com
+supportcdn.web.app
+tacomanewspaper.com
+techiefly.com
+theadminforum.com
+theyardservice.com
+trendignews.com
+usaid.theyardservice.com
+worldhomeoutlet.com
 
-
-
-
-
-
-
+# https://www.microsoft.com/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/
+cdn.theyardservice.com
+dataplane.theyardservice.com
+static.theyardservice.com
+theyardservice.com
+usaid.theyardservice.com
+worldhomeoutlet.com
 
 
 
