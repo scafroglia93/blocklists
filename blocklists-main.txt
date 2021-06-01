@@ -4838,6 +4838,9 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-agenzia-entrate-al01-210601-csirt-ita
+jules-castelao.fr
+
 # https://csirt.gov.it/contenuti/individuata-una-nuova-versione-del-ransomware-zeppelin-al02-210525-csirt-ita
 btcxchange.online
 
