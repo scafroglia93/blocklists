@@ -35877,9 +35877,34 @@ vmware-cdn.com
 ## sentinelone
 # https://labs.sentinelone.com/
 
+# https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/
+74d6b7b2.app.giftbox4u.com
+content.pcmsar.net
+doggroomingnews.com
+hanproud.com
+
 # https://labs.sentinelone.com/from-wiper-to-ransomware-the-evolution-of-agrius/
 theisnonamelikethis29123.com
 whynooneistherefornoneofthem.com
+
+# https://labs.sentinelone.com/caught-in-the-cloud-how-a-monero-cryptominer-exploits-docker-containers/
+i.ibb.co
+ideone.com
+
+#https://labs.sentinelone.com/a-deep-dive-into-zebrocys-dropper-docs/
+c4csa.org
+xbhp.com
+
+# https://labs.sentinelone.com/new-macos-malware-xcodespy-targets-xcode-developers-with-eggshell-backdoor/
+alinbox.co
+appmarket.co
+cralev.me
+elemark.co
+everestnote.com
+liveupdate.cc
+recentnews.cc
+suppro.co
+truckrental.cc
 
 # https://labs.sentinelone.com/inside-a-trickbot-cobaltstrike-attack-server/
 wizardmagik.best
