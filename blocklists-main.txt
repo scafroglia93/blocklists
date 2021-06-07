@@ -7,6 +7,11 @@
 ## amnenstytech
 # https://github.com/AmnestyTech
 
+# https://github.com/AmnestyTech/investigations/tree/master/2021-05-28_qatar
+twitt-er.app
+twittre.co
+youl.tube
+
 # https://github.com/AmnestyTech/investigations/tree/master/2021-02-24_vietnam/indicators
 api.ciscofreak.com
 art.guillermoespana.com
