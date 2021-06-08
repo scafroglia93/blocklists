@@ -8110,8 +8110,6 @@ turtle.miner.rocks
 
 # https://www.guardicore.com/2018/11/butter-brute-force-ssh-attack-tool-evolution/
 # https://github.com/guardicore/labs_campaigns/tree/master/Butter
-fr.minexmr.com
-p2.minexmr.com
 x.bigoupai.live
 
 # https://www.guardicore.com/2018/06/operation-prowli-traffic-manipulation-cryptocurrency-mining-2/
@@ -8137,14 +8135,11 @@ cryptmonero.com
 crypto-pool.fr
 cryptonight.net
 democats.org
-dwarfpool.com
 flypool.org
 miner.center
-minexmr.com
 mst.mymst007.info
 riepool.ovh
 shscrypto.net
-suprnova.cc
 
 # https://github.com/guardicore/labs_campaigns/tree/master/Lemon_Duck
 down.ackng.com
@@ -11120,7 +11115,6 @@ logicworkservice.web.app
 newsplacec.com
 newstepsco.com
 pcmsar.net
-r20.rs6.net
 security-updater-default-rtdb.firebaseio.com
 security-updater.web.app
 smtp2.theyardservice.com
@@ -11492,7 +11486,6 @@ edisonlee.net
 eom-nv.com
 firstteamcareer.com
 geo.netsupportsoftware.com
-greenheartmed.org
 hostfleek.com
 innovativemasonry.net
 jintsung.cn
@@ -12266,7 +12259,6 @@ stngpetty.ga
 
 # https://news.sophos.com/en-us/2020/07/02/mykings-jumps-on-the-corona-train/
 64.5b6b7b.ru
-64.mymyxmra.ru
 64.myxmr.pw
 catsmeowalot.com
 cnc.f4321y.com
@@ -12573,7 +12565,6 @@ yahoooooomail.com
 # https://news.sophos.com/en-us/2019/12/18/mykings-botnet-spreads-headaches-cryptominers-and-forshare-malware/
 # https://github.com/sophoslabs/IoCs/blob/master/malware-MyKings
 64.5b6b7b.ru
-64.mymyxmra.ru
 64.myxmr.pw
 cnc.f4321y.com
 cyg2016.xyz
@@ -13708,7 +13699,6 @@ marketpalasei.casa
 victorlascos.tech
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1083
-a.pomf.cat
 billionaire.ddns.net
 gstat.dondyablo.com
 pomf.cat
@@ -14080,7 +14070,6 @@ wanderunderwater.com
 waraly.com
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1043
-a.pomf.cat
 aahch.org
 andrea-alvarado.com
 bomberosvilladelrosario.org
@@ -14723,8 +14712,6 @@ streamf.ru
 theinspectionconsultant.com
 vinhsake.com
 
-# https://www.us-cert.gov/ncas/analysis-reports/ar20-133e
-urlz.fr
 
 # https://www.us-cert.gov/ncas/analysis-reports/ar20-133d
 1588-2040.co.kr
@@ -18373,7 +18360,6 @@ wizenedrusty.tk
 
 # https://www.zscaler.com/blogs/research/anti-coinminer-mining-campaign
 coin-blocker.com
-xmrminingpro.com
 
 # https://www.zscaler.com/blogs/research/cryptominers-and-stealers-malware-edition
 babalu.workscx.com
