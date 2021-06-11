@@ -4775,6 +4775,17 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/cryptbot-diffuso-tramite-siti-di-phishing-al01-210611-csirt-ita
+augalai.info
+morjgs02.top
+rarpc.co
+remexl25.top
+sulsxq03.top
+
+# https://csirt.gov.it/contenuti/nuova-versione-del-malware-freakout-al02-210609-csirt-ita
+
+
+
 # https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-agenzia-entrate-al01-210601-csirt-ita
 jules-castelao.fr
 
