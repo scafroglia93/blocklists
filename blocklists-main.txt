@@ -8236,6 +8236,21 @@ snum.or.kr
 # https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/
 media-seoengine.com
 
+# https://securelist.com/gootkit-the-cautious-trojan/102731/
+kvaladrigrosdrom.top
+scellapreambulus.top
+lbegardingstorque.com
+kerymarynicegross.top
+pillygreamstronh.com
+
+# https://securelist.com/apkpure-android-app-store-infected/101845/
+foodin.site
+wcf.seven1029.com
+
+
+
+
+
 # https://securelist.com/gravityrat-the-spy-returns/99097/
 bollywoods.co.in
 chat2hire.net
