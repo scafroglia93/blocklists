@@ -4775,6 +4775,24 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/cryptbot-diffuso-tramite-siti-di-phishing-al01-210611-csirt-ita
+augalai.info
+morjgs02.top
+rarpc.co
+remexl25.top
+sulsxq03.top
+
+# https://csirt.gov.it/contenuti/nuova-versione-del-malware-freakout-al02-210609-csirt-ita
+3og7wipgh3ruavi7gd6y3uzhcurazasln55hb6hboiavyk6pugkcdpqd.onion
+bp65pce2vsk7wpvy2fyehel25ovw4v7nve3lknwzta7gtiuy6jm7l4yd.onion.ws
+can6dodp.servepics.com
+cloud-miner.de
+ngiwge486ln9daoo.hopto.org
+o4hlcckwlbcy7qhhohqswpqla6wx7c5xmsvk3k4rohknng4nofvgz5id.onion
+p2l44qilgm433bad5gbszb4mluxuejwkjaaon767m5dzuuc7mjqhcead.onion
+q2p4b6pprex5mvzxm2xdqgo4q3hy2p4if2ljq7fcoavxvab7mpk232id.onion
+ublock-referer.dev
+
 # https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-agenzia-entrate-al01-210601-csirt-ita
 jules-castelao.fr
 
@@ -6720,6 +6738,26 @@ zastrahui.xyz
 ## eset
 # https://www.welivesecurity.com
 # https://github.com/eset/malware-ioc
+
+# https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/
+bill.microsoftbuys.com
+buffetfactory.oicp.io
+dnsupdate.dns2.us
+dynsystem.imbbs.in
+icta.worldmessg.com
+Infoafrica.top
+officeupdate.ns01.us
+officeupdates.cleansite.us
+pmdskm.top
+systeminfo.cleansite.info
+systeminfo.myftp.name
+systeminfo.oicp.net
+szsz.pmdskm.top
+updateip.onmypc.net
+web.vpnkerio.com
+winupdate.ns02.us
+freedns02.dns2.us
+intelupdate.dns1.us
 
 # https://www.welivesecurity.com/2020/09/30/aptc23-group-evolves-its-android-spyware/
 cecilia-gilbert.com
@@ -12011,7 +12049,6 @@ theisnonamelikethis29123.com
 whynooneistherefornoneofthem.com
 
 # https://labs.sentinelone.com/caught-in-the-cloud-how-a-monero-cryptominer-exploits-docker-containers/
-i.ibb.co
 ideone.com
 
 #https://labs.sentinelone.com/a-deep-dive-into-zebrocys-dropper-docs/
