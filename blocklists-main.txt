@@ -4775,6 +4775,9 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/botnet-moobot-sfrutta-vecchia-vulnerabilita-al02-210617-csirt-ita
+cyberium.cc
+
 # https://csirt.gov.it/contenuti/cryptbot-diffuso-tramite-siti-di-phishing-al01-210611-csirt-ita
 augalai.info
 morjgs02.top
