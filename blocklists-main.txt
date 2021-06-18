@@ -4775,6 +4775,9 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/email-di-phishing-invio-fattura-doc_-veicola-lokibot-al03-210618-csirt-ita
+it0b.xyz
+
 # https://csirt.gov.it/contenuti/botnet-moobot-sfrutta-vecchia-vulnerabilita-al02-210617-csirt-ita
 cyberium.cc
 
