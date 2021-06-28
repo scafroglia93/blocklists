@@ -4775,6 +4775,21 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-wetransfer-al01-210625-csirt-ita-2
+auth-confirmation.austinbroadland.repl.co
+gethukshop.com
+orderlistconfimation.us-south.cf.appdomain.cloud
+tandcn.com
+
+# https://csirt.gov.it/contenuti/campagna-malevola-diffonde-agenttesla-sfruttando-una-nota-vulnerabilita-di-office-al01-210624-csirt-ita
+ck-t-hr.com
+
+
+
+
+
+
+
 # https://csirt.gov.it/contenuti/email-di-phishing-invio-fattura-doc_-veicola-lokibot-al03-210618-csirt-ita
 it0b.xyz
 
