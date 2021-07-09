@@ -4,6 +4,12 @@
 
 
 
+
+
+
+
+
+
 ## amnenstytech
 # https://github.com/AmnestyTech
 
@@ -977,6 +983,12 @@ zsports-info.com
 
 
 
+
+
+
+
+
+
 ## avast
 # https://blog.avast.com/topic/threat-research
 # https://decoded.avast.io/
@@ -1004,6 +1016,12 @@ qrot.apjgtipty.com
 runtime.heroisshit.com
 update.heroisshit.com
 yuemt.zzux.com
+
+
+
+
+
+
 
 
 
@@ -1702,6 +1720,12 @@ ossdown.fun
 
 
 
+
+
+
+
+
+
 ## cert-agid
 # https://cert-agid.gov.it/
 
@@ -2375,6 +2399,12 @@ aruba-di.com
 
 # https://cert-agid.gov.it/news/campagna-ransomware-fuckunicorn-sfrutta-emergenza-covid-19/
 fofl.it
+
+
+
+
+
+
 
 
 
@@ -3191,6 +3221,12 @@ s4egy.com
 
 
 
+
+
+
+
+
+
 ## checkpoint
 # https://research.checkpoint.com
 
@@ -3725,6 +3761,12 @@ ztracker.xyz
 
 # https://research.checkpoint.com/2018/return-festi-rootkit/
 5cm.co.za
+
+
+
+
+
+
 
 
 
@@ -4785,12 +4827,24 @@ webhttps.websecexp.com
 
 
 
+
+
+
+
+
+
 ## cleafy
 # https://www.cleafy.com/resources/documents
 
 # https://www.cleafy.com/documents/teabot
 kopozkapalo.xyz
 sepoloskotop.xyz
+
+
+
+
+
+
 
 
 
@@ -6592,6 +6646,12 @@ ws.stivenfernando.com
 
 
 
+
+
+
+
+
+
 ## drweb
 # https://news.drweb.com/list
 # https://github.com/DoctorWebLtd/malware-iocs
@@ -6775,6 +6835,12 @@ vksecured.ru
 work.gopetrom.com
 worldofswords.net
 zastrahui.xyz
+
+
+
+
+
+
 
 
 
@@ -8127,6 +8193,12 @@ your-ip.getmyip.com
 
 
 
+
+
+
+
+
+
 ## guardicore
 # https://www.guardicore.com/labs/
 # https://github.com/guardicore/labs_campaigns
@@ -8245,6 +8317,13 @@ testworks.ru
 
 
 
+
+
+
+
+
+
+
 ## intezer
 # https://www.intezer.com/blog/
 
@@ -8252,6 +8331,12 @@ testworks.ru
 brian-krebs-erectile-dysfunction.com
 brian.krebsonsecurity.top
 krebsonfellatio.net
+
+
+
+
+
+
 
 
 
@@ -8845,6 +8930,12 @@ hubinasia.com
 # https://securelist.com/roaming-mantis-part-3/88071/
 sagawa-otqwt.com
 sagawa-polsw.com
+
+
+
+
+
+
 
 
 
@@ -10169,6 +10260,12 @@ prajoon.000webhostapp.com
 
 
 
+
+
+
+
+
+
 ## marco-ramilli
 # https://marcoramilli.com/
 
@@ -11208,6 +11305,12 @@ quotidianoannunci.it
 
 
 
+
+
+
+
+
+
 ## microsoft
 https://www.microsoft.com/security/blog/microsoft-security-intelligence/
 https://github.com/microsoft/mstic
@@ -11261,6 +11364,12 @@ static.theyardservice.com
 theyardservice.com
 usaid.theyardservice.com
 worldhomeoutlet.com
+
+
+
+
+
+
 
 
 
@@ -11918,6 +12027,12 @@ epicrustserver.cf
 
 
 
+
+
+
+
+
+
 ## prodaft
 # https://github.com/prodaft/malware-ioc
 
@@ -12120,6 +12235,12 @@ vmware-cdn.com
 
 
 
+
+
+
+
+
+
 ## sentinelone
 # https://labs.sentinelone.com/
 
@@ -12250,6 +12371,12 @@ ns.akamai1811.com
 
 # https://labs.sentinelone.com/reversing-rig-exploit-kit-infection-chain-internals-exploits/
 bitcoinsmaker.site
+
+
+
+
+
+
 
 
 
@@ -13045,6 +13172,12 @@ updateplayernow.win
 
 
 
+
+
+
+
+
+
 ## symantec
 # https://www.symantec.com/blogs/threat-intelligence
 
@@ -13169,6 +13302,12 @@ adobe-plugin.bid
 ilhost.in
 iqhost.us
 offiice365.us
+
+
+
+
+
+
 
 
 
@@ -14455,6 +14594,12 @@ wws.guidemyhunt.com
 
 
 
+
+
+
+
+
+
 ## trendmicro
 # https://blog.trendmicro.com/trendlabs-security-intelligence/
 
@@ -14728,6 +14873,12 @@ uoibppop.tk
 
 
 
+
+
+
+
+
+
 ## uscert
 # https://www.us-cert.gov/ncas/analysis-reports
 
@@ -14853,6 +15004,12 @@ zeushelpu.wordpress.com
 
 # https://www.us-cert.gov/ncas/analysis-reports/AR18-337B
 jcmi5n4c3mvgtyt5.onion
+
+
+
+
+
+
 
 
 
@@ -15925,6 +16082,12 @@ cjwefomatt.com
 dubbergergbb.com
 ninasukash.com
 ticrerfgiff.com
+
+
+
+
+
+
 
 
 
