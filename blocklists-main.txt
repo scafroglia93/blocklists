@@ -1750,6 +1750,11 @@ ossdown.fun
 ## cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/contrastata-nuova-campagna-sload-via-pec/
+chinghsiang.com
+opoietj.eu
+sertyty.eu
+
 # https://cert-agid.gov.it/news/scoperta-massiva-campagna-scam-bitcoin-tramite-url-bit-ly/
 07n7n.workerhand.casa
 2f5o3.workerhand.link
@@ -4882,11 +4887,8 @@ tandcn.com
 # https://csirt.gov.it/contenuti/campagna-malevola-diffonde-agenttesla-sfruttando-una-nota-vulnerabilita-di-office-al01-210624-csirt-ita
 ck-t-hr.com
 
-
-
-
-
-
+# https://csirt.gov.it/contenuti/aggiornamento-campagna-lokibot-al03-210623-csirt-ita
+ctp1.xyz
 
 # https://csirt.gov.it/contenuti/email-di-phishing-invio-fattura-doc_-veicola-lokibot-al03-210618-csirt-ita
 it0b.xyz
