@@ -14905,6 +14905,14 @@ uoibppop.tk
 ## uscert
 # https://www.us-cert.gov/ncas/analysis-reports
 
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-189a
+baroquetees.com
+rumahsia.com
+
+# https://us-cert.cisa.gov/ncas/analysis-reports/ar21-148a
+theyardservice.com
+worldhomeoutlet.com
+
 # https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126b
 feticost.com
 
