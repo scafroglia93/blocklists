@@ -2409,6 +2409,15 @@ catsdegree.com
 securebestapp20.com
 temisleyes.com
 
+# https://cybersecurity.att.com/blogs/labs-research/malware-hosting-domain-cyberium-fanning-out-mirai-variants
+cyberium.cc
+
+# https://cybersecurity.att.com/blogs/labs-research/the-rise-of-qakbot
+1.nvprivateoffice.info
+
+# https://cybersecurity.att.com/blogs/labs-research/teamtnt-delivers-malware-with-new-detection-evasion-tool
+kaiserfranz.cc
+
 
 
 
@@ -3157,6 +3166,17 @@ ossdown.fun
 
 ## cert-agid
 # https://cert-agid.gov.it/
+
+# https://cert-agid.gov.it/news/individuato-malware-fickerstealer-veicolato-tramite-campagna-hancitor/
+anithedtatione.ru
+bahujansangam.org
+falan4zadron.ru
+pospvisis.com
+thervidolown.com
+wiltuslads.ru
+
+# https://cert-agid.gov.it/news/campagna-malspam-ateraagent-a-tema-dike/
+dike_infocert.firstcloudit.com
 
 # https://cert-agid.gov.it/news/contrastata-nuova-campagna-sload-via-pec/
 chinghsiang.com
