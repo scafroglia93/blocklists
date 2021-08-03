@@ -8103,6 +8103,37 @@ ws.stivenfernando.com
 
 
 
+## darktrace
+https://www.darktrace.com/en/blog/
+
+# https://www.darktrace.com/en/blog/crypto-botnets-moving-laterally/
+lplp.ackng.com
+t.amynx.com
+
+# https://www.darktrace.com/en/blog/egregor-ransomware-gone-but-not-forgotten/
+amajai-technologies.network
+drive.metallic.io
+
+# https://www.darktrace.com/en/blog/post-mortem-of-a-sql-server-exploit/
+dropbox16.com
+
+# https://www.darktrace.com/en/blog/crypto-mining-on-a-dns-server/
+Pool-hk.supportxmr.com
+
+# https://www.darktrace.com/en/blog/how-a-soc-team-neutralized-the-qak-bot-banking-trojan/
+nerotimethod.com
+mywebscrap.com
+
+# https://www.darktrace.com/en/blog/apt-35-charming-kitten-discovered-in-a-pre-infected-environment/
+apply-jobs.com
+cortanaservice.com
+
+
+
+
+
+
+
 ## drweb
 # https://news.drweb.com/list
 # https://github.com/DoctorWebLtd/malware-iocs
