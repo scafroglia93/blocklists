@@ -3167,6 +3167,9 @@ ossdown.fun
 ## cert-agid
 # https://cert-agid.gov.it/
 
+# https://cert-agid.gov.it/news/in-atto-campagna-di-phishing-con-invito-ad-aggiornare-webmail-pro/
+myanchormarketplace.com
+
 # https://cert-agid.gov.it/news/individuato-malware-fickerstealer-veicolato-tramite-campagna-hancitor/
 anithedtatione.ru
 bahujansangam.org
