@@ -6309,6 +6309,13 @@ sepoloskotop.xyz
 ## csirt-it
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-smishing-traccia-il-tuo-pacco-al01-210818-csirt-ita
+g62z.com
+hatonia.com
+l.linklyhq.com
+parcel-tracking-263273453452342x.ru
+v39c.com
+
 # https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-wetransfer-al01-210625-csirt-ita-2
 auth-confirmation.austinbroadland.repl.co
 gethukshop.com
