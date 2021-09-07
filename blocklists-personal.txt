@@ -79,7 +79,6 @@ atomicmeta.com
 aubreycalifornia.com
 auredosite.club
 autoanyway.com
-autoitscript.com
 automaticaexpo.com
 avatar.ps
 axolc-upoc.xyz
@@ -338,7 +337,6 @@ happyfilings.com
 hashratelab.com
 hausofbeaches.com
 hdmilg.xyz
-HDRedirect-LB7-5a03e1c2772e1c9c.elb.us-east-1.amazonaws.com
 healtybenenfitsplus.com
 hearthenspeak.com
 hexa-consultancy.com
