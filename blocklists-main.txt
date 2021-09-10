@@ -2604,7 +2604,6 @@ drebco.com
 elrincondefon.com
 huizhanwenhua.com
 mica.ml
-webcindario.com
 
 # https://labs.bitdefender.com/2020/05/iranian-chafer-apt-targeted-air-transportation-and-government-in-kuwait-and-saudi-arabia/
 # https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf
@@ -3280,7 +3279,6 @@ chaoqi.shop
 chengtouji.com
 clarionindiaventures.in
 clasesdetaichigenyo.es
-convertertogenerator.com
 crypto-cloud.live
 dashcards.com
 dassicura.it
@@ -3505,7 +3503,6 @@ builtinjersey.com
 centrodealtosestudiosinmobiliarios.com
 ceredinhas.com.br
 cfcconsulting.it
-convertertogenerator.com
 dixonpestsolutions.com
 durajobs.in
 envolve.adv.br
@@ -6486,8 +6483,6 @@ line.seemimigo.com
 link.tomshobbies.com
 
 # https://csirt.gov.it/contenuti/campagna-di-phishing-con-riferimento-a-istituto-di-credito-al04-201015-csirt-ita
-826402021.08976trhgfxbvc.is-a-nurse.com
-is-a-nurse.com
 my-bnl-online-ssl-index-9876543.kozow.com
 mypanel.https443.org
 
@@ -6515,9 +6510,7 @@ t.lineranalysis.com
 pklz.xyz
 
 # https://csirt.gov.it/contenuti/campagna-di-phishing-con-riferimento-un-istituto-di-credito-italiano-al05-201009-csirt-ita
-a0476587.xsph.ru
 skylarstetten.com
-xsph.ru
 
 # https://csirt.gov.it/contenuti/campagna-di-phishing-con-riferimento-a-microsoft-outlook-al04-201009-csirt-ita
 iko23.mw.lt 
@@ -7240,7 +7233,6 @@ lakallehn.net
 laminingraphics.co.za
 lddb.org.pk
 leavell-photography.com
-ledgernote.com
 ledvinaphotography.net
 lf-hj.cz
 librero.xyz
@@ -7970,8 +7962,6 @@ link.icloudcowboy.com
 
 # https://csirt.gov.it/contenuti/campagna-di-phishing-ai-danni-di-utenti-amazon-al03-200612-csirt-ita
 earnmoney.lk
-ooguy.com
-sellercentral.amazon.ids901.ooguy.com
 
 # https://csirt.gov.it/contenuti/identificata-apk-malevola-che-sfrutta-lemergenza-covid19-al04-200611-csirt-ita
 inps-forma.online
@@ -9373,12 +9363,6 @@ u929489355.hostingerapp.com
 # https://www.welivesecurity.com/2019/08/01/banking-trojans-amavaldo/
 # https://github.com/eset/malware-ioc/tree/master/amavaldo
 balacimed.mine.nu
-clausdomain.homeunix.com
-fbclinica.game-server.cc
-game-server.cc
-homeunix.com
-newcharlesxl.scrapping.cc
-scrapping.cc
 
 # https://www.welivesecurity.com/2019/07/29/android-ransomware-back/
 rich7.xyz
@@ -9678,7 +9662,6 @@ trieudaiviet.com
 triviet.news
 utagscript.com
 weblink.selfip.info
-wfpscripts.homeunix.com
 widgets-wp.com
 your-ip.getmyip.com
 
@@ -13228,7 +13211,6 @@ cloudipnameserver.com
 ffconnectivitycheck.com
 googie.email
 lowconnectivity.com
-zombsroyale.io
 
 # https://unit42.paloaltonetworks.com/the-fractured-statue-campaign-u-s-government-targeted-in-spear-phishing-attacks/
 downyes.c1.biz
@@ -13746,9 +13728,6 @@ hanproud.com
 theisnonamelikethis29123.com
 whynooneistherefornoneofthem.com
 
-# https://labs.sentinelone.com/caught-in-the-cloud-how-a-monero-cryptominer-exploits-docker-containers/
-ideone.com
-
 #https://labs.sentinelone.com/a-deep-dive-into-zebrocys-dropper-docs/
 c4csa.org
 xbhp.com
@@ -14263,7 +14242,6 @@ microsoft-security.host
 MicrosoftMiddleAst.com
 MicrosoftServerUpdate.com
 MicrosoftWindowsResources.com
-MicrosoftWindowsUpdate.net
 mslicensecheck.com
 mumbai-m.site
 mydomain1110.com
@@ -14444,7 +14422,6 @@ enotflowers.com
 eruafwa.site
 ethereums.network
 evgentii228.myjino.ru
-f0281648.xsph.ru
 fakinril1991.had.su
 fnsss77.ru
 forfor.site
@@ -15454,7 +15431,6 @@ victorlascos.tech
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1083
 billionaire.ddns.net
 gstat.dondyablo.com
-pomf.cat
 securezza.at
 
 # https://www.tgsoft.it/italy/news_archivio.asp?id=1081
@@ -15539,7 +15515,6 @@ gofundmedonorhelp.com
 gpagamilmegpagamil.xyz
 innoexpo.tech
 megpagamil.pw.me
-pomf.catupload.php
 reellifeoutdoors.com
 robertgronstedtjr.com
 
@@ -15840,7 +15815,6 @@ onlykissme.com
 oshodrycleaning.com
 pharmachemsales.com
 picslife7.com
-pomf.cat
 poshouse.vn
 purviitech.com
 sennesgroup.com
@@ -15897,7 +15871,6 @@ scuolaelementarediorziveccho.191.it
 sglobal.online
 
 # http://www.tgsoft.it/italy/news_archivio.asp?id=1038
-a0365381.xsph.ru
 accedisellercentral.amazson.it
 encounterkarmatreks.com
 hovermop.com
@@ -18603,7 +18576,6 @@ Yu56sdzsa.appspot.com
 # https://www.zscaler.com/blogs/research/saefko-new-multi-layered-rat
 acpananma.com
 deqwrqwer.kl.com.ua
-f0278951.xsph.ru
 industry.aeconex.com
 maprivate.date
 
