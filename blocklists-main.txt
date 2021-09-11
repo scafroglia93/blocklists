@@ -13721,6 +13721,17 @@ vmware-cdn.com
 ## sentinelone
 # https://labs.sentinelone.com/
 
+# https://www.sentinelone.com/labs/egomaniac-an-unscrupulous-turkish-nexus-threat-actor/
+adobupdate.serveftp.com
+adobupdate.servehttp.com
+antivirus.myftp.org
+blogg.serveblog.net
+driver.myftp.org
+halkinsesitv.com
+messenger.serveirc.com
+tigereyes2.servepics.com
+twiter.serveblog.net
+
 # https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/
 74d6b7b2.app.giftbox4u.com
 content.pcmsar.net
