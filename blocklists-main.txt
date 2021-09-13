@@ -9811,6 +9811,11 @@ testworks.ru
 ## intezer
 # https://www.intezer.com/blog/
 
+# https://www.intezer.com/blog/malware-analysis/vermilionstrike-reimplementation-cobaltstrike/
+amazon.hksupd.com
+update.microsofthk.com
+update.microsoftkernel.com
+
 # https://www.intezer.com/blog/malware-analysis/habitsrat-used-to-target-linux-and-windows-servers/
 brian-krebs-erectile-dysfunction.com
 brian.krebsonsecurity.top
