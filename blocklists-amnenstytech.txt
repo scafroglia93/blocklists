@@ -2,7 +2,7 @@
 ## blocklists-amnenstytech
 ## https://github.com/AmnestyTech
 
-https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso
+# https://github.com/AmnestyTech/investigations/tree/master/2021-07-18_nso
 14-tracking.com
 1minto-start.com
 24-7clinic.com
