@@ -1,7 +1,8 @@
-## certego
-# https://twitter.com/Certego_Intel
-# https://t.me/joinchat/Rwb4Uo3Ytv25VYQI
-# 18/09/2021
+## hosts-blocklists
+## blocklists-certego
+## https://twitter.com/Certego_Intel
+## https://t.me/joinchat/Rwb4Uo3Ytv25VYQI
+## 18/09/2021
 123qwegus.duckdns.org
 3000tl-onlinedestek.com
 a2.hrmagazine.uk
