@@ -3,6 +3,28 @@
 ## https://news.drweb.com/list
 ## https://github.com/DoctorWebLtd/malware-iocs
 
+# https://news.drweb.com/show/?i=14259&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/blob/master/Android.BankBot.Coper/README.adoc
+4-u.wtf
+fitnessstyle.xyz
+sportsstyle.club
+
+# https://news.drweb.com/show/?i=14244&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.PWS.Facebook
+cc.horoscopemagic.xyz
+data.applockkeep.xyz
+data.horoscopedaily.xyz
+mm.superbrightflashlight.xyz
+mxi.applockmaster.xyz
+shop.vfgrl.com
+wap.inwellfitness.xyz
+wap.lockitmaster.xyz
+
+# https://news.drweb.com/show/?i=14182&lng=en
+# https://github.com/DoctorWebLtd/malware-iocs/tree/master/Android.Joker
+ad.mobnv.com
+novasdk.oss-cn-beijing.aliyuncs.com
+
 # https://news.drweb.com/show/?i=14177&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/tree/master/APT_DNSep
 atlas.golianbooks.com
