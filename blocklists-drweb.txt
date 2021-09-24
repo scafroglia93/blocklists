@@ -1,11 +1,7 @@
-
 ## hosts-blocklists
 ## blocklists-drweb
 ## https://news.drweb.com/list
 ## https://github.com/DoctorWebLtd/malware-iocs
-
-
-
 
 # https://news.drweb.com/show/?i=14177&lng=en
 # https://github.com/DoctorWebLtd/malware-iocs/tree/master/APT_DNSep
