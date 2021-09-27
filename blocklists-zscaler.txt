@@ -2,6 +2,9 @@
 ## blocklists-zscaler
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/scammer-luring-apple-enthusiasts-launch-event
+2021apple.org
+
 # https://www.zscaler.com/blogs/security-research/fakeclicky-activity-skimmers-hit-again
 cdn-plugin.co.uk
 cdn-plugin.us
