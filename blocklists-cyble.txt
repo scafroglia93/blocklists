@@ -1,0 +1,44 @@
+## hosts-blocklists
+## blocklists-cyble
+## https://blog.cyble.com/
+
+# https://blog.cyble.com/2021/09/23/medusa-malware-spreading-via-fake-canadian-government-covid-19-portal/
+covid19-ca.link
+sock.godforgiveuss.live
+
+# https://blog.cyble.com/2021/09/15/apt-c-23-using-new-variant-of-android-spyware-to-target-users-in-the-middle-east/
+cecilia-gilbert.com
+david-gardiner.website
+javan-demsky.website
+linda-gaytan.website
+
+# https://blog.cyble.com/2021/09/14/apt-group-targets-indian-defense-officials-through-enhanced-ttps/
+secure256.net
+
+# https://blog.cyble.com/2021/09/14/deep-dive-analysis-of-s-o-v-a-android-banking-trojan/
+a0545193.xsph.ru
+l8j1nsk3j5h1msal973nk37.fun 
+
+# https://blog.cyble.com/2021/09/09/flubot-variant-masquerading-as-the-default-android-voicemail-app/
+asfnfpfibhtrafy.ru
+kkwpifwkkxilltk.ru
+poceeubeciuqyto.ru
+
+# https://blog.cyble.com/2021/09/07/fake-income-tax-application-targets-indian-taxpayers/
+jsig.quicksytes.com
+
+# https://blog.cyble.com/2021/08/12/a-deep-dive-analysis-of-redline-stealer-malware/
+newlife957.duckdns.org
+
+# https://blog.cyble.com/2021/08/11/blackmatter-ransomware-attack-impacting-multiple-financial-institutions/
+mojobiden.com
+paymenthacks.com
+
+# https://blog.cyble.com/2021/08/10/bahamut-threat-group-targeting-users-through-phishing-campaign/
+h94xnghlldx6a862moj3.de	
+
+# https://blog.cyble.com/2021/07/28/a-deep-dive-analysis-of-a-fake-coronapp-targeting-android-users-from-colombia/
+androidmedallo.duckdns.org
+
+# https://blog.cyble.com/2021/07/21/fake-ad-blockers-targeting-android-devices-through-adware-campaign/
+eftingepar.biz 	
