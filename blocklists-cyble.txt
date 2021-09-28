@@ -1,5 +1,6 @@
 ## hosts-blocklists
 ## blocklists-cyble
+
 ## https://blog.cyble.com/
 
 # https://blog.cyble.com/2021/09/23/medusa-malware-spreading-via-fake-canadian-government-covid-19-portal/
@@ -42,3 +43,39 @@ androidmedallo.duckdns.org
 
 # https://blog.cyble.com/2021/07/21/fake-ad-blockers-targeting-android-devices-through-adware-campaign/
 eftingepar.biz 	
+
+# https://blog.cyble.com/2021/07/09/android-app-disguised-as-a-qr-scanner-spreads-joker-variant-trojan/
+onemoretime.oss-us-east-1.aliyuncs.com
+
+# https://blog.cyble.com/2021/06/21/djvu-malware-of-stop-ransomware-family-back-with-new-variant/
+asvb.top 
+
+# https://blog.cyble.com/2021/06/03/kimsuky-apt-group-distributes-fake-security-app-disguised-as-kisa-security-program/
+app.at-me.ml
+
+# https://blog.cyble.com/2021/05/27/android-trojan-malware-disguised-as-syrian-e-gov-android-app/fd1aac87399ad22234c503d8adb2ae9f0d950b6edf4456b1515a30100b5656a7 	SHA256   
+internetwideband.com
+
+# https://blog.cyble.com/2021/05/12/darkside-attack-forces-the-largest-fuel-pipeline-in-the-u-s-to-shutdown/
+catsdegree.com
+temisleyes.com
+
+# https://blog.cyble.com/2021/05/03/android-sms-worm-impersonating-covid-19-vaccine-registration-app-spreads-via-text-messages/
+awsdus.api.p3insight.de
+
+https://blog.cyble.com/2021/05/02/mobile-malware-app-anubis-strikes-again-continues-to-lure-users-disguised-as-a-fake-antivirus/
+darkweb.bitcoingen.store
+
+# https://blog.cyble.com/2021/02/17/confucius-apt-android-spyware-targets-pakistani-and-other-south-asian-regions/
+chatk.goldenbirdcoin.com
+cucuchat.com
+data10.000webhostapp.com
+global134.000webhostapp.com
+mlservices.online
+msoffice.user-assist.site
+pieupdate.online
+samaatv.online
+sunshinereal.000webhostapp.com
+tea-time.link
+wixten.000webhostapp.com
+wordupdate.com

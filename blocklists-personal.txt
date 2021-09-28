@@ -1,5 +1,6 @@
-## hosts-blocklists
 ## blocklists-personal
+## hosts-blocklists
+
 0x21.in
 0055game.com
 0124logistics.com
@@ -225,6 +226,7 @@ assured-justice-nl.com
 astrologicsolutions.com
 atacado.bigstorex.com.br
 atc.iyclm.in
+atelectronics.site
 atelierlinneakunstoghelse.com
 atis.ug
 atlantasubdivisions.com
@@ -268,6 +270,7 @@ bancomext.demasys.net
 bandmanwiththeheadband.com
 bangah.com
 bangmaverpakkingen.nl
+bankinsurance.site
 bankteam.azurefd
 bardenpumps.com.au
 bariqn.com
@@ -356,6 +359,7 @@ bluefaceleicester.co.uk
 blueoceansartifacts.com
 blueprintvehicles.net
 blueridgecontractors.com
+bmwfor.com
 bnctly.com
 bobbydhillonfilmdirector.com
 bohnke.nl
@@ -394,6 +398,8 @@ broadesys.com
 brobbins.xyrintech.com
 broomfieldgsco.buzz
 brshahed.ir
+brt-ws.blogspot.com
+brt-zc.blogspot.com
 bsbiszcza.i-bs.pl
 bsdminingservice.com
 btb659.com
@@ -444,6 +450,7 @@ capitaleaseusa.com
 cappscowboy.com
 caratafrica.com
 caravansforsalenorthwales.com
+cardealergame.com
 cardiociencia.net
 careerambition.net
 careerhonest.com
@@ -646,6 +653,7 @@ daiyncc.com
 dajiangzhibo28.com
 dajshans.org.ua
 dalitmuktimission.org
+dalmac-nj.com
 dandaroadsideservicellc.com
 danemtrading.com
 danfrem.com
@@ -744,6 +752,7 @@ divey.com
 djomare.com
 djspencer.com
 dmarketing.biz
+dns.msftncsi.com
 docket.dharmoni.com
 dogscanstay.com
 dollysusmitha.com
@@ -982,6 +991,7 @@ freshnessinmotion.com
 fresnodepositionreporters.com
 frietfun.be
 frigosistem.com.tr
+frontwonline.com
 fruciand.com
 frudolf.de
 frwrdselfcare.com
@@ -1029,6 +1039,7 @@ giel.shop
 gioielligroup.com
 gipfelengg.com
 girasmboize.com
+girldollg.xyz
 girraj2016.gtranzit.com
 gjvtri.org
 gla-edu.com
@@ -1453,6 +1464,7 @@ ludikia.com
 luguan.sutoweb.com
 luisjj.dscproskahuer.mx
 luisxe.info
+luljuf.xyz
 lupai86.com
 luxormedikal.com
 lwe-engineering.com.my
@@ -1479,6 +1491,7 @@ m.myartsandmurals.com
 maapaaevents.com
 maatanga.com
 mac-movil.com
+macrodown.com
 madaan.gtranzit.com
 maestromn.com
 magelang.binainsani.com
@@ -1564,6 +1577,7 @@ mengshuzhai.com
 mentalfreedom.guru
 mentorbznes.com
 menuselects.com
+merabestsolutions.com
 meranaturaleza.com.ar
 mercontech.com
 mesa.iservelendingconcierge.com
@@ -1683,6 +1697,7 @@ netjul.xyz
 networkhardwaresol.com
 networksloss.club
 networkwheels.co.za
+networth.fyi
 nevefe.com
 neverbrokerage.com
 new.dacafund.org
@@ -1851,6 +1866,7 @@ personal-loan-consultation.smartsolutionscm.com.my
 personalexperten.webseite-programmierung.de
 personasnegativas.combustiblecorrecto.com
 personnel.districtweb.ca
+perthvideoproduction.com
 petexi.com
 pgpo.pl
 phadishago.co.za
@@ -1932,6 +1948,7 @@ producoesdahora.inclusaodahora.com.br
 products-you-need.top
 productsreview.space
 prof.manuelnovais.com
+profortraining.com
 projects.gvtechnolab.in
 promisecon.hk
 prooffpoint.web.app
@@ -2162,6 +2179,7 @@ semear7.com.br
 sena.zahou-tech.com
 senep2014.alphania.es
 senho.org
+seniormedicarebenefits.net
 sens-pracownia.pl
 sensationalcleaningservices.net
 sentable.cz
@@ -2185,6 +2203,7 @@ shaastraarth.in
 shadesbeautyparlour.com
 shafiexports.com.pk
 shahu66.com
+shanroban.com
 shareusall.com
 sharpelevators.in
 sheeshamwoods.com
@@ -2248,6 +2267,7 @@ sn-college.co.in
 snehapoorvam.com
 soci.lobodomarketingonline.com
 sociallit.lobodomarketingonline.com
+softnewspaper.com
 somatictherapyservices.com
 sommers-yacht.ru
 soporte.tecniprint.co
@@ -2312,6 +2332,7 @@ stickyflasks.com
 stilltrekking.com
 stixxfit.com
 stm32heaven.com
+stonezhang.top
 stop-virus.co.uk
 store.aarvytechnologies.in
 store.glorioustube.com
@@ -2382,6 +2403,7 @@ tdsp.yngw518.com
 teachertechia.net
 teammsup.com
 tecelagemsaogeraldo.com.br
+techforlearn.site
 techgms.com
 technohub.searchkero.com
 tecnobankhn.com
@@ -2477,6 +2499,7 @@ tmk.net.au
 tmpartners-gh.com
 tmpconsultores.com
 tocakids.resultaweb.com.br
+todevelopskills.com
 tomrings.com
 tootaldeals.com
 topbrandsport.com
@@ -2533,6 +2556,7 @@ twerkwhileyouworkplanners.com
 twilio123.com
 twinpeak.iservelendingconcierge.com
 twobirdswithonestoned.net
+txpmachine.com
 typography.net
 tyqbfe.com
 tzinmobiliaria.com
@@ -2574,12 +2598,14 @@ v9sport.com
 v-masqsport.es
 vacalinda.com
 vakno.by
+valleysettlewash.top
 valorizali.re
 valuedmind.com
 valvi.in
 varasto-osake.fi
 vardhmanproducts.com
 vasurveysupport.com
+vaughnmethod.com
 vavadadoa3.com
 vcah.co.uk
 vcophoto.us
@@ -2732,6 +2758,7 @@ yarashiqdecor.ir
 ydhb-tec.com
 yelc.me
 yellowsquarebooks.com
+yesterdayglass.com
 yildizwestern.com
 yiyuxin.xyz
 yoast.yourpageserver.com
@@ -2775,17 +2802,3 @@ zonerphoto.us
 zskdkc.com
 zydonghua.com
 zyxeldevices.com
-
-brt-zc.blogspot.com
-brt-ws.blogspot.com
-
-formarketings.com
-alltimedfgsf.icu
-luljuf.xyz
-softnewspaper.com
-macrodown.com
-todevelopskills.com
-profortraining.com
-techforlearn.site
-shanroban.com
-bmwfor.com
