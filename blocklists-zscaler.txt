@@ -1,5 +1,6 @@
 ## hosts-blocklists
 ## blocklists-zscaler
+
 ## https://www.zscaler.com/blogs/research
 
 # https://www.zscaler.com/blogs/security-research/scammer-luring-apple-enthusiasts-launch-event
