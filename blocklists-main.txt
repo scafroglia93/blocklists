@@ -3313,7 +3313,6 @@ zmgmedia.com
 
 # https://csirt.gov.it/contenuti/nuova-campagna-emotet-con-riferimenti-allambito-sanitario-al05-200813-csirt-ita
 cnoenc.com
-multiesfera.com
 nickkind.com
 nikolovmedia.com
 phrachudadhuj.com
