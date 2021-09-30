@@ -81,17 +81,6 @@ yuemt.zzux.com
 ## bitdefender
 # https://labs.bitdefender.com/blog/
 
-# https://labs.bitdefender.com/2021/04/from-cracks-to-empty-wallets-how-popular-cracks-lead-to-digital-currency-and-data-theft/
-4wye25lxiiws2n2uh7gyftn7cnas45o7adf5jjmnkusmhevaortywsad.onion
-pya3iu6oldo62qn6yhimjztryxz3tqhb7bqkspfmdaqu5lqmspxxt5qd.onion
-qmev4br46su73tn7wco5yx3f5ckcljchmgwtm56nvxbzkzngt777uoqd.onion
-rxa3aqwxcz2sqthq5b4epmxjweaipq2phadfk6cmpvgdzqpyhfss4ryd.onion
-s5dthib3esbzbbp4v6txpd4al2ozfpitkqk72hsdontvcmig3qdfacad.onion
-wbjp5c5nfu6mnxb6pdtqgfhssdrzjf4756tj4bhhupnvqhv4sidfqgqd.onion
-yzffgdbyrci3zdgerrarmx6faadvmtmcxboj25qvjb334cfuemh5t4ad.onion
-cbjpyldwxfc5bzdszzbrcatrjlevjr5qsk44enytvkovkv2thzxmjhyd.onion
-snbrrmnu3j7awyxu.onion
-
 # https://labs.bitdefender.com/2021/03/golang-bot-starts-targeting-wordpress-websites/
 daryinformtrand.com
 declarebusinessgroup.ga
@@ -2896,14 +2885,9 @@ remexl25.top
 sulsxq03.top
 
 # https://csirt.gov.it/contenuti/nuova-versione-del-malware-freakout-al02-210609-csirt-ita
-3og7wipgh3ruavi7gd6y3uzhcurazasln55hb6hboiavyk6pugkcdpqd.onion
-bp65pce2vsk7wpvy2fyehel25ovw4v7nve3lknwzta7gtiuy6jm7l4yd.onion.ws
 can6dodp.servepics.com
 cloud-miner.de
 ngiwge486ln9daoo.hopto.org
-o4hlcckwlbcy7qhhohqswpqla6wx7c5xmsvk3k4rohknng4nofvgz5id.onion
-p2l44qilgm433bad5gbszb4mluxuejwkjaaon767m5dzuuc7mjqhcead.onion
-q2p4b6pprex5mvzxm2xdqgo4q3hy2p4if2ljq7fcoavxvab7mpk232id.onion
 ublock-referer.dev
 
 # https://csirt.gov.it/contenuti/campagna-di-phishing-a-tema-agenzia-entrate-al01-210601-csirt-ita
@@ -4729,76 +4713,6 @@ linda-gaytan.website
 # https://www.welivesecurity.com/2020/09/10/who-callin-cdrthief-linux-voip-softswitches/
 update.callercore.com
 
-# https://www.welivesecurity.com/2020/09/02/kryptocibule-multitasking-multicurrency-cryptostealer/
-# https://github.com/eset/malware-ioc/tree/master/kryptocibule/
-2x6w4a4rpkc4im62qrsomw5cz7sh6xfwue6o2taasnzpj24emp2ytryd.onion
-4awm6qxdepo4eezambtqy37glf3yfsqmffahdrftap52vnft7w6qjrqd.onion
-4d5sfoijltk6ymy56zxn5kibkev2bqrtvofpgej5q5td3y23sa7ot6id.onion
-4dtu3lxrpx6nn7snjovoc3ldiy4x67k7qsrgzftvkrttoqbwnsuirhqd.onion
-4lb3ggyyldqrovgjn5muidit7lly26qysmhsvdvm7uxxor43r3trzeqd.onion
-6m4ujiinnntagmvcr5xlrhprwo4ogynx5ermkb5g2tmogqmvl4jqg2qd.onion
-6u7fbyoeztemm2x3eqqqmxdjnwcwr774omb357v575rdw6fbs6dsocid.onion
-7qggtksfcrk67dhxf34ywqf5442cuitztvmpaufhu6mfi4vemid4ayid.onion
-36ptmdeoog6cb7qga5mvg67xxsvjcztppvexzv7v3nh3v5ysrqpdoqqd.onion
-372dwco4guzmbsxuzojpxu5szfonkxe5itnbscrq2j42rab2t2ncahyd.onion
-a3ejbleqwu5fyiwvjk5bgqtezpmun6j52bgutf7dhlnxb6k5oq4wycyd.onion
-a3345hiuizvtfyiyu7rrj7oz4rn5pams42sawmtznuvlxjdqlhfutoad.onion
-awmszp3t3zuni6f6stanp3zesiwdco4nekn34wauxxqbcztz74jxjgad.onion
-aydy72vlk4b43t6wqkrg2sijerykz5a7xpu3twpavurtfy6cr5yjnnad.onion
-braiqjhcq2by5ederrdm6phl5ibgaslr3whrwsiqjzqz2sopp4nixvid.onion
-eeg3ww3gtsq7ul7ovgrelurhahjtnuo5h6k7yivdbiab36qxhxuguvqd.onion
-eq4sd25kaavyspif2a72sa7zmdvwg7zzzwjxcfougqonrkcsd4gounyd.onion
-ev2awfjn4tsmeae3oiwiu2lndgxisnt66cclszqaiogymiwawebcvzid.onion
-ewecmdrizt7cbwi6d5lqdp2flm4xaxymhjfbfszay6zlwwmudsognhqd.onion
-fafo3thvdd74ogafpu6dqn6icsvyiphjda4kcspqkiiv2n76droolzqd.onion
-fyksdinxkx6k3wflss2smzpnfjmlj3xuy2sdfd5ardr6xaahkhtkxpyd.onion
-g67rpe6ii3fp2kcwsts5yfaiiprsa4kqfhycr2p3dsjqonwhhob3rnqd.onion
-geigbmqp356zfjfnc554dp4fs47x5wvyijhyqx27harlfpu42vrlprad.onion
-gg5nf65ygz7xlz4qjokmadu4lz6kykm7siuzmxv2dw36ft5oowizxyid.onion
-gjgdw2l7pup7ld3zkz3bftscffrmztsti2d355ekdc63f4bn27imohqd.onion
-gmfkr2hophk7quuedy2xtlydxo7wduofmpi3nbf7gzmg4cv3xuvgtyad.onion
-h3onjkbx25yjhvplvovqzp2tefp6hce3fo3cnakkxz3so2knvn6s6rad.onion
-iggd7l4zis6nypic7acmxtdoryc5laolmudcgiwtpzsg62v4vkxt6fid.onion
-ihki5r4vy5rhvhcjc6a2luebw7l3m5ahuxiail6wtsm5hrikbppdy5id.onion
-ixviwydgphadlbitfs3inizpeg674qycqlvnanoky7xpukrwtbafejyd.onion
-j3bp2a2ftceusjmsd2qz6htisf6uzcj4ngrx2exffur5wqe7mndtreqd.onion
-jay2ewakkvwfqhst3ug5q5fua5d7kcu5ecyrk4d5gbfhqlidmtiackqd.onion
-jhlkmmq4bvg5lncsllwfurwbymdtzdvkzpw7ruwdhyp4uadpwyz7yryd.onion
-jokcwtvo6t25g2oejfnmgztu6b6u2p3gmo2vgmc6vcewfsr2hlxwomad.onion
-k5fvnoaorhjem2yjoperd6lcdzev4y5xvz4nnc3x5tk2acyek56mamad.onion
-kiugtgblevzdc2srnvt7ldp2reuzdmjwkxwjugcofrpopsavqnynd7qd.onion
-klh6kylzhkerfgnosy3veygej3r7xrkwxpnzvfhjihc5hpz7oylaq4qd.onion
-kvekkvllgj35kmaa6oa63z6cexlqswtp2bfhddgupql3h4xlpj3mufqd.onion
-kw5z4ogvnhjxp2xllnset4iouho34romb5wsanoekwgzcem3uahoh3id.onion
-l6fio2skcgirpjnnwjyfw7i5b3lfvozkwnynrijutu5bergs4o7sgfad.onion
-loafhlyog55jtww2eqldflasnti7me64w4zoztqmik5oe4xyfiravxyd.onion
-mjevfcggupyf6o4tj3fgig7m6vf2xetsdev7rzjbxttwhl3uouar2kyd.onion
-mnuqin25leqrmfypizsieyo2h2ndegol5cmkdyqj7rkv7yv5uknlzmid.onion
-mtrwz36vndoar7iadv3qowefod5zmo3wz5iq2i63rpg266ysvo6frbid.onion
-ofsg5sib4xcikcczk7n73ypkd5uvzki57jiuj72ttg2hlrhpnwhaknqd.onion
-p32ug5tz2cgkk3sbclm7i6luoespolqq6v7dzldjwdpgxtm4h76zclyd.onion
-pckttjjykdykdk2os5smy4jk3t46nyqvqruch5xnnlh52yrt35wx5cad.onion
-pdsaqpznzqjy5t5myudk7odo37mu7g2olswaswhogrwglzk3iscbb2ad.onion
-pgejmpol56kkaa6xjjg3pkztkvwjoucqqdldrkka4ndaj467fr7jrgqd.onion
-ppbgauyt2evbm5xltxvmokoi4g5uh3wjdumudwlh2roxcodbl6ezzwqd.onion
-q5zwtdfoe2xr57jfik7pwmns3crjpx2ge6ibmrafjhqld64qyyk7tvyd.onion
-qdwmp4bjzvotdsyz326szvk4q3ftgtwyeoqsjyzywxw24y27n3z7mrqd.onion
-rlwryismmgjijryr55u5rqlbqghqvrwxe5qgxupuviyysxkky5wah6yd.onion
-sow4wrmh5xpwkdq775fouugrlizxjsmn4yyyoa7hckkyol4kjudhrwyd.onion
-svwwrxksrmg4ea5ndfrzurtixogdckqkx4bhodf2tkqpxnpmujggooyd.onion
-tkovkg2j6pigb6vnxfhfpg3n4w2fpegjnlrhgzwfvlt4wfspqiuqkxad.onion
-udnxk4aprzds7khgjsllgmo6hluicn2hibbhfih72csmoktksf3ky7qd.onion
-ufxmwdan67ml3t4637l6tgor7jdxxhm7xvdk2b2jexuu5unqvc3okbqd.onion
-uye4vspplkdvqlw3rjb7kvjwtwqictc5pepfxpdy3kifpxlwqhuhnaad.onion
-v6lajszeqfkt3h2nptorindpf3mow5p3thrx2vuqbqzbv3tjrcqmgdqd.onion
-vrfq4keuh6cx6hccue76emofi7ciitip3eqpe44mbnywamoi42wocsad.onion
-w2zvw33dab2vhk3pnyy5cmmybsvdwp7hgjwta4qoot57lsfxqpdbqpid.onion
-wsagl5qz3haptofnxyxayxxiyuomj6yqe4wruya6hyolohi7dux3ujqd.onion
-xouenzgjpkf6cfan5rrkbn27xe3shfnubchvnuztv2s2nnw4lpa2egqd.onion
-ysz2dvpvygiweaymzatzukaccvlhidkyw774ub2d77ibavelfoifgmqd.onion
-zcohozbt4gcrtbojiyukiza6q3gv4owz7sxrqmpvhd4bpczbnijlfnyd.onion
-znbyrqe4zrktft2kpwzb2ywx25k6exfdgxabky67csqado75364b2dad.onion
-
 # https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 # https://github.com/eset/malware-ioc/tree/master/gmera
 apperdenta.com
@@ -5630,7 +5544,6 @@ mcdonalds.promoscupom.cf
 promoscupom.cf
 
 # https://www.welivesecurity.com/2019/10/18/fleecing-onion-trojanized-tor-browser/
-onion4fh3ko2ncex.onion
 tor-browser.org
 torproect.org
 
@@ -5661,10 +5574,6 @@ dns1-1.7release.com
 ssl.dyn-dns.com
 svn-dns.ahnlabinc.com
 xp101.dyn-dns.com
-
-# https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform/
-# https://github.com/eset/malware-ioc/tree/master/attor
-idayqh3zhj5j243t.onion
 
 # https://www.welivesecurity.com/2019/10/03/casbaneiro-trojan-dangerous-cooking/
 # https://github.com/eset/malware-ioc/tree/master/casbaneiro
@@ -5706,7 +5615,6 @@ artisticday.icu
 astonishingwill.icu
 directfood.icu
 gradualrain.icu
-jg4rli4xoagvvmw47fr2bnnfu7t2epj6owrgyoee7daoh4gxvbt3bhyd.onion
 proapp.icu
 provincialwake.icu
 shrek.icu
@@ -7670,7 +7578,6 @@ woodysunglass.com
 wpchampion.website
 writegenuine.com
 wwwnutricionistalinacorpus.com
-x5oemza3jjjeb7j3.onion
 x-radio.net
 xiaomistore.website
 xtronik.ru
@@ -7709,20 +7616,16 @@ sssloop.space
 upsvarizones.space
 
 # https://marcoramilli.com/2018/06/08/dmosk-malware-targeting-italian-companies/
-4fsq3wnmms6xqybt.onion
 arh.mobipot.at
 bbb.mobipot.at
 clocktop.at
 drive.carlsongracieanaheim.com
-em2eddryi6ptkcnh.onion
 harent.cn
 inc.robatop.at
 j11.evama.at
 kerions.at
 loop.evama.at
-nap7zb4gtnzwmxsv.onion
 poi.robatop.at
-t7yz3cihrrzalznq.onion
 takhak.at
 torafy.cn
 u55.evama.at
@@ -7808,7 +7711,6 @@ ssrdevelopments.co.za
 actt.gr
 castillodepalazuelos.es
 jflo.ca
-n224ezvhg4sgyamb.onion.link
 oeirasdigital.pt
 
 # https://marcoramilli.com/2017/06/15/false-flag-attack-on-multi-stage-delivery-of-malware-to-italian-organisations/
@@ -8041,10 +7943,6 @@ sharjatv.com
 tacsent.com
 tprs-servers.eu
 wwmal.com
-
-# https://unit42.paloaltonetworks.com/cryptojacking-docker-images-for-mining-monero/
-5pwcq42aa42fjzel.onion
-73avhutb24chfsh6.onion
 
 # https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/
 qf2020.top
@@ -8432,7 +8330,6 @@ w.3ei.xyz
 w.21-3n.xyz
 
 # https://unit42.paloaltonetworks.com/attackers-increasingly-targeting-oracle-weblogic-server-vulnerability-for-xmrig-and-ransomware/
-aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion
 decryptor.top
 
 # https://unit42.paloaltonetworks.com/behind-the-scenes-with-oilrig/
@@ -8876,7 +8773,6 @@ castmart.ga
 farsson.com
 ggautosrep.ga
 glowtey.com
-jevuknz34ronf3pl.onion
 nyoxibwer.com
 pitchstak.ga
 stngpetty.ga
@@ -9071,10 +8967,6 @@ sophostraining.org
 sophoswarehouse.com
 updatefileservercross.com
 
-# https://news.sophos.com/en-us/2020/04/24/lockbit-ransomware-borrows-tricks-to-keep-up-with-revil-and-maze/
-lockbitkodidilol.onion
-lockbitks2tvnmwk.onion
-
 # https://news.sophos.com/en-us/2020/02/25/cloud-snooper-attack-bypasses-firewall-security-measures/
 cloud.newsofnp.com
 load.CollegeSmooch.com
@@ -9254,8 +9146,6 @@ zcop.ru
 # https://github.com/sophoslabs/IoCs/blob/master/Ransomware-Snatch
 mydatassuperhero.com
 mydatasuperhero.com
-snatch6brk4nfczg.onion
-snatch24uldhpwrm.onion
 
 # https://news.sophos.com/en-us/2019/08/06/baldr-vs-the-world-a-sophoslabs-report/
 # https://github.com/sophoslabs/IoCs/blob/master/Stealer-Baldr
@@ -11170,8 +11060,6 @@ svr.hkrevolution.club
 
 # https://blog.trendmicro.com/trendlabs-security-intelligence/operation-overtrap-targets-japanese-online-banking-users-via-bottle-exploit-kit-and-brand-new-cinobi-banking-trojan/
 # https://documents.trendmicro.com/assets/pdf/Tech%20Brief_Operation%20Overtrap%20Targets%20Japanese%20Online%20Banking%20Users.pdf
-4w6ylniamu6x7e3a.onion
-5frjkvw2w3wv6dnv.onion
 bank-japanposst.jp
 bank-japanpost.com
 bank-japanpostjp.com
@@ -11378,9 +11266,6 @@ payforsecure7.wordpress.com
 secangel7d.wordpress.com
 union83939k.wordpress.com
 zeushelpu.wordpress.com
-
-# https://www.us-cert.gov/ncas/analysis-reports/AR18-337B
-jcmi5n4c3mvgtyt5.onion
 
 
 
@@ -11813,14 +11698,6 @@ outlowupdt.info
 # https://blog.yoroi.company/research/spotting-rats-tales-from-a-criminal-attack/
 thisurl.doesntexist.com
 
-# https://blog.yoroi.company/research/loocipher-the-new-infernal-ransomware/
-hcwyo5rfapkytajg.darknet.to
-hcwyo5rfapkytajg.onion
-hcwyo5rfapkytajg.onion.pet
-hcwyo5rfapkytajg.onion.sh
-hcwyo5rfapkytajg.onion.ws
-hcwyo5rfapkytajg.tor2web.xyz
-
 # https://blog.yoroi.company/research/how-ursnif-evolves-to-keep-threatening-italy/
 fileneopolo.online
 filomilalno.club
@@ -11891,7 +11768,6 @@ wickedelve.com
 wtxhemp.com
 
 # https://blog.yoroi.company/warning/nuova-campagna-di-attacco-ransomware-sodinokibi/
-aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion
 decryptor.top
 
 # https://blog.yoroi.company/research/the-russian-shadow-in-eastern-europe-a-month-later/
@@ -11969,7 +11845,6 @@ link.kunstsignal.net
 
 # https://blog.yoroi.company/warning/campagna-di-attacco-ransomware/
 blogs.nwp2.xcut.pl
-gandcrabmfe6mnef.onion
 mutualamcoop.com.ar
 oshorainternational.com
 tehms.com
@@ -12118,9 +11993,6 @@ comsystem.ch
 coptermotion.aero
 cozynetworks.com
 creativeapparel.co.uk
-cryptsen7fo43rr6.onion
-cryptsen7fo43rr6.onion.cab
-cryptsen7fo43rr6.onion.to
 d-fannet.com
 danieljenkins2000.000webhostapp.com
 dawgpoundinc.com
