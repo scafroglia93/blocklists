@@ -1,0 +1,23 @@
+## hosts-blocklists
+## blocklists-eset
+
+## https://www.welivesecurity.com
+## https://github.com/eset/malware-ioc
+
+# https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/
+# https://github.com/eset/malware-ioc/tree/master/especter
+crystalnba.com
+server.microsoftassistant.com
+swj02.gicp.net
+yspark.justdied.com
+
+# https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/
+# https://github.com/eset/malware-ioc/tree/master/quarterly_reports/2021_T2
+library-update.com
+online-affiliate-mon.com
+online-source-validate.com
+service-deamon.com
+
+# https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/
+# https://github.com/eset/malware-ioc/tree/master/famoussparrow
+credits.offices-analytics.com
