@@ -35,3 +35,81 @@ service-deamon.com
 # https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/
 # https://github.com/eset/malware-ioc/tree/master/famoussparrow
 credits.offices-analytics.com
+
+# https://www.welivesecurity.com/2021/09/17/numando-latam-banking-trojan/
+# https://github.com/eset/malware-ioc/tree/master/numando
+enjoyds.s3.us-east-2.amazonaws.com
+lksluthe.s3.us-east-2.amazonaws.com
+procjdcals.s3.us-east-2.amazonaws.com
+rmber.s3.ap-southeast-2.amazonaws.com
+sucessmaker.s3.us-east-2.amazonaws.com
+trbnjust.s3.us-east-2.amazonaws.com
+webstrage.s3.us-east-2.amazonaws.com
+
+# https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/
+a.top4top.io
+apkup.xyz
+b.top4top.io
+d.top4top.io
+f.top4top.io
+j.top4top.io
+k.top4top.io
+l.top4top.io
+up4net.com
+
+# https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/
+# https://github.com/eset/malware-ioc/tree/master/sparklinggoblin
+cdn.cloudfiare.workers.dev
+update.facebookint.workers.dev
+
+# https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/
+# https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Anatomy-Of-Native-Iis-Malware-wp.pdf
+# https://github.com/eset/malware-ioc/tree/master/badiis
+20.3323sf.com
+allsoulu.com
+bj2.wzrpx.com
+bj.whtjz.com
+center.g666.org
+cs.whtjz.com
+df.e652.com
+dfcp.yyphw.com
+ee.allsoulu.com
+es.csdsx.com
+g666.org
+hz.wzrpx.com
+id.3323sf.com
+m.goudie.in
+m.pz8.in
+now.asmkpo.com
+pz9.in
+qp.008php.com
+qp.nmnsw.com
+sb.qrfy.net
+sc.300bt.com
+sc.wzrpx.com
+sf2223.com
+speed.wlaspsd.com
+sx.cmdxb.com
+sz.ycfhx.com
+tz.allsoulu.com
+xinxx.allsoulu.com
+xpq.0660sf.com
+xsc.b1174.com
+zz.allsoulu.com
+
+# https://www.welivesecurity.com/2021/07/20/url-shortener-services-android-malware-banking-sms-trojans/
+eaconhop.online
+emanalyst.biz
+fceptthis.biz
+fjobiwouldli.biz
+honeiwillre.biz
+mmunitedaw.info
+offeranda.biz
+oftongueid.online
+omeoneha.online
+ommunite.top
+ransociatelyf.info
+rycovernmen.club
+schemics.club
+sityinition.top
+ssedonthep.biz
