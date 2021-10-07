@@ -4,6 +4,20 @@
 ## https://www.welivesecurity.com
 ## https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/
+# https://www.welivesecurity.com/wp-content/uploads/2021/10/eset_fontonlake.pdf
+ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
+esnoptdkkiirzewlpgmccbwuynvxjumf.name
+etzndtcvqvyxajpcgwkzsoweaubilflh.com
+hkxpqdtgsucylodaejmzmtnkpfvojabe.com
+hm2.yrnykx.com
+nfcomizsdseqiomzqrxwvtprxbljkpgd.name
+pdjwebrfgdyzljmwtxcoyomapxtzchvn.com
+ruciplbrxwjscyhtapvlfskoqqgnxevw.name
+wcmbqxzeuopnvyfmhkstaretfciywdrl.name
+yhgrffndvzbtoilmundkmvbaxrjtqsew.com
+ywbgrcrupasdiqxknwgceatlnbvmezti.com
+
 # https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/
 # https://github.com/eset/malware-ioc/tree/master/especter
 crystalnba.com
