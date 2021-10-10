@@ -63,7 +63,6 @@ cdn.cloudfiare.workers.dev
 update.facebookint.workers.dev
 
 # https://www.welivesecurity.com/2021/08/11/iiserpent-malware-driven-seo-fraud-service/
-# https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Anatomy-Of-Native-Iis-Malware-wp.pdf
 # https://github.com/eset/malware-ioc/tree/master/badiis
 20.3323sf.com
 allsoulu.com
@@ -167,5 +166,34 @@ updateip.onmypc.net
 web.vpnkerio.com
 winupdate.ns02.us
 
+# https://www.welivesecurity.com/2021/06/09/gelsemium-when-threat-actors-go-gardening/
+# https://github.com/eset/malware-ioc/tree/master/gelsemium
+4vw37z.cn
+acro.ns1.name
+domain.dns04.com
+info.96html.com
+microsoftservice.dns1.us
+pctftp.otzo.com
+sitesafecdn.dynamic-dns.net
+sitesafecdn.hopto.org
+travel.dns04.com
+traveltime.hopto.org
 
-
+# https://www.welivesecurity.com/2021/04/06/janeleiro-time-traveler-new-old-banking-trojan-brazil/
+# https://github.com/eset/malware-ioc/tree/master/janeleiro
+acessoriapremierfantasiafaturas.eastus.cloudapp.azure.com
+arquivosemitidoscomsucesso.eastus.cloudapp.azure.com
+checa-env.cf3tefmhmr.eu-north-1.elasticbeanstalk.com
+comunicador.duckdns.org
+dinamicoscontratosvencidos.brazilsouth.cloudapp.azure.com
+eletronicadanfe.brazilsouth.cloudapp.azure.com
+emissaocomprovanteatrasado.eastus.cloudapp.azure.com
+emitidasfaturasfevereiro.brazilsouth.cloudapp.azure.com
+fatura-digital-arquiv-lo.brazilsouth.cloudapp.azure.com
+nota-eletronica-servicos.brazilsouth.cloudapp.azure.com
+portalrotulosfechamento.eastus.cloudapp.azure.com
+protocolo-faturamento-servico.brazilsouth.cloudapp.azure.com
+recuperaglobaldanfeonline.eastus.cloudapp.azure.com
+servicosemitidosglobalnfe.southcentralus.cloudapp.azure.com
+slkvemnemim.us-east-1.elasticbeanstalk.com
+tasoofile.us-east-1.elasticbeanstalk.com
