@@ -1,0 +1,9 @@
+## hosts-blocklists
+## blocklists-kaspersky
+
+## https://securelist.com/
+
+# https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/
+ddspadus.com
+disktest.com
+runblerx.com
