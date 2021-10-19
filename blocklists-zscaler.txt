@@ -3,6 +3,65 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/new-trickbot-and-bazarloader-campaigns-use-multiple-delivery-vectors
+blomsterhuset-villaflora.dk
+d15k2d11r6t6rl.cloudfront.net
+francopublicg.com
+glareestradad.com
+jolantagraban.pl
+
+# https://www.zscaler.com/blogs/security-research/squirrelwaffle-new-loader-delivering-cobalt-strike
+abogados-en-medellin.com
+amaimaging.com
+amjsys.com
+bartek-lenart.pl
+beautifulgist.com
+builtbvbh-com.gq
+builtbybh-com.gq
+builtybybh-com.gq
+bussiness-z.ml
+cctvfiles.xyz
+centralfloridaasphalt.com
+chaturanga.groopy.com
+cortinastelasytrazos.com
+ems.prodigygroupindia.com
+focus.focalrack.com
+fundacionverdaderosheroes.com
+gadhwadasamaj.techofi.in
+ghapan.com
+gruasingenieria.pe
+hrms.prodigygroupindia.com
+inetworx.co.za
+insurance.akademiilmujaya.com
+jhehosting.com
+key4net.com
+kmslogistik.com
+lead.jhinfotech.co
+lenartsa.webd.pro
+lotolands.com
+mercyfoundationcio.org
+moeinjelveh.ir
+novamarketing.com.pk
+orquideavallenata.com
+prevenzioneformazionelavoro.it
+procatodicadelacosta.com
+readgasm.com
+rinconadadellago.com.mx
+saraviatowing.net
+sextoystore.co.in
+shahanaschool.in
+shivrajengineering.in
+shoeclearanceoutlet.co.uk
+spiritofprespa.com
+srv7.corpwebcontrol.com
+stripemovired.ramfactoryarg.com
+syncun.com
+systemmentorsec.com
+tradingview-brokers.skoconstructionng.com
+voip.voipcallhub.com
+voipcallhub.com
+yoowi.net
+
 # https://www.zscaler.com/blogs/security-research/scammer-luring-apple-enthusiasts-launch-event
 2021apple.org
 
