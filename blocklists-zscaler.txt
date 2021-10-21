@@ -5,7 +5,6 @@
 
 # https://www.zscaler.com/blogs/security-research/new-trickbot-and-bazarloader-campaigns-use-multiple-delivery-vectors
 blomsterhuset-villaflora.dk
-d15k2d11r6t6rl.cloudfront.net
 francopublicg.com
 glareestradad.com
 jolantagraban.pl
