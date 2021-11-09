@@ -1341,7 +1341,7 @@ zso-mannheim.de
 zweerscreatives.nl
 zzyjtsgls.com
 
-https://www.zscaler.com/blogs/security-research/demystifying-full-attack-chain-minebridge-rat
+# https://www.zscaler.com/blogs/security-research/demystifying-full-attack-chain-minebridge-rat
 5tvstar.cn
 cloud-check.website
 goldendragon888.cn
