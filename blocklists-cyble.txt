@@ -3,6 +3,21 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2021/11/12/new-joker-variant-utilizes-multi-stage-payloads-technique/
+10-9mopub.oss-ap-southeast-6.aliyuncs.com
+q60uwsyk0p.s3.ca-central-1.amazonaws.com
+wo0.oss-accelerate.aliyuncs.com
+
+# https://blog.cyble.com/2021/11/11/gravity-rat-malware-returns-as-a-chat-application/
+api1.androidsdkstream.com
+
+# https://blog.cyble.com/2021/10/29/a-variant-of-oscorp-masquerades-as-flash-player-app-targeting-global-users/
+leevinsbots.xyz
+ttneiv.com
+
+# https://blog.cyble.com/2021/10/28/new-variant-of-fakecop-targeting-users-from-japan/
+210902.top
+
 # https://blog.cyble.com/2021/10/26/a-deep-dive-analysis-of-azorult-stealer/
 mantata.ac.ug
 marcyovcx.ru
