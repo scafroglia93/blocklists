@@ -4,6 +4,73 @@
 ## https://www.welivesecurity.com
 ## https://github.com/eset/malware-ioc
 
+# https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/
+# https://github.com/eset/malware-ioc/tree/master/swc-candiru
+addthis.events
+almanar.com.lb
+almasirahnews.com
+bit-ly.site
+bitly.bz
+bitly.tel
+bitly.tw
+bitly.zone
+bootstrapcdn.net
+casi.gov.sy
+clickcease.app
+code-afsanalytics.com
+customs.gov.ye
+cuturl.app
+cuturl.space
+denel.co.za
+denelaviation.co.za
+deneldynamics.co.za
+denellandsystems.co.za
+doubleclick.ac
+engagebaay.app
+engagebay.app
+fonts-gstatic.net
+hotjar.net
+instagrarn.co
+livesesion.bid
+livesession.bid
+llink.link
+manartv.com.lb
+medica-tradefair.co
+mfa.gov.ir
+middleeasteye.net
+mmy.ye
+moatads.co
+moe.gov.sy
+mof.gov.ye
+piaggioaerospace.it
+piwiks.com
+pmp.co.za
+rebrandly.site
+saba.ye
+scs-net.org
+sherathis.com
+shortlinkcut.link
+site-improve.net
+sitei-mprove.net
+smc.gov.ye
+static-doubleclick.net
+thesaudireality.com
+tinyurl.bz
+tinyurl.ist
+tinyurl.one
+tinyurl.photos
+tinyurl.plus
+url-tiny.co
+useproof.cc
+visitortrack.net
+webfex.bz
+webffx.bz
+webfx.bz
+yektenet.com
+yemen.net.ye
+yemenparliament.gov.ye
+yemenvision.gov.ye
+
 # https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/
 # https://www.welivesecurity.com/wp-content/uploads/2021/10/eset_fontonlake.pdf
 ekubhtlgnjndrmjbsqitdvvewcgzpacy.name
