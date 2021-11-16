@@ -3,6 +3,22 @@
 
 ## https://www.zscaler.com/blogs/research
 
+# https://www.zscaler.com/blogs/security-research/spike-danabot-malware-activity
+citationsherbe.at
+pastorcryptograph.at
+
+# https://www.zscaler.com/blogs/security-research/how-phishing-campaign-targeting-indian-banking-users-distributing-sms
+complaintregisterqueries.com
+complaintregisters.com
+complaintsqueryregister.com
+customersupportspoint.com
+furnitureshops.org
+onlineregisterquery.com
+
+# https://www.zscaler.com/blogs/security-research/new-multiloginbot-phishing-campaign
+multilogin-uk.com
+multilogin-us.com
+
 # https://www.zscaler.com/blogs/security-research/new-trickbot-and-bazarloader-campaigns-use-multiple-delivery-vectors
 blomsterhuset-villaflora.dk
 francopublicg.com
