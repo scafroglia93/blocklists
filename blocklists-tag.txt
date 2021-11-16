@@ -1,0 +1,102 @@
+## hosts-blocklists
+## blocklists-tag
+
+# https://blog.google/threat-analysis-group/
+
+# https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
+amnestyhk.org
+apple-webservice.com
+appleid-server.com
+
+# https://blog.google/threat-analysis-group/phishing-campaign-targets-youtube-creators-cookie-theft-malware/
+anypon.online
+awaken1337.xyz
+bragi-studio.com
+dizzify.me
+downloadnature.com
+downloadnature.space
+fast-redirect.host
+fenzor.com
+peoplep.site
+pixelka.fun
+playerupbo.xyz
+plplme.site
+pro-swapper.com
+rainway-gaming.com
+roudar.com
+spaceditor.space
+universe-photo.com
+user52406.majorcore.space
+voneditor.tech
+vontex.tech
+vortex-cloudgaming.com
+yourworld.site
+zeneditor.tech
+
+# https://blog.google/threat-analysis-group/countering-threats-iran/
+accessverification.online
+cdsa.xyz
+communication-shield.site
+continuetogo.me
+customers-verification-identifier.site
+digital-email-software.great-site.net
+filetransfer.club
+identifier-service-review.site
+nco2.live
+recovery-activity-identification.site
+recovery-service-activity.site
+reset-service-identity-mail.42web.io
+review-session-confirmation.site
+service-activity-session.online
+service-manager-notifications.info
+service-reset-password-moderate-digital.rf.gd
+summit-files.com
+verify-service-activity.site
+
+# https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/
+armenpress.org
+armlur.org
+armradio.org
+armtimes.net
+armtimes.org
+asbares.com
+db-control-uplink.com
+hetq.org
+hraparak.org
+kidone.xyz
+lioiamcount.com
+lragir.org
+supportcdn.web.app
+vegmobile.com
+wordzmncount.com
+workaj.com
+
+# https://blog.google/threat-analysis-group/update-campaign-targeting-security-researchers/
+bestwing.org
+codebiogblog.com
+coldpacific.com
+cutesaucepuppy.com
+devguardmap.org
+hireproplus.com
+hotelboard.org
+mediterraneanroom.org
+redeastbay.com
+regclassboard.com
+securielite.com
+spotchannel02.com
+wileprefgurad.net
+
+# https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/
+angeldonationblog.com
+blog.br0vvnn.io
+codevexillium.org
+colasprint.com
+dronerc.it
+edujikim.com
+fabioluciani.com
+investbooking.de
+krakenfolio.com
+opsonew3org.sg
+transferwiser.io
+transplugin.io
+trophylab.com
