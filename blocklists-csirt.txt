@@ -3,6 +3,22 @@
 
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/analisi-del-trojan-bancario-sharkbot-cb01-211116-csirt-ita
+sharkedtest1.xyz
+sharkedtestuk.xyz
+
+# https://csirt.gov.it/contenuti/attivita-malevole-verso-server-che-espongono-api-rest-docker-bl01-211110-csirt-ita
+teamtnt.red
+
+# https://csirt.gov.it/contenuti/ransomware-babuk-distribuito-sfruttando-vulnerabilita-note-di-exchange-bl01-211104-csirt-ita
+fbi.fund
+xxxs.info
+
+# https://csirt.gov.it/contenuti/rilevata-compromissione-della-libreria-uaparser-js-bl01-211027-csirt-ita
+citationsherbe.at
+
+#  https://csirt.gov.it/contenuti/campagna-di-phishing-ai-danni-degli-utenti-facebook-al02-211026-csirt-ita
+
 # https://csirt.gov.it/contenuti/campagna-di-smishing-traccia-il-tuo-pacco-al01-210818-csirt-ita
 g62z.com
 hatonia.com
