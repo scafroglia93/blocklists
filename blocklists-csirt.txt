@@ -3,6 +3,9 @@
 
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/campagna-di-smishing-ai-danni-degli-utenti-xiaomi
+xiaomi-users.com
+
 # https://csirt.gov.it/contenuti/analisi-del-trojan-bancario-sharkbot-cb01-211116-csirt-ita
 sharkedtest1.xyz
 sharkedtestuk.xyz
