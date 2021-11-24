@@ -245,6 +245,7 @@ aruba-customerarea-fattura.com
 aruba-pagamento-sys.com
 aruba-sys-fattura.com
 aruba.pagamenti-sys.com
+aruba-servizi.com
 arvacol.com
 arvindjewels.com
 asapdecor.com
@@ -3207,6 +3208,7 @@ zydonghua.com
 zyxeldevices.com
 
 vigom.store
+
 shop.cmfurnituremall.com	
 paypal-login69.com	
 finlzzm.com	
@@ -3214,3 +3216,11 @@ account.costumer.paypal.com.happymoments.ae
 hollykim.com
 fatuvocemaga.online	
 inicioclientemagazin.online
+
+hypecreator.top
+password-update.com	
+amazoon.site	
+eservce.co.uk	
+ionian-eggplant-scissor.glitch.me	
+kurortnoye.com.ua
+
