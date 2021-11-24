@@ -3,6 +3,23 @@
 
 # https://csirt.gov.it/contenuti
 
+# https://csirt.gov.it/contenuti/squirrelwaffle-distribuito-sfruttando-vulnerabilita-note-di-exchange-al01-211124-csirt-ita
+aayomsolutions.co.in
+agoryum.com
+aparnashealthfoundation.aayom.com
+arancal.com
+constructorachg.cl
+dongarza.com
+grandthum.co.in
+headlinepost.net
+imprimija.com.br
+iperdesk.com
+mcdreamconcept.ng
+oel.tg
+omoaye.com.br
+stunningmax.com
+taketuitions.com
+
 # https://csirt.gov.it/contenuti/campagna-di-smishing-ai-danni-degli-utenti-xiaomi
 xiaomi-users.com
 
