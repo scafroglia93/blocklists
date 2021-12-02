@@ -3,6 +3,13 @@
 
 ## https://blog.cyble.com/
 
+# https://blog.cyble.com/2021/12/01/banking-trojan-targets-banking-users-in-malaysia/
+csapks.online
+redlabapi.online
+
+# https://blog.cyble.com/2021/11/26/new-telegram-based-malware-aberebot-2-0-targets-social-media-cryptocurrency-applications-and-213-banks-in-22-countries/
+itts.hr
+
 # https://blog.cyble.com/2021/11/12/new-joker-variant-utilizes-multi-stage-payloads-technique/
 10-9mopub.oss-ap-southeast-6.aliyuncs.com
 q60uwsyk0p.s3.ca-central-1.amazonaws.com
