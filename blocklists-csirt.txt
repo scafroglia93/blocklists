@@ -3,6 +3,41 @@
 
 # https://csirt.gov.it/contenuti
 
+# https://cert-agid.gov.it/news/cert-agid-condivide-i-propri-ioc-per-la-mitigazione-degli-attacchi-log4shell/
+3e87f42214144c0e9550.y.psc4fuel.com
+223bdb31890b475c.y.psc4fuel.com
+2599ddb9ef1b4a50.y.psc4fuel.com
+8393fe131d384260.y.psc4fuel.com
+796066049b484f65.y.psc4fuel.com
+4579997215e7750180a8.d.requestbin.net
+ahr0chm6ly93yxrjac5hbwf6b24uy28udws6ndqz.4579997215e7750180a8.d.requestbin.net
+app04.gpsts.co.za
+attacker.com
+b79fe53524f04aeb.y.psc4fuel.com
+baldervain.com
+c6pj00ppfhiq0g1pq80gcg3i5hyyggscg.interactsh.com
+c54f05d3df5740bb.y.psc4fuel.com
+d.requestbin.net
+dqwowqjudhqwdhasdadadw.com
+gandalinir.com
+gimmoxen.com
+icme.hpc.msstate.edu
+ij.imjoy.io
+kmwor1d.asuscomm.com
+litpartyrentals.com
+log.exposedbotnets.ru
+mionakora.com
+nazi.uy
+pasrtsebarium.com
+pickyourfavadnetwork.com
+second-stage.attacker.com
+second-stage.example.com
+shosril.com
+test.sample_domain.com
+vemgreild.com
+woodmagazine.com
+wwwcie.ups.com
+
 # https://csirt.gov.it/contenuti/squirrelwaffle-distribuito-sfruttando-vulnerabilita-note-di-exchange-al01-211124-csirt-ita
 aayomsolutions.co.in
 agoryum.com
