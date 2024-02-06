@@ -1,0 +1,6 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-meta
+## https://about.fb.com/news/
+## https://transparency.fb.com/it-it/metasecurity/threat-reporting

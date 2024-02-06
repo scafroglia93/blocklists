@@ -1,0 +1,5 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-fortinet
+## https://www.fortinet.com/blog/threat-research

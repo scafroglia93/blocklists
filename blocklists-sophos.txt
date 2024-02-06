@@ -1,0 +1,6 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-sophos
+## https://news.sophos.com/en-us/
+## https://github.com/sophoslabs/IoCs

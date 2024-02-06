@@ -1,0 +1,5 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-mcafee
+## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/

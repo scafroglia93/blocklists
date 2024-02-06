@@ -1,0 +1,7 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-avast
+## https://blog.avast.com/topic/threat-research
+## https://decoded.avast.io/
+## https://github.com/avast/ioc
