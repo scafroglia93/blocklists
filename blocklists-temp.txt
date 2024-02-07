@@ -81,12 +81,13 @@ idowall.com
 
 bdd1a085d651082ad567b03e5186d1d46d822bb7794157ab8cce95d850a3caaf 	
 
+# https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 
+45.182.189.100
+81.19.138.52
+179.60.150.34
 
-
-
-
-
+b5acf14cdac40be590318dee95425d0746e85b1b7b1cbd14da66f21f2522bf4d
 
 
 
