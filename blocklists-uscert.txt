@@ -2,4 +2,4 @@
 ## domains-ips-hashes
 
 ## blocklists-uscert
-## https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A65&f%5B1%5D=advisory_type%3A94
+## https://www.cisa.gov/news-events/cybersecurity-advisories
