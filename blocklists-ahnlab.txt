@@ -4,5 +4,66 @@
 ## blocklists-ahnlab
 ## https://asec.ahnlab.com/en/
 
+
+# https://asec.ahnlab.com/en/61335/
+
+85.209.176.158
+
+0bb437212ee1af602f7a34670825ff43
+04dc064b9e6fbc1466f5844c2dd422a4
+9aa64f465c28e4d9af91af2fe2d29e5e
+15e98eb4a6fd73ff10cac751d467375e
+20a88382040e47209e50652599d92440
+97e5b88cf1a452393c790ff84f08e3be
+a69f529f5fa414aba6af1f063ec7ce32
+ac281f9830ee7f0a142cecc76fe59da9
+cfe22644d656ca2fbdc44aaecb37fab9 
+
+# https://asec.ahnlab.com/en/61185/
+
+47.103.63.1
+106.13.198.93
+106.55.28.159
+115.219.2.97
+117.50.187.121
+124.221.81.81
+175.178.80.251
+180.151.19.85
+218.75.72.82
+
+# https://asec.ahnlab.com/en/61104/
+
+2024127.ltd
+dfxa.hwkltou.yoanka1r.sbs
+km.pvncs157.sbs
+
+# https://asec.ahnlab.com/en/61130/
+
+87cf92cb5ff0fc445fb05dfc7321bd3e 
+
+# https://asec.ahnlab.com/en/61164/
+
+1ea56f7d135c6d9394138b91b3b7bed2
+2b7931a70748c38c8046dea9dc708379
+6647cd9d0ab63506c230fbce8019d0b8
+
+# https://asec.ahnlab.com/en/61000/
+
+2.57.149.233
+
+3e26e778a4d28003686596f988942646
+6d44f8f3c1608e5958b40f9c6d7b6718
+a02157550bc9b491fd03cad394ccdfe7
+a6e2722cff3abb214dc1437647964c57
+a24bac9071fb6e07e13c52f65a093fce
+ac34ba84a5054cd701efad5dd14645c9
+b3c8d81d6f8d19e5c07e1ca7932ed5bf
+c28b33f7365f9dc72cc291d13458f334
+d6b4b1b6b0ec1799f57142798c5daf5b
+
+
+
+
+
 ## blocklists-ahnlab-korean
 ## https://asec.ahnlab.com/ko/
