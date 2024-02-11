@@ -190,22 +190,22 @@ f59e2672f43f327c9c84c057ad3840300a2cd1db1c536834f9e2531c74e5fd1c
 # https://securelist.com/spyware-whatsapp-mod/110984/
 
 
-application-marketing.com
-whatsupdates.com
+3ssem.com
 android-soft-store.com
-whats-media.com
+application-marketing.com
+goldnwhats.app
+omarwhats.app
+watsabplusgold.com
 whats-mate.com
 whats-mate.net
+whats-media.com
 whats-mydns.com
 whats-mydns.net
 whats-vpn.com
 whats-vpn.net
 whatsagold.app
-watsabplusgold.com
-www.whatsgold.app
-www.3ssem.com
-goldnwhats.app
-omarwhats.app
+whatsgold.app
+whatsupdates.com
 
 1db5c057a441b10b915dbb14bba99e72
 fe46bad0cf5329aea52f8817fa49168c
