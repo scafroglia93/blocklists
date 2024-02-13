@@ -5,6 +5,25 @@
 ## https://www.zscaler.com/blogs/research
 
 
+# https://www.zscaler.com/blogs/security-research/d-evolution-pikabot
+
+23.226.138.143
+23.226.138.161
+37.60.242.85
+37.60.242.86
+65.20.66.218
+85.239.243.155
+95.179.191.137
+104.129.55.103
+104.129.55.104
+139.84.237.229
+158.220.80.157
+158.220.80.167
+178.18.246.136
+
+555687ca3149e23ee980a3acf578e0572da556cf34c87aecf48596834d6b496f
+ca5fb5814ec62c8f04936740aabe2664b3c7d036203afbd8425cd67cf1f4b79d
+
 # https://www.zscaler.com/blogs/security-research/tracking-15-years-qakbot-development
 
 0a3caa2845251b8fb5ab72f450edd488
