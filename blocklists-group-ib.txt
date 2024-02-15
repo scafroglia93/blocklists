@@ -3,3 +3,56 @@
 
 ## blocklists-groupib
 ## https://www.group-ib.com/blog
+
+
+# https://www.group-ib.com/blog/goldfactory-ios-trojan/
+
+ms2ve.cc
+hds6y.cc
+smgeo.cc
+dg1e.com
+zu7kt.cc
+ks8cb.cc
+wbke.cc
+t8bc.xyz
+bv8k.xyz
+hzc5.xyz
+wsy6.xyz
+r6go.xyz
+msc4.xyz
+wts3.xyz
+qskm.xyz
+tp7s.xyz
+vki9.xyz
+bgt6.xyz
+gt6ss.xyz
+
+18.142.163.73
+
+4571f8c8560a8a66a90763d7236f55273750cf8dd8f4fdf443b5a07d7a93a3df
+b72d9a6bd2c350f47c06dfa443ff7baa59eed090ead34bd553c0298ad6631875
+d8834a21bc70fbe202cb7c865d97301540d4c27741380e877551e35be1b7276b
+b5dd9b71d2a359450d590bcd924ff3e52eb51916635f7731331ab7218b69f3b9
+
+# https://www.group-ib.com/blog/resumelooters/
+
+8t.ae	
+sb8.co	
+qu3.cc	
+8r.ae	
+3×1.me	
+7o.ae	
+9gp.cc	
+recruit.iimjobs.asia
+admin.cloudnetsofe.com
+recruiter.foundit.asia
+
+139.180.137.107
+139.84.130.232
+139.84.130.232
+139.84.130.232
+139.84.168.189		
+139.84.62.151		
+173.199.122.65		
+139.180.137.107	
+139.84.130.232
