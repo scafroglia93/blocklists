@@ -23,7 +23,7 @@ bc25f7836c273763827e1680856ec6d53bd73bbc4a03e9f743eddfc53cf68789
 e136717630164116c2b68de31a439231dc468ddcbee9f74cca511df1036a22ea
 fb3995289bac897e881141e281c18c606a772a53356cc81caf38e5c6296641d4
 
-# https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/#post-132226-_unreqbi2isoo
+# https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/
 
 ad-blocking24.net
 allureoutlayterrific.com
