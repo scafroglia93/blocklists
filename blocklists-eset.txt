@@ -6,6 +6,51 @@
 ## https://github.com/eset/malware-ioc
 
 
+# https://www.welivesecurity.com/en/eset-research/operation-texonto-information-operation-targeting-ukrainian-speakers-context-war/
+
+choicelive149200.com
+infoattention.com
+infonotifi.com
+infonotification.com
+login.microsoftidonline.com
+minagroua.org
+minuaregion.org
+minuaregionbecareful.com
+navalny-votes.net
+navalny-votesmart.net
+navalny-voting.net
+stronginfo1.com
+ua-minagro.com
+uaminagro.com
+uamtu.com
+
+45.9.148.165
+45.9.148.207
+45.9.150.58
+45.129.199.200
+45.129.199.222
+46.249.58.177
+89.116.52.79
+154.49.137.16
+185.12.14.13
+193.43.134.113
+195.54.160.59
+
+0335d2778acd347e8122a2112eea6a25
+8ed64fc1197b562e1188b936592a7f83
+56aaa12c50afcc9b89d2675a3ec67604
+449f36437b57965d3879b407763c4a3b
+
+3c201b2e40357996b3832c72ea305606f07477e3
+15bf71a771256846d44e8cb3012ee6bc6f9e1532
+960341b2c296c425821e4b42435a0618b89d4037
+bb14153040608a4f559f48c20b98c1056c794a60
+
+649d1629f082a27922df37e36d0226edc11776719338bf5c9ea566bcafa1d0e1
+53005e23db5f5acb692e9165cbfd4adc341a140c67f9cf266de11bc4fe824fac
+ca157f1a63e5427de0b0fb4ae71874d92dcad9bb7c1558974852241bb07e792d
+febd200568254a33420f360096c7420ee93b0f5b4f409bbb0874789a4f630a28
+
 # https://www.welivesecurity.com/en/eset-research/vajraspy-patchwork-espionage-apps/
 
 chatapp-6b96e-default-rtdb.firebaseio.com
