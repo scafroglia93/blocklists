@@ -5,6 +5,12 @@
 ## https://unit42.paloaltonetworks.com/
 
 
+# https://unit42.paloaltonetworks.com/connectwise-threat-brief-cve-2024-1708-cve-2024-1709/
+
+118.69.65.60
+155.133.5.14
+155.133.5.15
+
 # https://unit42.paloaltonetworks.com/volt-typhoon-threat-brief/
 
 3a9d8bb85fbcfe92bae79d5ab18e4bca9eaf36cea70086e8d1ab85336c83945f
