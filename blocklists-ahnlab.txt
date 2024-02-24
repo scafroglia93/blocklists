@@ -5,6 +5,58 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/61934/
+
+ai.aerosp.p-e.kr
+ai.bananat.p-e.kr
+ai.daysol.p-e.kr
+ai.kimyy.p-e.kr
+ai.kostin.p-e.kr
+ai.limsjo.p-e.kr
+ai.negapa.p-e.kr
+ai.selecto.p-e.kr
+ai.ssungmin.p-e.kr
+ar.kostin.p-e.kr
+ca.bananat.p-e.kr
+ce.aerosp.p-e.kr
+coolsystem.co.kr
+dl.netup.p-e.kr
+li.ssungmin.p-e.kr
+ol.negapa.p-e.kr
+pe.daysol.p-e.kr
+pi.selecto.p-e.kr
+qa.jaychoi.p-e.kr
+qi.limsjo.p-e.kr
+sa.netup.p-e.kr
+ve.kimyy.p-e.kr
+viewer.appofficer.kro.kr
+
+013c4ee2b32511b11ee9540bb0fdb9d1
+035cf750c67de0ab2e6228409ac85ea3
+2aaa3f1859102aab35519f0d4c1585dd
+2b678c0f59924ca90a753daa881e9fd3
+7b6d02a459fdaa4caa1a5bf741c4bd42
+8d4af59eebdcda10f3c88049bb097a3a
+9e75705b4930f50502bcbd740fc3ece1
+19c2decfa7271fa30e48d4750c1d18c1
+27ef6917fe32685fdf9b755eb8e97565
+42ea65fda0f92bbeca5f4535155125c7
+62fba369711087ea37ef0b0ab62f3372
+88f183304b99c897aacfa321d58e1840
+4168ff8b0a3e2f7e9c96afb653d42a01
+6097d030fe6f05ec0249e4d87b6be4a6
+7457dc037c4a5f3713d9243a0dfb1a2c
+9360a895837177d8a23b2e3f79508059
+87429e9223d45e0359cd1c41c0301836
+4222492e069ac78a55d3451f4b9b9fca
+a67cf9add2905c11f5c466bc01d554b0
+b97abf7b17aeb4fa661594a4a1e5c77f
+b532f3dcc788896c4844f36eb6cee3d1
+c8e7b0d3b6afa22e801cacaf16b37355
+d67abe980a397a94e1715df6e64eedc8
+dc636da03e807258d2a10825780b4639
+e4a6d47e9e60e4c858c1314d263aa317
+
 # https://asec.ahnlab.com/en/61584/
 
 qcpanel.hackcrack.io
