@@ -78,6 +78,17 @@ f4f1fb65df80666fe67b22b84d9d8f967449d1249c33ad97f4305784fa41e747
 fbd5e48ee691df949e0dd3687755c80cc5b9d1a1a89e7dc486694370697de893
 
 
+## morphisec
+## https://blog.morphisec.com/
+
+
+# https://blog.morphisec.com/unveiling-uac-0184-the-remcos-rat-steganography-saga
+
+194.87.31.181
+
+4b36a82e1781ffa1936703971e2d94369e3059c8524d647613244c6f9a92690b  
+
+
 ## trustwave
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
