@@ -5,6 +5,38 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/62144/
+
+b.niupilao.vip
+bo.appleupcheck.com
+check.snapupdate.org
+cloud.awsxtd.com
+update.kworker.net
+
+1.117.165.141
+13.214.222.35
+23.100.88.61
+42.51.40.184
+43.140.251.218
+43.156.118.72
+81.68.143.132
+101.42.139.110
+194.36.191.75
+
+0a35e06f53c17ab1c8e18e7e0c0821d8
+035f83018cf96f5e1f6817ccd39fc0b6
+4f3afdcfff8f7994b7d3d3fbaa6858b4
+7d631e5b0c78805dd5d440cce788d25b
+97db3f7676380f0baa3840ed5d5c1767
+905c2158fadfe31850766f010e149a0f
+8457f71c6a5fe83bb513d1dfba99271a
+35743db3dc333245ef5b69100721ced9
+75838e5d481da40db2e235a6d5a222ef
+a15ebd19cac42b0297858018da62b1be
+b4910e998cf58da452f8151b71c868cb
+c440bd814be37fac669567131c4ba996
+d9f00f71efabdfcca7c63d4b0805673c
+
 # https://asec.ahnlab.com/en/61934/
 
 ai.aerosp.p-e.kr
