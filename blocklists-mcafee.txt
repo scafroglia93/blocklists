@@ -5,6 +5,14 @@
 ## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/
 
 
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/guloader-unmasked-decrypting-the-threat-of-malicious-svg-files/
+
+winderswonders.com
+
+0a196171571adc8eb9edb164b44b7918f83a8425ec3328d9ebbec14d7e9e5d93
+66b04a8aaa06695fd718a7d1baa19386922b58e797634d5ac4ff96e79584f5c1
+b20ea4faca043274bfbb1f52895c02a15cd0c81a333c40de32ed7ddd2b9b60c0
+
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/moqhao-evolution-new-variants-start-automatically-right-after-installation/
 
 61b4cca67762a4cf31209056ea17b6fb212e175ca330015d804122ee6481688e
