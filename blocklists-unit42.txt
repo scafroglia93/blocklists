@@ -5,6 +5,15 @@
 ## https://unit42.paloaltonetworks.com/
 
 
+# https://unit42.paloaltonetworks.com/new-linux-variant-bifrost-malware/
+
+download.vmfare.com
+
+45.91.82.127
+
+2aeb70f72e87a1957e3bc478e1982fe608429cad4580737abe58f6d78a626c05
+8e85cb6f2215999dc6823ea3982ff4376c2cbea53286e95ed00250a4a2fe4729
+
 # https://unit42.paloaltonetworks.com/i-soon-data-leaks/#post-132721-_wven14kmgum2
 
 gmail.isooncloud.com
