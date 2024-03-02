@@ -5,6 +5,19 @@
 ## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/
 
 
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/rise-in-deceptive-pdf-the-gateway-to-malicious-payloads/
+
+bio0king.blogspot.com
+htloctmain25.blogspot.com
+
+149.154.167.220
+
+3ea81c292f36f2583d2291e8a393014da62767447dba7b139a6c45574647aa2b
+5b6d8f91201ba9c879e46062190817954e28ceb61a67e55870bb61d1960854ee
+8f8264c173e6d036e87b706dbb87e3036ae17df32e53a683c87bff94fce2c242
+db726e060f4feccf4bdfa843e3c10cbac80509585fd55c6d1bfce5e312a4e429
+dec2ce698ab8600d96dd3353b5e47d802441c6df18aed1dd6a2b78311369659e
+
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/guloader-unmasked-decrypting-the-threat-of-malicious-svg-files/
 
 winderswonders.com
