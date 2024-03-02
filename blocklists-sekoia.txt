@@ -265,6 +265,24 @@ f57362b1adf5981fe33e6ea2a59478d67bb46ec1549e75211b1cf492cd920658
 fa66c3f0cbfacca3d51e608b53ca7819d2dc5249ad1465bd82578602174c285f
 ffc58b49c79e420fcb2cb383190c1f21f8aa90e4aed547ccbe86cfeafc2b263f
 
+# https://blog.sekoia.io/the-predator-spyware-ecosystem-is-not-dead/
+
+bni-madagascar.com
+cabinet-salyk.kz
+e-kgd.kz
+fr-monde.com
+jumia-egy.com
+kejoranews.net
+mmegi.co
+myfawry.net
+sdntribune.co
+suarapapua.co
+ulstur.co
+vlast-news.com
+yo-um7.com
+
+169.239.129.76
+
 # https://blog.sekoia.io/scattered-spider-laying-new-eggs/
 
 aflac-hr.com
