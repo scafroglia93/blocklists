@@ -3,14 +3,25 @@
 
 ## blocklists-alternate
 
+akina-milla.xyz
+associacaocarioca.org.br
 blogspoints.ru
+bridgingandcommercial.co.uk
 dscnexus.it
+fr.blbl.cr
 freescanonline.com
 grandmarinaluxuryresidences.com
+objects-us-east-1.dream.io
+server.juniorfoxy.ooo.resolved
 url.zip
 
 97.107.138.172
 111.7.96.156
 121.227.31.13
+124.131.212.33
 128.14.211.190
+157.245.58.99
+185.94.188.130
 200.59.85.167
+221.0.123.185
+222.137.136.35
