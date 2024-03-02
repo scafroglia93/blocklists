@@ -2,3 +2,15 @@
 ## domains-ips-hashes
 
 ## blocklists-alternate
+
+blogspoints.ru
+dscnexus.it
+freescanonline.com
+grandmarinaluxuryresidences.com
+url.zip
+
+97.107.138.172
+111.7.96.156
+121.227.31.13
+128.14.211.190
+200.59.85.167
