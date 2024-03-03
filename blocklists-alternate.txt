@@ -7,12 +7,17 @@ akina-milla.xyz
 associacaocarioca.org.br
 blogspoints.ru
 bridgingandcommercial.co.uk
+coinhive.com
+dronmakerparallel.email
 dscnexus.it
 fr.blbl.cr
 freescanonline.com
 grandmarinaluxuryresidences.com
+monero.hashvault.pro
 objects-us-east-1.dream.io
+secnutis.com
 server.juniorfoxy.ooo.resolved
+tdesktop.telega.one
 url.zip
 
 38.132.109.165
@@ -22,10 +27,13 @@ url.zip
 64.62.197.140
 64.62.197.195
 87.236.176.189
+95.142.121.62
 97.107.138.172
+101.35.9.250
 111.7.96.156
 121.227.31.13
 124.131.212.33
+124.152.118.194
 128.14.211.190
 157.245.58.99
 159.89.47.106
@@ -33,5 +41,7 @@ url.zip
 185.94.188.130
 190.94.16.211
 200.59.85.167
+202.107.226.5
+206.81.1.88
 221.0.123.185
 222.137.136.35
