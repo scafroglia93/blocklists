@@ -5,6 +5,24 @@
 ## https://www.proofpoint.com/us/blog
 
 
+# https://www.proofpoint.com/us/blog/threat-insight/ta577s-unusual-attack-chain-leads-ntlm-data-theft
+
+66.63.188.19
+85.239.33.149
+89.117.1.160
+89.117.1.161
+89.117.2.33
+89.117.2.34
+103.124.104.22
+103.124.104.76
+103.124.105.208
+103.124.105.233
+103.124.106.224
+104.129.20.167
+146.19.213.36
+155.94.208.137
+176.123.2.146
+
 # https://www.proofpoint.com/us/blog/threat-insight/bumblebee-buzzes-back-black
 
 q905hr35.life
