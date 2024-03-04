@@ -4,6 +4,73 @@
 ## blocklists-misc
 
 
+# https://www.bleepingcomputer.com/news/security/content-farm-impersonates-60-plus-major-news-outlets-like-bbc-cnn-cnbc/
+
+australiannewstoday.com
+bbcnewstoday.com
+bloombergnewstoday.com
+bostonnewstoday.com
+britishnewstoday.com
+canadiannewstoday.com
+chinaworldnewstoday.com
+chroniclenewstoday.com
+cnbcnewstoday.com
+cnnworldtoday.com
+crunchbasenewstoday.com
+dailyexpressnewstoday.com
+dailyheraldnewstoday.com
+dailymirrornewstoday.com
+dailystarnewstoday.com
+dailytelegraphnewstoday.com
+dutchnewstoday.com
+dwnewstoday.com
+europeannewstoday.com
+forbesnewstoday.com
+frenchnewstoday.com
+germaynewstoday.com
+guardiannewstoday.com
+headlinesworldnews.com
+huffingtonposttoday.com
+irishnewstoday.com
+italiannewstoday.com
+livemintnewstoday.com
+maltanewstime.com
+mirrornewstoday.com
+nationalposttoday.com
+neatherlandnewstoday.com
+neweuropetoday.com
+norwaynewstoday.com
+oxfordnewstoday.com
+portugalnewstoday.com
+postgazettenewstoday.com
+republicofchinatoday.com
+reuterstoday.com
+russiannewstoday.com
+scotlandnewstoday.com
+spanenewstoday.com
+switzerlandnewstoday.com
+thedailymailnewstoday.com
+thedailytelegraphnewstoday.com
+theexpressnewstoday.com
+theheraldnewstoday.com
+theindependentnewstoday.com
+theirishtimesnewstoday.com
+theirishtimestoday.com
+themetronewstoday.com
+themirrornewstoday.com
+thequintnewstoday.com
+thestarnewstoday.com
+thesunnewstoday.com
+thetelegraphnewstoday.com
+timesofnetherland.com
+timesofspanish.com
+topeuropenews.com
+topworldnewstoday.com
+turkeynewstoday.com
+walesnewstoday.com
+washingtonposttoday.com
+washingtontimesnewstoday.com
+
 # https://doubleagent.net/telecommunications/backdoor/gtp/2024/02/27/GTPDOOR-COVERT-TELCO-BACKDOOR
 
 5cbafa2d562be0f5fa690f8d551cdb0bee9fc299959b749b99d44ae3fda782e4
