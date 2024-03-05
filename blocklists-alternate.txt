@@ -21,6 +21,7 @@ goo.by
 grandmarinaluxuryresidences.com
 himebauch.live
 meliorras.com
+minexmr.com
 monero.hashvault.pro
 objects-us-east-1.dream.io
 secnutis.com
@@ -29,6 +30,7 @@ tdesktop.telega.one
 url.zip
 webmine.cz
 
+27.215.241.109
 37.0.11.56
 38.132.109.165
 39.90.147.140
@@ -44,6 +46,7 @@ webmine.cz
 85.202.169.147
 87.236.176.189
 87.251.67.40
+92.115.3.157
 95.142.121.62
 97.107.138.172
 101.35.9.250
@@ -60,9 +63,12 @@ webmine.cz
 176.116.165.164
 183.230.204.243
 185.94.188.130
+185.156.72.10
 190.94.16.211
 190.217.48.58
+193.163.125.121
 193.163.125.177
+199.76.38.123
 200.59.85.167
 202.107.226.5
 203.159.80.91
