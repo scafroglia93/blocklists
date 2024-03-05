@@ -5,6 +5,31 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/62446/
+
+jp.anotepad.com
+js.domaiso.com
+linuxwork.net
+newujs.com
+t0rguard.net
+w.linuxwork.net
+w.newujs.com
+
+1aebf536268a9ed43b9c2a68281f0455
+7bcfea3889f07f1d8261213a77110091
+655b3449574550e073e93ba694981ef4
+929b8f0bdbb2a061e4cf2ce03d0bbc4c
+1341e507f31fb247c07beeb14f583f4f
+5769d2f0209708b4df05aec89e841f31
+290789ea9d99813a07294ac848f808c9
+3669959fdb0f83239dba1a2068ba25b3
+a35c6fbe8985d67a69c918edcb89827e
+da3588a9bd8f4b81c9ab6a46e9cddedd
+e9ac99f98e8fbd69794a9f3c5afdcb52
+f97fa0eb03952cd58195a224d48f1124
+f271e0ae24a9751f84c5ae02d29f4f0e
+fff21684df37fa7203ebe3116e5301c1
+
 # https://asec.ahnlab.com/en/62177/
 
 6cfff5e65cabf8090ab9aa8b9977f4a8
