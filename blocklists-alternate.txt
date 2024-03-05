@@ -3,18 +3,24 @@
 
 ## blocklists-alternate
 
+a0k6rsuux.sbs
 akina-milla.xyz
 associacaocarioca.org.br
 blogspoints.ru
 bridgingandcommercial.co.uk
 coin-hive.com
 coinhive.com
+colossuspay.info
 dailytickyclock.org
 dronmakerparallel.email
 dscnexus.it
+ebara-elliott-energy.biz
 fr.blbl.cr
 freescanonline.com
+goo.by
 grandmarinaluxuryresidences.com
+himebauch.live
+meliorras.com
 monero.hashvault.pro
 objects-us-east-1.dream.io
 secnutis.com
@@ -30,6 +36,7 @@ webmine.cz
 64.62.197.23
 64.62.197.76
 64.62.197.140
+64.62.197.173
 64.62.197.186
 64.62.197.195
 85.202.169.147
@@ -39,6 +46,9 @@ webmine.cz
 97.107.138.172
 101.35.9.250
 111.7.96.156
+117.199.77.78
+117.211.213.231
+118.36.155.156
 121.227.31.13
 124.131.212.33
 124.152.118.194
@@ -57,3 +67,4 @@ webmine.cz
 220.250.10.250
 221.0.123.185
 222.137.136.35
+223.10.18.27
