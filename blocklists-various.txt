@@ -58,6 +58,29 @@ cebadcafee4ed6a69c64ab08496163d7
 d37e385f2fa64173c44b001b40ce48a3
 
 
+## cado
+## https://www.cadosecurity.com/blog/
+
+
+# https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
+
+b.9-9-8.com
+
+47.96.69.71
+107.189.31.172
+209.141.37.110
+
+0c3fe24490cc86e332095ef66fe455d17f859e070cb41cbe67d2a9efe93d7ce5
+0c7579294124ddc32775d7cf6b28af21b908123e9ea6ec2d6af01a948caf8b87
+5a816806784f9ae4cb1564a3e07e5b5ef0aa3d568bd3d2af9bc1a0937841d174
+64d8f887e33781bb814eaefa98dd64368da9a8d38bd9da4a76f04a23b6eb9de5
+251501255693122e818cadc28ced1ddb0e6bf4a720fd36dbb39bc7dedface8e5
+afddbaec28b040bcbaa13decdc03c1b994d57de244befbdf2de9fe975cae50c4
+d45aca9ee44e1e510e951033f7ac72c137fc90129a7d5cd383296b6bd1e3ddb5
+d4508f8e722f2f3ddd49023e7689d8c65389f65c871ef12e3a6635bbaeb7eb6e
+e71975a72f93b134476c8183051fee827ea509b4e888e19d551a8ced6087e15c
+
+
 ## forescout
 ## https://www.forescout.com/blog/
 
