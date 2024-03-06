@@ -3,3 +3,20 @@
 
 ## blocklists-cleafy
 ## https://www.cleafy.com/labs
+
+
+# https://www.cleafy.com/cleafy-labs/on-device-fraud-on-the-rise-exposing-a-recent-copybara-fraud-campaign
+
+app-nuova.com
+descarga-aqui.com
+descargar-e-instalar.com
+enlace-datos.com
+haga-clic-inicie-sesion.com
+link-dati.com
+nuova-app-token.com
+nuova-app.com
+proceder-al-modulo.com
+
+176.124.32.39
+
+22483da70e998a316e9ac5b905b0fc9e
