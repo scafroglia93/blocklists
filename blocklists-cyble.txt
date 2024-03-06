@@ -5,6 +5,21 @@
 ## https://blog.cyble.com/
 
 
+# https://cyble.com/blog/sapphirestealer-sneaks-in-deceptive-legal-documents-prey-on-russians/
+
+govermentu.ru 
+
+193.39.185.4 
+
+5c025a9e86a125bf2f2ca5c1b29b42a6
+55bb772aea4303ca373fd8940663b6bd
+
+6b44ab6c246c077ee0e6f51300654b3eec2fddc7
+b396a8d5e30fb179f3139d28b843b57bb8ae3f47
+
+850a99d2039dadb0c15442b40c90aa4dac16319114455ab5904aa51e062fe6e1
+c816d0be8d180573d14d230b438a22d7dda6368b1ef1733754eda9804f295a2f 
+
 # https://cyble.com/blog/ongoing-phishing-campaign-targets-healthcare-and-cryptocurrency-users-via-screenconnect/
 
 addonswallet.lat
