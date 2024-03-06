@@ -9,6 +9,7 @@ akina-milla.xyz
 associacaocarioca.org.br
 blogspoints.ru
 bridgingandcommercial.co.uk
+c1qrju227jw2hs5zjm7ftn3xshgpdgpa2.com
 coin-hive.com
 coinhive.com
 colossuspay.info
@@ -25,13 +26,16 @@ meliorras.com
 minexmr.com
 monero.hashvault.pro
 objects-us-east-1.dream.io
+odinarealestate.com
 secnutis.com
 server.juniorfoxy.ooo.resolved
+swll.to
 tdesktop.telega.one
 url.zip
 webmine.cz
 
 27.215.241.109
+35.225.82.182
 37.0.11.56
 38.132.109.165
 39.90.147.140
@@ -46,6 +50,7 @@ webmine.cz
 64.62.197.234
 85.202.169.147
 87.236.176.140
+87.236.176.156
 87.236.176.189
 87.251.67.40
 92.115.3.157
@@ -56,6 +61,7 @@ webmine.cz
 117.199.77.78
 117.211.213.231
 118.36.155.156
+119.36.234.10
 121.227.31.13
 124.131.212.33
 124.152.118.194
@@ -71,6 +77,7 @@ webmine.cz
 190.217.48.58
 193.163.125.121
 193.163.125.177
+194.180.48.100
 199.76.38.123
 200.59.85.167
 202.107.226.5
