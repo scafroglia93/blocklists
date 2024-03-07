@@ -5,6 +5,20 @@
 ## https://blog.cyble.com/
 
 
+# https://cyble.com/blog/jetbrains-teamcity-authentication-bypass-vulnerability-under-active-exploitation/
+
+24.144.82.64
+45.55.194.62
+143.198.150.42
+157.230.15.25
+165.22.159.187
+167.99.48.60
+170.64.155.123
+170.64.157.36
+170.64.220.72
+188.166.148.243
+192.34.62.65
+
 # https://cyble.com/blog/sapphirestealer-sneaks-in-deceptive-legal-documents-prey-on-russians/
 
 govermentu.ru 
