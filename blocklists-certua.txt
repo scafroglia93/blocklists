@@ -886,6 +886,7 @@ ff2cfdedfb2e6ff63de97a00a23a9c1c07ac6f8529bca62bb97d871ace4f8a42
 
 # https://cert.gov.ua/article/6276894
 
+bahouholdings.com
 czyrqdnvpujmmjkfhhvs4knf1av02demj.oast.fun
 czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast.fun
 czyrqdnvpujmmjkfhhvsgapqr3hclnhhj.oast.fun
