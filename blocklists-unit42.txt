@@ -5,6 +5,20 @@
 ## https://unit42.paloaltonetworks.com/
 
 
+# https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/
+
+smart-fax.com
+
+08eb941447078ef2c6ad8d91bb2f52256c09657ecd3d5344023edccf7291e9fc
+4ebd58007ee933a0a8348aee2922904a7110b7fb6a316b1c7fb2c6677e613884
+10ce4b79180a2ddd924fdc95951d968191af2ee3b7dfc96dd6a5714dbeae613a
+32e1b3732cd779af1bf7730d0ec8a7a87a084319f6a0870dc7362a15ddbd3199
+749e161661290e8a2d190b1a66469744127bc25bf46e5d0c6f2e835f4b92db18
+59896ae5f3edcb999243c7bfdc0b17eb7fe28f3a66259d797386ea470c010040
+ca34b0926cdc3242bbfad1c4a0b42cc2750d90db9a272d92cfb6cb7034d2a3bd
+cf99990bee6c378cbf56239b3cc88276eec348d82740f84e9d5c343751f82560
+f808229aa516ba134889f81cd699b8d246d46d796b55e13bee87435889a054fb
+
 # https://unit42.paloaltonetworks.com/new-linux-variant-bifrost-malware/
 
 download.vmfare.com
