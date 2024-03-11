@@ -98,6 +98,34 @@ thisone.online
 103.155.81.228
 
 
+
+
+## guidepoint
+## https://www.guidepointsecurity.com/blog
+
+
+# https://www.guidepointsecurity.com/blog/bianlian-gos-for-powershell-after-teamcity-exploitation/
+
+38.207.148.147
+64.176.229.97
+77.75.230.164
+88.169.109.111
+101.53.136.60
+126.126.112.143
+136.0.3.71
+164.92.243.252
+164.92.251.25
+165.227.151.123
+185.174.137.26
+188.166.236.38
+
+977ff17cd1fbaf0753d4d5aa892af7aa
+
+1af5616fa3b4d2a384000f83e450e4047f04cb57
+
+7981cdb91b8bad8b0b894cfb71b090fc9773d830fe110bd4dd8f52549152b448
+
+
 ## intezer
 ## https://intezer.com/blog/
 
