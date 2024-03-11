@@ -5,6 +5,12 @@
 ## https://www.zscaler.com/blogs/research
 
 
+# https://www.zscaler.com/blogs/security-research/multiple-vulnerabilities-found-connectwise-screenconnect
+
+118.69.65.60
+155.133.5.14
+155.133.5.15
+
 # https://www.zscaler.com/blogs/security-research/android-and-windows-rats-distributed-online-meeting-lures
 
 join-skype.info
