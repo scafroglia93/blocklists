@@ -90,3 +90,28 @@ sb8.co
 139.84.168.189
 139.180.137.107
 173.199.122.65
+
+
+
+
+## blocklists-groupib-ru
+## https://www.facct.ru/blog
+
+
+# https://www.facct.ru/blog/shadow-ransomware/
+
+huibudesh.lol
+stela-artua.xyz
+vindowsupdt.ru
+
+62.171.152.48
+64.226.104.111
+91.207.183.54
+135.181.46.97
+
+01e414085c2c21c9f971c4889e8ddbe85e4f3a65
+7c113a202124ba3ca4fb39c8437789bdc69fdd8f
+77ceaff8710d84069df4f2f20e37b3ed4005bc19
+c9eea274813603cb2686ac902383352384312319
+f1a4abd70f8e56711863f9e7ed0a4a865267ec77
+fd7980d3e437f28000fa815574a326e569eb548e
