@@ -261,10 +261,24 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 
 
 
-
 ## blocklists-ahnlab-korean
 ## https://asec.ahnlab.com/ko/
 
+
+# https://asec.ahnlab.com/ko/62771/
+
+ipservice.kro.kr
+mssrv.kro.kr
+panda.ourhome.o-r.kr
+privacy.hopto.org
+privatemake.bounceme.net
+
+84.38.129.21
+
+2c69c4786ce663e58a3cc093c6d5b530
+4f1b1124e34894398aa423200a8ab894
+29efd64dd3c7fe1e2b022b7ad73a1ba5
+a714b928bbc7cd480fed85e379966f95
 
 # https://asec.ahnlab.com/ko/62477/
 
