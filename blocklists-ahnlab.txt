@@ -275,6 +275,13 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/62868/
+
+194.156.98.51
+
+a410d4535409a379fbda5bb5c32f6c9c
+cd4a0b371cd7dc9dab6b442b0583550c
+
 # https://asec.ahnlab.com/ko/62771/
 
 ipservice.kro.kr
