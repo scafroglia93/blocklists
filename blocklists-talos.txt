@@ -5,6 +5,22 @@
 ## https://blog.talosintelligence.com/
 
 
+# https://blog.talosintelligence.com/threat-actors-leveraging-document-publishing-sites/
+
+347nsm239mws934.top
+aerospace-atlas.online
+afurrytailwedding.com
+atlas-aerospace.com
+atlas-aerspace.com
+atlas-aerspace.online
+mvnwsenterprise.top
+onedrivemwsamc.top
+onedrivesmncs.top
+publuu.com
+secure-docsx.com
+secure-docu.com
+webwave.dev
+
 # https://blog.talosintelligence.com/threat-source-newsletter-march-7-2024/
 
 7bdbd180c081fa63ca94f9c22c457376
