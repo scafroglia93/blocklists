@@ -6,8 +6,8 @@
 ## https://github.com/google/threat-team
 
 
-## https://blog.google/technology/safety-security/tool-of-first-resort-israel-hamas-war-in-cyber/
-## https://github.com/google/threat-team/tree/main/2024/2024-02-14-tool-of-first-resort-israel-hamas-war-cyber
+# https://blog.google/technology/safety-security/tool-of-first-resort-israel-hamas-war-in-cyber/
+# https://github.com/google/threat-team/tree/main/2024/2024-02-14-tool-of-first-resort-israel-hamas-war-cyber
 
 bitly.org.il
 businessservicesinc.net
@@ -78,6 +78,7 @@ f6d4b5e7292606ac2d895a5b8edb7598baacb64a961553c8b7b59c8cb3a73f0f
 fe07dca68f288a4f6d7cbd34d79bb70bc309635876298d4fde33c25277e30bd2
 
 # https://blog.google/threat-analysis-group/google-tag-coldriver-russian-phishing-malware/
+# https://github.com/google/threat-team/tree/main/2024/2024-01-18-google-tag-coldriver-russian-phishing-malware
 
 45.133.216.15
 
