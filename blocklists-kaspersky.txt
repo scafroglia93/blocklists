@@ -5,6 +5,21 @@
 ## https://securelist.com/
 
 
+# https://securelist.com/trojanized-text-editor-apps/112167/
+
+dns.transferusee.com
+update.transferusee.com
+vnote-1321786806.cos.ap-hongkong.myqcloud.com
+vnote.fuwenkeji.cn
+vnote.info
+vnotepad.com
+
+00fb77b83b8ab13461ea9dd27073f54f
+5ece6281d57f16d6ae773a16f83568db
+6ace1e014863eee67ab1d2d17a33d146
+47c9fec1a949e160937dd9f9457ec689
+43447f4c2499b1ad258371adff4f503f
+
 # https://securelist.com/coyote-multi-stage-banking-trojan/111846/
 
 atendesolucao.com
