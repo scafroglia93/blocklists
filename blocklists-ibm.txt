@@ -5,6 +5,11 @@
 ## https://securityintelligence.com/
 
 
+# https://securityintelligence.com/posts/pixpirate-brazilian-financial-malware/
+
+019a5c8c724e490df29020c1854c5b015413c9f39af640f7b34190fd4c989e81
+9360f2ee1db89f9bac13f8de427a7b89c24919361dcd004c40c95859c8ce6a79
+
 # https://securityintelligence.com/x-force/itg05-leverages-malware-arsenal/
 
 calendar-ua.firstcloudit.com
