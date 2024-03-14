@@ -3,3 +3,60 @@
 
 ## blocklists-seqrite
 ## https://www.seqrite.com/blog/
+
+
+# https://www.seqrite.com/blog/operation-rusticweb-targets-indian-govt-from-rust-based-malware-to-web-service-exfiltration/
+
+alfa-aeafa-default-rtdb.firebaseio.com
+awesscholarship.in
+oshi.at
+parichay.epar.in
+
+13.232.102.189	
+89.117.188.126 	
+
+04557782d7017f18ec059fc96d7f2dc8
+3ce8dfb3f1bff805cb6b85a9e950b3a2
+6d29fc0a73096433ff9449c4bbc4cccc
+9f3359ae571c247a8be28c0684678304
+13ee4bd10f05ee0499e18de68b3ea4d5
+20b4eb5787faa00474f7d27c0fea1e4b
+56cb95b63162d0dfceb30100ded1131a
+501a6d48fd8f80a134cf71db3804cf95
+237961bbba6d4aa2e0fae720d4ece439
+635864ff270cf8e366a7747fb5996766
+a696c50dd5d15ba75c9e7f8d3c64997c
+a9182c812c7f7d3e505677a57c8a353b
+b0b6629d35451bcc511c0f2845934c3e
+c9969ece7bb47efac4b3b04cdc1538e5
+d2949a3c4496cb2b4d204b75e24390d9
+da745b60b5ef5b4881c6bc4b7a48d784
+de30abf093bd4dfe6b660079751951c6
+e0102071722a87f119b12434ae651b48
+ee8d767069faf558886f1163a92e4009
+f5d8664cbf4a9e154d4a888e4384cb1d
+f14e778f4d22df275c817ac3014873dc
+f68b17f1261aaa4460d759d95124fbd4
+f2501e8b57486c427579eeda20b729fd
+fc61b985d8c590860f397d943131bfb5
+
+# https://www.seqrite.com/blog/decoding-batloader-2-x-unmasking-the-threat-of-stealthy-malware-tactics/
+
+96B07F8951F4BDEB95856D9477071865
+1528F443777A42B09AE19D7E6F5F508A
+
+# https://www.seqrite.com/blog/cerber-ransomware-exposed-a-comprehensive-analysis-of-advanced-tactics-encryption-and-evasion/
+
+376165CCD556CD74658AFEA9F6F428F9
+FE1BC60A95B2C2D77CD5D232296A7FA4
+
+# https://www.seqrite.com/blog/casting-light-on-batloader-an-insight-into-its-role-in-malware-delivery/
+
+7af0a77161be52ad53fdb2ae9a06cbd9eaf8d59be43c642901efcbb5c03d30e3
+24f3f9ada9ef84eb3bb749de500e43c85640d8c0140ebe6d7573520f61bfe5f7
+108e07174511fa58ece920149d6b2f26f386b33f5e54bfbbb758b9c3b6cae362
+184eaf1cfa3460a8fe544c6d3d253c18ac50ba18acb718d6a2707e25400a5eab
+5158b0a023299c1922423a065b9825fd1769f1a87ffd2031375a0e893d523318
+764250ddf94b90441193fe1c29754f231e0868d1878fdf3150e5744dd8d8c378
+d71cdb791f3f58bd064fb840488f7e708d707b1d39e70fbe5c597f7fbcc0699e
+fa78bb7d250a3893f188e5e7651070a20dd690fc6647020d5d399874e71c8e88
