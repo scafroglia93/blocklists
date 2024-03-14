@@ -378,6 +378,59 @@ fbd5e48ee691df949e0dd3687755c80cc5b9d1a1a89e7dc486694370697de893
 
 
 
+## sonicwall
+## https://blog.sonicwall.com/en-us/
+
+
+# https://blog.sonicwall.com/en-us/2024/03/lokibot-is-being-distributed-by-windows-shortcut-files/
+
+91.92.252.146
+
+# https://blog.sonicwall.com/en-us/2024/03/latest-dbatloader-uses-driver-module-to-disable-av-edr-software/
+
+nbtp1.sa.com
+
+# https://blog.sonicwall.com/en-us/2024/03/new-marsilia-ransomware-downloader-found/
+
+163.5.64.41
+163.5.169.28
+
+36ed94fb9f8ef3f5cbf8494ff6400d0be353ae7c223ed209bd85d466d1ba1ff7
+
+# https://blog.sonicwall.com/en-us/2024/01/new-heracles-stealer-in-the-wild/
+
+64.185.227.156
+104.237.62.212
+149.154.167.220
+173.231.16.77
+208.95.112.1
+
+53d5c2574c7f70b7aa69243916acf6e43fe4258fbd015660032784e150b3b4fa
+BAD79DB7BE7C9C4BFBA84BFE7B3254E215650A5532098DC7C4A787695D52A983
+
+# https://blog.sonicwall.com/en-us/2024/01/blackwood-apt-group-has-a-new-dll-loader/
+
+72B81424D6235F17B3FC393958481E0316C63CA7AB9907914B5A737BA1AD2374
+
+# https://blog.sonicwall.com/en-us/2023/12/malicious-android-spyware-employing-rat-and-capturing-device-info-and-user-credentials/
+
+06629bab34a4218262339659590656408c22f33411201d73977fc69700a4e68a
+62f027c0a8f856ef30ceba8432cd80a9462e03cf7809ea91fcbac60427f6a1bd
+
+https://blog.sonicwall.com/en-us/2023/12/windows-software-licensing-management-tool-is-abused-to-deliver-xworm3-1/
+
+uploaddeimagens.com.br
+
+# https://blog.sonicwall.com/en-us/2023/12/deceptive-pdf-disguised-as-ringcentral-leads-to-phishing-attacks/
+
+new.express.adobe.com
+zqpfl.ipisecti.ru
+
+85a38010b20ce02fd0387b1e36e0ab68a2d87d39d754434e6929dca67e9bc962
+
+
+
+
 ## trustwave
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
