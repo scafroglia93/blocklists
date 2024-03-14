@@ -25,6 +25,12 @@ info-mod.firstcloudit.com
 kzgw-wody.firstcloudit.com
 militarysupport.firstcloudit.com
 nas-files.firstcloudit.com
+oast.fun
+oast.live
+oast.me
+oast.online
+oast.pro
+oast.site
 presidencia-docs.firstcloudit.com
 presidencia-files.firstcloudit.com
 presidencia-gob.firstcloudit.com
@@ -33,6 +39,7 @@ rada-zakon.firstcloudit.com
 sgg-files.firstcloudit.com
 sgg-gov.firstcloudit.com
 ua-calendar.firstcloudit.com
+webhook.site
 webmail.facadesolutionsuae.com
 wody-info-files.firstcloudit.com
 
