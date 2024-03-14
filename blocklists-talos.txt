@@ -5,6 +5,20 @@
 ## https://blog.talosintelligence.com/
 
 
+# https://blog.talosintelligence.com/threat-source-newsletter-march-14-2024/
+
+7bdbd180c081fa63ca94f9c22c457376
+49ae44d48c8ff0ee1b23a310cb2ecf5a
+93fefc3e88ffb78abb36365fa5cf857c
+2915b3f8b703eb744fc54c81f4a9c67f
+c16df0bfc6fda86dbfa8948a566d32c1
+
+9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507
+24283c2eda68c559f85db7bf7ccfe3f81e2c7dfc98a304b2056f1a7c053594fe
+a31f222fc283227f5e7988d1ad9c0aecd66d58bb7b4d8518ae23e110308dbf91
+e38c53aedf49017c47725e4912fc7560e1c8ece2633c05057b22fd4a8ed28eb3
+e4973db44081591e9bff5117946defbef6041397e56164f485cf8ec57b1d8934
+
 # https://blog.talosintelligence.com/threat-actors-leveraging-document-publishing-sites/
 
 347nsm239mws934.top
