@@ -121,6 +121,22 @@ digitalxnetwork.com
 b0e194ed54bafa753bda5761c1264b67a5c438ee7a9ed624a83be913f037dcbb
 f52ba7d8a820d32c502c4aaef4bf9690fc0ca97b97c683b43057d82c06294257
 
+# https://www.gdatasoftware.com/blog/2023/12/37840-csharp-streamer-rat
+# https://cyber.wtf/2023/12/06/the-csharp-streamer-rat/
+
+dmvlng.com
+thevsf.co.uk
+
+056cf0d4afdf17648e83739e3e96b53fa802bd0750fe6e74cdbe2fcea2b03c7e
+6a082dd209ec019de653f71e0ee22e6613ce5e9010b8fa089b02f79a1a90652a
+
+# https://www.gdatasoftware.com/blog/2023/11/37822-agent-tesla-zpaq
+# https://cyber.wtf/2023/10/13/config-extraction-from-in-memory-cobaltstrike-beacons/
+
+1c33eef0d22dc54bb2a41af485070612cd4579529e31b63be2141c4be9183eb6 
+c2c466e178b39577912c9ce989cf8a975c574d5febe15ae11a91bbb985ca8d2e 
+45dc4518fbf43bf4611446159f72cdbc37641707bb924bd2a52644a3af5bab76
+
 
 
 
