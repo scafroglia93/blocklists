@@ -5,6 +5,13 @@
 ## https://www.fortinet.com/blog/threat-research
 
 
+# https://www.fortinet.com/blog/threat-research/ransomware-roundup-ra-world
+
+31ac190b45cc32c04c2415761c7f152153e16750516df0ce0761ca28300dd6a4
+51da3acc6c7089bd0f1df9d9902e183db0d1342552404c3c1b898b168399b0bc
+4866d6994c2f8b4dadfaabc2e2b81bd86c12f68fdf0da13d41d7b0e30bea0801
+9479a5dc61284ccc3f063ebb38da9f63400d8b25d8bca8d04b1832f02fac24de
+
 # https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon
 
 backinghof.ddns.net
