@@ -378,6 +378,32 @@ fbd5e48ee691df949e0dd3687755c80cc5b9d1a1a89e7dc486694370697de893
 
 
 
+## netskope
+## https://www.netskope.com/blog
+## https://github.com/netskopeoss/NetskopeThreatLabsIOCs
+
+
+# https://www.netskope.com/blog/from-delivery-to-execution-an-evasive-azorult-campaign-smuggled-through-google-sites
+# https://github.com/netskopeoss/NetskopeThreatLabsIOCs/tree/main/Malware/Azorult/IOCs
+
+mayanboats.com
+sqjeans.com
+
+195.123.220.40
+
+030b3d76a054d5a48cbb595d49e7e1cbc6dfdddbccd676f9642640f0429bd8c4
+18A72A5F52E9DA32098CB60B38A3B07E311428BB379F1F6D438031337F855D95
+52a0ca6fec42896245bb3b6a7caa876a44779c98102c5e28781cca46bfaf2ed9
+55e283ee275e0367328013dc835cc63338defdcf5b6fe6cd74d6ce2c46af1981
+97c9caaaf7d3861e30d9ff647e952e880b670c5c3dca4537c515b38438ee18ee
+290ECA24124C5AFFB7DFFC1444F8F3E1C5105C81E23C043E1761E2D1663B576D
+350dae93066ddd84327e87f2bb784dfc0b70178629afd1fae298ee1376d42450
+380f9784f4b3db7a711f48baaa2864161ad88b66eec79521011ab8e5871c387a
+e644d5ef63786fd6b732e8837bd7ff974b6c76b06ad9629ff6bf4fccef7ee6cb
+
+
+
+
 ## sonicwall
 ## https://blog.sonicwall.com/en-us/
 
