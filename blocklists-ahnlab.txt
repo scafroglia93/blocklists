@@ -5,6 +5,28 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/63200/
+
+194.156.98.51
+
+a410d4535409a379fbda5bb5c32f6c9c
+cd4a0b371cd7dc9dab6b442b0583550c
+
+# https://asec.ahnlab.com/en/63192/
+
+ipservice.kro.kr
+mssrv.kro.kr
+panda.ourhome.o-r.kr
+privacy.hopto.org
+privatemake.bounceme.net
+
+84.38.129.21
+
+2c69c4786ce663e58a3cc093c6d5b530
+4f1b1124e34894398aa423200a8ab894
+29efd64dd3c7fe1e2b022b7ad73a1ba5
+a714b928bbc7cd480fed85e379966f95
+
 # https://asec.ahnlab.com/en/62853/
 
 blamefade.com.br
