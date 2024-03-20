@@ -5,6 +5,18 @@
 ## https://securelist.com/
 
 
+# https://securelist.com/crimeware-report-android-malware/112121/
+
+042f041108a79ac07d7b3165531faa9a
+043020302ea8d134afbd5bd37c05d2a8
+04807757a54ce0fbc8326ea8b11f8169
+06148a2e5828e6844c2a1a74030d22b6
+0677a090eb28837b1bbf3e6ab1822fdd
+0960de9d425b5157720f59c2901d4e3b
+098dac0668497d9707045bc1e10ced93
+274b8d86042d94a6ca6823841fec6d2c
+1796e678498bf9a067c43769f4096488
+
 # https://securelist.com/trojanized-text-editor-apps/112167/
 
 dns.transferusee.com
