@@ -6,6 +6,41 @@
 ## https://www.recordedfuture.com/research/intelligence-reports
 
 
+# https://www.recordedfuture.com/attributing-i-soon-private-contractor-linked-chinese-state-sponsored-groups
+
+1ds.me
+antspam-mail.services
+bayantele.xyz
+dnslookup.services
+docx.1ds.me
+gmail.isooncloud.com
+gmailapp.me
+i-soon.net
+ip.1ds.me
+lengmo.myds.me
+lengmo.net
+linercn.org
+livehost.live
+mailnotes.online
+mailteso.online
+mpt.buzz
+mptcdn.com
+mydigi.site
+news.1ds.me
+sw-hk.services
+wcuhk.livehost.live
+web.goog1eweb.com
+whkedu.dnslookup.services
+
+1.192.194.162
+66.98.127.105
+101.219.17.111
+118.31.3.116
+171.88.142.148
+171.88.143.37
+171.88.143.72
+221.13.74.218
+
 # https://www.recordedfuture.com/predator-spyware-operators-rebuild-multi-tier-infrastructure-target-mobile-devices
 
 02s.co
