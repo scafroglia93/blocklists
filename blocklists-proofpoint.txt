@@ -5,6 +5,17 @@
 ## https://www.proofpoint.com/us/blog
 
 
+# https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta450-uses-embedded-links-pdf-attachments-latest-campaign
+
+ln5.sync.com
+salary.egnyte.com
+terabox.com
+ws.onehub.com
+	
+cc4cc20b558096855c5d492f7a79b160a809355798be2b824525c98964450492
+dee6494e69c6e7289cf3f332e2867662958fa82f819615597e88c16c967a25a9
+e89f48a7351c01cbf2f8e31c65a67f76a5ead689bb11e9d4918090a165d4425f
+	
 # https://www.proofpoint.com/us/blog/threat-insight/ta4903-actor-spoofs-us-government-small-businesses-phishing-bec-bids
 
 auth01-usda.com
