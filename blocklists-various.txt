@@ -85,6 +85,28 @@ e71975a72f93b134476c8183051fee827ea509b4e888e19d551a8ced6087e15c
 
 
 
+## checkmarx
+## https://checkmarx.com/blog
+
+
+# https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/
+
+
+files.pypihosted.org
+files.pythanhosted.org
+pypihosted.org
+    
+162.248.100.117
+162.248.100.217
+162.248.101.215
+	
+0C1873196DBD88280F4D5CF409B7B53674B3ED85F8A1A28ECE9CAF2F98A71207
+35AC61C83B85F6DDCF8EC8747F44400399CE3A9986D355834B68630270E669FB
+C53B93BE72E700F7E0C8D5333ACD68F9DC5505FB5B71773CA9A8668B98A17BA8
+
+
+
+
 ## forescout
 ## https://www.forescout.com/blog/
 
