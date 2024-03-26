@@ -324,6 +324,23 @@ ffdbdd460420972fd2926a7f460c198523480bc6279dd6cca177230db18748e8
 
 
 
+## humansecurity
+## https://www.humansecurity.com/learn/blog
+
+
+# https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-proxylib-and-lumiapps-transform-mobile-devices-into-proxy-nodes
+
+asocks.com
+bproxy.one
+cdnshare.net
+lumiapps.io
+nsignal.net
+servers.ink
+vpnguard.me
+
+
+
+
 ## intezer
 ## https://intezer.com/blog/
 
