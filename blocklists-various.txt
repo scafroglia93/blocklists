@@ -569,6 +569,35 @@ e644d5ef63786fd6b732e8837bd7ff974b6c76b06ad9629ff6bf4fccef7ee6cb
 
 
 
+## oligosecurity
+## https://www.oligo.security/blog
+
+
+# https://www.oligo.security/blog/shadowray-attack-ai-workloads-actively-exploited-in-the-wild
+
+bore.pub
+clo4q41v1v85ed814bogstepb5jwkbxtj.oast.fun
+kryptex.network
+pool.hashvault.pro
+rx.unmineable.com
+xna.2miners.com
+zeph.kryptex.network
+zephyr.miningocean.org
+
+23.146.184.38
+54.176.108.174
+158.247.217.90
+206.189.156.69
+
+f3636232ed136fed658521682f6fa9f4
+
+8d53ade3599ca39d9ad22d9360834514e9a6c6dc
+
+98f0bf732ebae8f3ba250c02e02a0787a68039caa484e688e0391343eaf0b527
+
+
+
+
 ## sonicwall
 ## https://blog.sonicwall.com/en-us/
 
