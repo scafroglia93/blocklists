@@ -637,6 +637,17 @@ f3636232ed136fed658521682f6fa9f4
 
 
 
+## reversinglabs
+## https://www.reversinglabs.com/blog
+
+
+# https://www.reversinglabs.com/blog/suspicious-nuget-package-grabs-data-from-industrial-systems
+
+117.41.187.235
+
+
+
+
 ## sonicwall
 ## https://blog.sonicwall.com/en-us/
 
