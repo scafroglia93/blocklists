@@ -89,6 +89,13 @@ e71975a72f93b134476c8183051fee827ea509b4e888e19d551a8ced6087e15c
 ## https://checkmarx.com/blog
 
 
+# https://checkmarx.com/blog/pypi-is-under-attack-project-creation-and-user-registration-suspended/
+
+funcaptcha.ru
+
+0C1DDD33E630F4AC684880F0E673DFA84919272494C11DA0F1EC05FB4F919CE8
+ABE19B0964DAF24CD82C6DB59212FD7A61C4C8335DD4A32B8E55C7C05C17220D
+
 # https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/
 
 
