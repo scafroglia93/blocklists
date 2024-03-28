@@ -5,6 +5,15 @@
 ## https://securelist.com/
 
 
+# https://securelist.com/dinodasrat-linux-implant/112284/
+
+update.centos-yum.com
+
+99.231.211.19
+
+8138f1af1dc51cde924aa2360f12d650
+decd6b94792a22119e1b5a1ed99e8961
+
 # https://securelist.com/crimeware-report-android-malware/112121/
 
 042f041108a79ac07d7b3165531faa9a
