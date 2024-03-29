@@ -712,6 +712,34 @@ zqpfl.ipisecti.ru
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
 
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/why-we-should-probably-stop-visually-verifying-checksums/
+
+62d7ef41005d9f380446205e2e0efa3692681b8f73f8712318af6183f60fcadc
+62d75963b0689a5292d778ec6ac2192835a55b8fa11a257bb0ca6413b7a6cadc
+
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/
+
+artemis-rat.com
+
+2bd452c46a861e59ac151a749047863f
+37b38ae2d99dd5beb08377d6cbd1bccd
+38d6ebb40197248bc9149adeec8bd0e7
+63f802e47b78ec3d52fe6b403bad823f
+3637aa1332b312fe77cc40b3f7adb8dc
+b69f65b999db695b27910689b7ed5cf0
+
+3a1fe17d53a198f64051a449c388f54002e57995b529635758248dc4da7f5080
+a02388b5c352f13334f30244e9eedac3384bc2bf475d8bc667b0ce497769cc6a
+a3645f81079b19ff60386cb244696ea56f5418ae556fba4fd0afe77cfcb29211
+ab9cd59d789e6c7841b9d28689743e700d492b5fae1606f184889cc7e6acadcc
+e3cb3a5608f9a8baf9c1da86324474739d6c33f8369cc3bb2fd8c79e919089c4
+f74e1a37a218dc6fcfabeb1435537f709d742505505a11e4757fc7417e5eb962
+
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/breakdown-of-tycoon-phishing-as-a-service-system/
+# https://gist.github.com/drole/1469713841ab9a5121011e2eb88c5e87
+
+WIP
+
 # https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-spiderlabs-uncovers-ov3r_stealer-malware-spread-via-phishing-and-facebook-advertising/
 
 51.79.185.145
