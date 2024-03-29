@@ -335,6 +335,12 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/63412/
+
+147.124.220.237
+
+9437c89a5f9a51a4ff6d6076083fa6c9
+
 # https://asec.ahnlab.com/ko/62864/
 
 alternativebehavioralconcepts.org
