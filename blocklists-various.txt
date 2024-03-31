@@ -446,6 +446,36 @@ fbd5e48ee691df949e0dd3687755c80cc5b9d1a1a89e7dc486694370697de893
 
 
 
+## jamf
+## https://www.jamf.com/blog/
+
+
+# https://www.jamf.com/blog/infostealers-pose-threat-to-macos/
+
+meethub.gg
+aricl.net
+airci.net
+
+193.233.132.188 
+46.101.104.172
+
+0ac59146723d72b2faad6a637cdd9fb2a6221f7e
+7f22760d6d85f8173292d39ea087f35695ad65ab
+9d103cbad2b56f53a36f93316feda1de5513394d
+28cc0be3aad1479c4d4ba616be6462a2c5c7ac18
+28e35f4d92f3a0bf85fdffeb5b695119de823548
+50b8af2019adbbea310bce0259b4a3f3da2e4d7d
+596fd483314c3cce43d8b5ed38b5202c29a60b14
+3865636ed27ae81f146ed5b9ac9a25f53a6d10a7
+56871908b00a1efa1d3671d0b03b8f69da6d534a
+af33c2bc39371a5667b65c38a62919c59f5ad084
+ba59bb35e8dfbe77676c8130c8c2d61c22b14564
+d294b86c5aa7e90ff1f7367eb9fdad8d47193f22
+eecf5ffc338b97602b5b8f8ab8ccc51dcb8ffd8a
+
+
+
+
 ## juniper
 ## https://blogs.juniper.net
 
