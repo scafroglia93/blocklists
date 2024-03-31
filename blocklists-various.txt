@@ -452,12 +452,12 @@ fbd5e48ee691df949e0dd3687755c80cc5b9d1a1a89e7dc486694370697de893
 
 # https://www.jamf.com/blog/infostealers-pose-threat-to-macos/
 
-meethub.gg
-aricl.net
 airci.net
+aricl.net
+meethub.gg
 
-193.233.132.188 
 46.101.104.172
+193.233.132.188
 
 0ac59146723d72b2faad6a637cdd9fb2a6221f7e
 7f22760d6d85f8173292d39ea087f35695ad65ab
