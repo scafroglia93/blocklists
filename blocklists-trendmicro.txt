@@ -5,6 +5,10 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
+# https://www.trendmicro.com/en_us/research/24/d/earth-freybug.html
+
+62ad0407a9cce34afb428dee972292d2aa23c78cbc1a44627cb2e8b945195bc2
+
 # https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html
 
 73b1fffd35d3a72775e0ac4c836e70efefa0930551a2f813843bdfb32df4579a
