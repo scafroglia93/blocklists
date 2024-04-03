@@ -358,6 +358,15 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/63614/
+
+34.124.148.215
+35.185.187.24
+
+b26b57b28e61f9320cc42d97428f3806
+cff64cc3e82aebd7a7e81f1633b5040e
+dbdcbacbc74b139d914747690ebe0e1c
+
 # https://asec.ahnlab.com/ko/63697/
 
 affordcharmcropwo.shop
