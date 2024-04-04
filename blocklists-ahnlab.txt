@@ -5,6 +5,12 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/63864/
+
+147.124.220.237
+
+9437c89a5f9a51a4ff6d6076083fa6c9
+
 # https://asec.ahnlab.com/en/63477/
 
 alternativebehavioralconcepts.org
