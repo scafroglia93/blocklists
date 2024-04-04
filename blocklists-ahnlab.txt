@@ -364,6 +364,15 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/63738/
+
+8b7a358005eff6c44d66e44f5b266d33
+6136ce65b22f59b9f8e564863820720b
+c4ac3b4ce7aa4ca1234d2d3787323de2
+d5ea5ad8678f362bac86875cad47ba21
+d29f25c4b162f6a19d4c6b96a540648c
+fe4237ab7847f3c235406b9ac90ca845
+
 # https://asec.ahnlab.com/ko/63614/
 
 34.124.148.215
