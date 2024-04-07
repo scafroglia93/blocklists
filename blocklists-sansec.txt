@@ -42,4 +42,13 @@ gtag-analytics.com
 ## blocklist-sansec-malware
 ## https://sansec.io/malware
 
+annavenancio.fr
+cdn-sources.com
+cdn.listrakbi.us
+citytoohot.fr
+google.nov.su
+googletagmanager.eu
+jquerycdn.at
+visualwebsiteoptimizer.online
 
+103.139.113.34
