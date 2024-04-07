@@ -30,6 +30,7 @@ pub-7f69134e44ab4a03bb5e13c4894ffb4f.r2.dev
 # https://sansec.io/research/malware-persistence-via-telegram-and-github
 
 kissupme.life
+
 51.161.204.249
 
 # https://sansec.io/research/postponed-exfiltration-evades-detection
