@@ -1,0 +1,45 @@
+## hosts-blocklists
+## domains-ips-hashes
+
+## blocklists-sansec
+## https://sansec.io/research
+
+
+# https://sansec.io/research/magento-xml-backdoor
+
+45.146.54.58
+45.146.54.59
+45.146.54.61
+45.146.54.67
+216.73.163.170
+216.73.163.182
+
+# https://sansec.io/research/magento-wish-list-exploits
+
+a.aa4.in
+purplesunrise.com
+triconville.com
+
+79.141.160.185
+69.49.246.122
+
+# https://sansec.io/research/is-your-stores-newsletter-being-used-for-phishing
+
+pub-7f69134e44ab4a03bb5e13c4894ffb4f.r2.dev
+
+# https://sansec.io/research/malware-persistence-via-telegram-and-github
+
+kissupme.life
+51.161.204.249
+
+# https://sansec.io/research/postponed-exfiltration-evades-detection
+
+gtag-analytics.com
+
+
+
+
+## blocklist-sansec-malware
+## https://sansec.io/malware
+
+
