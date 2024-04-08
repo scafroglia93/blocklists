@@ -3,6 +3,9 @@
 
 ## blocklists-misc
 
+# https://notepad-plus-plus.org/news/help-to-take-down-parasite-site/
+
+notepad.plus
 
 # https://www.bleepingcomputer.com/news/security/content-farm-impersonates-60-plus-major-news-outlets-like-bbc-cnn-cnbc/
 
