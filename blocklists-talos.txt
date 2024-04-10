@@ -5,6 +5,15 @@
 ## https://blog.talosintelligence.com/
 
 
+# https://blog.talosintelligence.com/starry-addax/
+
+ondroid.site
+ondroid.store
+runningapplications-b7dae-default-rtdb.firebaseio.com
+
+ec2f2944f29b19ffd7a1bb80ec3a98889ddf1c097130db6f30ad28c8bf9501b3
+f7d9c4c7da6082f1498d41958b54d7aeffd0c674aab26db93309e88ca17c826c
+
 # https://blog.talosintelligence.com/threat-source-newsletter-april-4-2024/
 
 0211073feb4ba88254f40a2e6611fcef
