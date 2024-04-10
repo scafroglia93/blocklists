@@ -89,6 +89,16 @@ e71975a72f93b134476c8183051fee827ea509b4e888e19d551a8ced6087e15c
 ## https://checkmarx.com/blog
 
 
+# https://checkmarx.com/blog/new-technique-to-trick-developers-detected-in-an-open-source-supply-chain-attack/
+
+ooocyber.keenetic.pro
+
+188.113.132.109
+
+08b799d56265e93f6aae4f089808d1cb
+
+cc9d54b78688ef6f41e4f4d0c8bced3e04bfcedc
+
 # https://checkmarx.com/blog/pypi-is-under-attack-project-creation-and-user-registration-suspended/
 
 funcaptcha.ru
