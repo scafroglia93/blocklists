@@ -5,6 +5,31 @@
 ## https://www.proofpoint.com/us/blog
 
 
+# https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer
+
+bolibachan.com
+indscpm.xyz 
+ 
+94.131.104.223 
+
+# https://www.proofpoint.com/us/blog/email-and-cloud-threats/evolving-threat-landscape-deep-dive-multichannel-attacks-targeting
+
+company.internal.es
+
+64.145.79.135
+64.145.79.136
+192.200.148.241
+192.200.148.242
+209.222.97.47
+216.131.72.131
+216.131.84.178
+216.131.84.179
+216.131.120.90
+216.131.120.91
+216.151.180.15
+216.151.180.16
+216.151.191.110
+
 # https://www.proofpoint.com/us/blog/threat-insight/latrodectus-spider-bytes-ice
 
 aprettopizza.world
