@@ -3,14 +3,19 @@
 
 ## blocklists-alternate
 
+
+338636715d546.knifegenie.com
 a0k6rsuux.sbs
 actual-travel.biz
 akina-milla.xyz
+alzatehernandez.com
+anchoriaatrade.com
 arq.carpedum.com
 associacaocarioca.org.br
 blogspoints.ru
 bridgingandcommercial.co.uk
 c1qrju227jw2hs5zjm7ftn3xshgpdgpa2.com
+clingcard.co.uk
 coin-hive.com
 coinhive.com
 colossuspay.info
@@ -29,6 +34,7 @@ goo.by
 grandmarinaluxuryresidences.com
 himebauch.live
 hoster-test.ru
+iplis.ru
 jankoors.com
 liviafiorelli.com
 magnivetaman.com
@@ -39,6 +45,7 @@ nxcli.io
 o0qqj7jm.shop
 objects-us-east-1.dream.io
 odinarealestate.com
+office365.corkfips.fpcasbdev.com
 oregonjobs.co
 secnutis.com
 server.juniorfoxy.ooo.resolved
@@ -53,6 +60,8 @@ vani.ovh
 webmine.cz
 zoromangare.com
 
+
+3.126.52.159
 23.226.128.22
 27.215.241.109
 35.225.82.182
@@ -100,6 +109,7 @@ zoromangare.com
 118.36.155.156
 119.36.234.10
 120.211.137.177
+120.237.168.25
 121.140.99.236
 121.227.31.13
 124.131.212.33
@@ -112,6 +122,7 @@ zoromangare.com
 170.130.204.18
 172.104.28.158
 176.116.165.164
+180.76.246.205
 183.230.204.243
 185.94.188.130
 185.156.72.10
@@ -130,6 +141,7 @@ zoromangare.com
 208.163.34.67
 211.137.24.100
 211.253.10.96
+218.202.197.14
 219.155.225.106
 220.250.10.250
 221.0.123.185
