@@ -396,6 +396,59 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/64073/
+
+86.cdn-api.848820.com
+86.cdn-api.848820.com.bk1233.com
+api1-cdn.com
+api2-cdn.com
+api.api2-cdn.com
+api.api-alipay.com
+atfile.com
+cache.cacti.api-cloudflare.com
+gitall14-api.microsoft-shop.com
+gitall18-api.microsoft-shop.com
+gitall-api.microsoft-shop.com
+hele.hkcdn.api-cloudflare.com
+imag.awscnd.api-alipay.com
+img.law.api-cloudflare.com
+java.git.microsoft-shop.com
+jvp21.api-cloudflare.com
+jvp23.api-cloudflare.com
+lw.cdn-image.microsoft-shop.com
+lw.cdn-image.microsoft-shop.com.bk1233.com
+pyq-pro.update.microsoft-shop.com
+pyq-pro.update.microsoft-shop.com.bk1233.com
+safe.0xhu.com
+translate.cache01.mfath.ugliquarie.com
+ue20.angc.blinktron.com
+ue20.angc.blinktron.com.bk1233.com
+
+45.32.8.143
+45.32.16.248
+
+2c802c1fac3b0035b2a79cbd56510caa
+2f378559b835cbe9ec9874baec73a578
+3eb3591c8c5d0a5a32dc24f91d6fe7fb
+4c1124695279dd41c0b789235dbabf08
+4eb6509cf46d480647556105b42b4bee
+5ab182b00e674cea319e2152e7c3558f
+6a0a68b75ad2f087c1a566a6e3de1a28
+9efdf13b1eee7b0c626d785b17cd5c95
+16b088b75442e247a8c53161a8a130b0
+71ca0622043a7dec95bb4514ce14d627
+73a6b6e84caf0f12782b70ece7bd60de
+1358d7f17b0882a38a3cfa88df256fc1
+64802dd9446be23d7188fb87426866cb
+74199f5ca6421ade97cc511651fa2e4b
+504612eaebc2660c4ac00f5db1d24fca
+1738429d3737b22d52b442c4faef50a1
+cd206fff363bb5543fc67ed9a9bbe496
+ef7651bbbf3f05234f2b1d5e30103588
+ef13037b082e9e1dfe39ae5cf9d101e3
+f35f7a7fb6c4352510c4f7a448e6ba03
+f50d7a7bc104d87d6a4a9e2f4e1beedc
+
 # https://asec.ahnlab.com/ko/63738/
 
 8b7a358005eff6c44d66e44f5b266d33
