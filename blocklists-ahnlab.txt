@@ -5,6 +5,15 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/64034/
+
+34.124.148.215
+35.185.187.24
+
+cff64cc3e82aebd7a7e81f1633b5040e
+dbdcbacbc74b139d914747690ebe0e1c
+b26b57b28e61f9320cc42d97428f3806
+
 # https://asec.ahnlab.com/en/63980/
 
 affordcharmcropwo.shop
