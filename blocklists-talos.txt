@@ -5,6 +5,20 @@
 ## https://blog.talosintelligence.com/
 
 
+# https://blog.talosintelligence.com/threat-source-newsletter-april-11-2024/
+
+2fb86be791b4bb4389e55df0fec04eb7
+8c69830a50fb85d8a794fa46643493b2
+22ae85259273bc4ea419584293eda886
+f1fe671bcefd4630e5ed8b87c9283534
+fd743b55d530e0468805de0e83758fe9
+
+58d6fec4ba24c32d38c9a0c7c39df3cb0e91f500b323e841121d703c7b718681
+161937ed1502c491748d055287898dd37af96405aeff48c2500b834f6739e72d
+abaa1b89dca9655410f61d64de25990972db95d28738fc93bb7a8a69b347a6a6
+b8aec57f7e9c193fcd9796cf22997605624b8b5f9bf5f0c6190e1090d426ee31
+c67b03c0a91eaefffd2f2c79b5c26a2648b8d3c19a22cadf35453455ff08ead0
+
 # https://blog.talosintelligence.com/starry-addax/
 
 ondroid.site
