@@ -5,6 +5,12 @@
 ## https://blog.eclecticiq.com/
 
 
+# https://blog.eclecticiq.com/turla-apt-targets-albania-with-backdooor-in-ongoing-campaign-to-breach-european-organizations
+
+91.193.18.120
+
+7aa5a936a67cf367c0f1e0a22f3290ae57d8af01679daa811bb975c2978ca8a3
+
 # https://blog.eclecticiq.com/operation-flightnight-indian-government-entities-and-energy-sector-targeted-by-cyber-espionage-campaign
 
 alfarabischoolgroup.slack.com
