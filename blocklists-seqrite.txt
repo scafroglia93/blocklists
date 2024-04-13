@@ -5,6 +5,36 @@
 ## https://www.seqrite.com/blog/
 
 
+# https://www.seqrite.com/blog/exposing-coyote-the-next-gen-banking-trojan-revolutionizing-cyber-threats-in-brazil/
+
+carfilmenew.com
+carroderua.com
+carroeletrificante.com
+nenembebe.com
+pepapigdesenho.com
+
+03eacccb664d517772a33255dff96020
+071b6efd6d3ace1ad23ee0d6d3eead76
+3f27458d01eb53991770f18983a11a52
+276f14d432601003b6bf0caa8cd82fec
+5134e6925ff1397fdda0f3b48afec87b
+7608ab0f1f07dc5842800fdebb0c372c
+bf9c9cc94056bcdae6e579e724e8dbbd
+c00d8ec2f585c6197b8083951c504e50
+
+# https://www.seqrite.com/blog/unveiling-abyss-locker-the-rapid-rise-of-a-menacing-ransomware-threat/
+
+0B53120151A20A46EDF3EF85B8AC450F
+2E4C626E67DF46B2A7258E73C04C4F73
+3B55904D3B37C810FC230B991A257939
+6FF538DFD4B6A6FA796EA74EED50C80E
+18BAEDF43F4A68455E8D36B657AFF03C
+2442FF56720D1887CB46DD37ED732407
+4704CD96029606D6F501826D41805486
+B1095D0837DD11B5280FCB29B5A1BB84
+D75E1C01C59B63D73F22E84A8A8819BF
+E93EDA81803040E70D64168C8A83228F
+
 # https://www.seqrite.com/blog/operation-rusticweb-targets-indian-govt-from-rust-based-malware-to-web-service-exfiltration/
 
 alfa-aeafa-default-rtdb.firebaseio.com
