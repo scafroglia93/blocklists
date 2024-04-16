@@ -249,6 +249,10 @@ fd3b36455e58ba3531e8cce0326cce782723cc5d1cc0998b775e07e6c2622160
 ## https://www.gdatasoftware.com/blog
 
 
+# https://www.gdatasoftware.com/blog/2024/04/37891-mamont-spy-banker-android
+
+424f6a5ccdd9c614836807fab46c2a4cf1eeab7bdbdd2636b20204c585b9bdac
+
 # https://www.gdatasoftware.com/blog/2024/03/37885-risepro-stealer-campaign-github
 
 digitalxnetwork.com
