@@ -5,6 +5,16 @@
 ## https://securelist.com/
 
 
+# https://securelist.com/soumnibot-android-banker-obfuscates-app-manifest/112334/
+
+dbdb.addea.workers.dev
+google.kt9.site
+
+00aa9900205771b8c9e7927153b77cf2
+0318b7b906e9a34427bf6bbcf64b6fc8
+b456430b4ed0879271e6164a7c0e4f6e
+fa8b1592c9cda268d8affb6bceb7a120
+
 # https://securelist.com/xz-backdoor-story-part-1/112354/
 
 4f0cf1d2a2d44b75079b3ea5ed28fe54
