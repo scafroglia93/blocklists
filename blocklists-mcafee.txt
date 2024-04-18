@@ -5,6 +5,15 @@
 ## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/
 
 
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/redline-stealer-a-novel-approach/
+
+213.248.43.58
+
+5e37b3289054d5e774c02a6ec4915a60156d715f3a02aaceb7256cc3ebdc6610
+751f97824cd211ae710655e60a26885cd79974f0f0a5e4e582e3b635492b4cad
+873aa2e88dbc2efa089e6efd1c8a5370e04c9f5749d7631f2912bcb640439997
+dfbf23697cfd9d35f263af7a455351480920a95bfc642f3254ee8452ce20655a
+
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/distinctive-campaign-evolution-of-pikabot-malware/
 
 57.128.165.176
