@@ -5,6 +5,12 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://cyble.com/blog/threat-actor-profile-transparenttribe/
+
+5.189.145.248
+103.2.232.82
+153.92.220.59
+
 # https://asec.ahnlab.com/en/64258/
 
 86.cdn-api.848820.com
