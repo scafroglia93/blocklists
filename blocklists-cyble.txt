@@ -5,6 +5,12 @@
 ## https://blog.cyble.com/
 
 
+# https://cyble.com/blog/threat-actor-profile-transparenttribe/
+
+5.189.145.248
+103.2.232.82
+153.92.220.59
+
 # https://cyble.com/blog/critical-d-link-nas-vulnerability-under-active-exploitation/
 
 8.134.81.86
