@@ -5,11 +5,9 @@
 ## https://asec.ahnlab.com/en/
 
 
-# https://cyble.com/blog/threat-actor-profile-transparenttribe/
+# https://asec.ahnlab.com/en/64294/
 
-5.189.145.248
-103.2.232.82
-153.92.220.59
+nocodeform.io
 
 # https://asec.ahnlab.com/en/64258/
 
