@@ -4,6 +4,10 @@
 ## blocklists-temp
 
 
+# https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/
+
+paysafe.su
+
 # https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/
 
 whales.market
