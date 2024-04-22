@@ -3,3 +3,24 @@
 
 ## blocklists-microsoft
 ## https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
+
+
+# https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
+
+6b311c0a977d21e772ac4e99762234da852bbf84293386fbe78622a96c0b052f
+7d51e5cc51c43da5deae5fbc2dce9b85c0656c465bb25ab6bd063a503c1806a9
+41a9784f8787ed86f1e5d20f9895059dac7a030d8d6e426b9ddcaf547c3393aa
+c60ead92cd376b689d1b4450f2578b36ea0bf64f3963cfa5546279fa4424c2a5
+
+# https://www.microsoft.com/en-us/security/blog/2024/04/17/attackers-exploiting-new-critical-openmetadata-vulnerabilities-on-kubernetes-clusters/
+
+oast.me
+oast.pro
+
+8.130.115.208
+8.222.144.60
+61.160.194.160
+
+7c6f0bae1e588821bd5d66cd98f52b7005e054279748c2c851647097fa2ae2df
+19a63bd5d18f955c0de550f072534aa7a6a6cc6b78a24fea4cc6ce23011ea01d
+31cd1651752eae014c7ceaaf107f0bf8323b682ff5b24c683a683fdac7525bad
