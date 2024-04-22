@@ -5,6 +5,14 @@
 ## https://www.proofpoint.com/us/blog
 
 
+# https://www.proofpoint.com/us/blog/threat-insight/social-engineering-dmarc-abuse-ta427s-art-information-gathering
+
+nknevvs.org
+stimson.shop
+stimsonn.org
+wilsoncenters.org
+wilsoncentre.org
+
 # https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer
 
 bolibachan.com
