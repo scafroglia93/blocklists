@@ -5,7 +5,7 @@
 ## https://cloud.google.com/blog/topics/threat-intelligence/
 
 
-# https://cloud.google.com/blog/topics/threat-intelligence/
+# https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement/
 
 akapush.us.to
 cpanel.netbar.org
