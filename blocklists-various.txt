@@ -784,6 +784,16 @@ c91891c297971f46c470ea3b1934e5fb76f683776ba3edcdc1afe4f5398fc016
 cccd6327dd5beee19cc3744b40f954c84ab016564b896c257f6871043a21cf0a
 ebf10222bdd19bd8f14b7e94694c1534d4fe1d1047034aee7ffe9492cad4a92f
 
+# https://lab52.io/blog/mustang-pandas-plugx-new-variant-targetting-taiwanese-government-and-diplomats/
+
+ivibers.com
+meetvibersapi.com
+
+8af3fc1f8bd13519d78ee83af43daaa8c5e2c3f184c09f5c41941e0c6f68f0f7
+651c096cf7043a01d939dff9ba58e4d69f15b2244c71b43bedb4ada8c37e8859
+908ff3a80ef065ab4be1942e0d41583903f6aac02d97df6b4a92a07a633397a8
+c6ef220d0c6e9015bdfb7977ff15e7f2c4c0dbfcd3b28ffb3066fe6d21251322
+
 
 
 
