@@ -468,6 +468,21 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/64612/
+
+b2c74dbf20824477c3e139b48833041b
+
+# https://asec.ahnlab.com/ko/64558/
+
+jsc.olacityviet.com
+ll.olacityviet.com
+
+43.156.50.76
+
+28dd72e322f6be382dac4fa9eb5cd09b
+d5312ab7f01fd74d399c392effdfe437
+ebeb931a6dd91a227225f0ff92142f2b
+
 # https://asec.ahnlab.com/ko/64457/
 
 emarteshops.com
