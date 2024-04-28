@@ -16,7 +16,7 @@
 33617F0AC01A0F7FA5F64BD8EDEF737F678C44E677E4A2FB23C6B8A3BCD39FA2
 F9CA12321FB91157CCE8513E935810D1C2005AB0739322B474F0CB4AF2605D16
 
-#https://www.securonix.com/blog/securonix-threat-research-security-advisory-frozenshadow-attack-campaign/
+# https://www.securonix.com/blog/securonix-threat-research-security-advisory-frozenshadow-attack-campaign/
 
 23-95-209-148-host.colocrossing.com
 bjSdg0.pintaexoticfashion.co.in
