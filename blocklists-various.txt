@@ -1150,6 +1150,20 @@ zqpfl.ipisecti.ru
 
 
 
+## splunk
+## https://www.splunk.com/en_us/blog/author/secmrkt-research.html
+
+# https://www.splunk.com/en_us/blog/security/wineloader-analysis.html
+
+castechtools.com
+siestakeying.com
+
+72b92683052e0c813890caf7b4f8bfd331a8b2afc324dd545d46138f677178c4
+d0a8fa332950b72968bdd1c8a1a0824dd479220d044e8c89a7dea4434b741750
+
+
+
+
 ## trustwave
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
