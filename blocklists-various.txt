@@ -1153,6 +1153,7 @@ zqpfl.ipisecti.ru
 ## splunk
 ## https://www.splunk.com/en_us/blog/author/secmrkt-research.html
 
+
 # https://www.splunk.com/en_us/blog/security/wineloader-analysis.html
 
 castechtools.com
