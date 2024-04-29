@@ -5,6 +5,42 @@
 ## https://blogs.infoblox.com/category/cyber-threat-intelligence/
 
 
+# https://blogs.infoblox.com/threat-intelligence/a-cunning-operator-muddling-meerkat-and-chinas-great-firewall/
+# https://insights.infoblox.com/resources-report/infoblox-report-muddling-meerkat-the-great-firewall-manipulator
+
+4u.com
+7ee.com
+aoa.com
+b6.com
+boxi.com
+dec.com
+eg.com
+f4.com
+gb.com
+gogo.com
+id.com
+kb.com
+kok.com
+mv.com
+nef.com
+ni.com
+ntl.com
+oao.com
+ob.com
+od.com
+p3z.com
+pr.com
+q29.org
+s8.com
+tt.com
+tunk.org
+tv.com
+zbo6.com
+zc.com
+
+183.136.225.14
+183.136.225.45
+
 # https://blogs.infoblox.com/cyber-threat-intelligence/beware-the-shallow-waters-savvy-seahorse-lures-victims-to-fake-investment-platforms-through-facebook-ads/
 
 activityprog.site
