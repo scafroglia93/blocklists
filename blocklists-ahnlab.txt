@@ -468,6 +468,12 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/64906/
+
+0bb0ae135c2f4ec39e93dcf66027604d
+28fd189dc70f5bab649e8a267407ae85
+e29e4a6c31bd79d90ab2b89f57075312
+
 # https://asec.ahnlab.com/ko/64753/
 
 41d5e86dbfd90c994c3b2de8e014c89c
@@ -486,7 +492,7 @@ bbda482f1ecce55c24e1a444c03da58e
 
 b2c74dbf20824477c3e139b48833041b
 
-https://asec.ahnlab.com/ko/64421/
+# https://asec.ahnlab.com/ko/64421/
 
 ur8ly.com
 
