@@ -1087,6 +1087,19 @@ f575eb5246b5c6b9044ea04610528c040c982904a5fb3dc1909ce2f0ec15c9ef
 ## https://blog.sonicwall.com/en-us/
 
 
+# https://blog.sonicwall.com/en-us/2024/04/android-remote-access-trojan-equipped-to-harvest-credentials/
+
+0cc5cf33350853cdd219d56902e5b97eb699c975a40d24e0e211a1015948a13d
+3df7c8074b6b1ab35db387b5cb9ea9c6fc2f23667d1a191787aabfbf2fb23173
+6eb33f00d5e626bfd54889558c6d031c6cac8f180d3b0e39fbfa2c501b65f564
+9b366eeeffd6c9b726299bc3cf96b2e673572971555719be9b9e4dcaad895162
+37074eb92d3cfe4e2c51f1b96a6adf33ed6093e4caa34aa2fa1b9affe288a509
+a28e99cb8e79d4c2d19ccfda338d43f74bd1daa214f5add54c298b2bcfaac9c3
+d09f2df6dc6f27a9df6e0e0995b91a5189622b1e53992474b2791bbd679f6987
+d8413287ac20dabcf38bc2b5ecd65a37584d8066a364eede77c715ec63b7e0f1
+ecf941c1cc85ee576f0d4ef761135d3e924dec67bc3f0051a43015924c53bfbb
+f10072b712d1eed0f7e2290b47d39212918f3e1fd4deef00bf42ea3fe9809c41
+
 # https://blog.sonicwall.com/en-us/2024/04/analysis-of-native-process-clr-hosting-used-by-agenttesla/
 
 New-Coder.cc
