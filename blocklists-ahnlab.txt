@@ -5,6 +5,19 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/64921/
+
+5.188.86.237
+42.193.223.169
+80.66.75.238
+91.215.85.142
+
+09b17832fc76dcc50a4bf20bd1343bb8
+20dd8410ff11915a0b1f4a5018c9c340
+3297dc417cf85cfcea194f88a044aebd
+52819909e2a662210ab4307e0f5bf562
+ff011e8a1d1858f529e8a4f591dc0f02
+
 # https://asec.ahnlab.com/en/64445/
 
 9926e2782d603061b52d88f83d93e7af
