@@ -481,6 +481,34 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/64931/
+
+22.rooz2024.workers.dev
+bideo.duckdns.org
+mvps-remote.duckdns.org
+mysystemes.com
+rooz2024.com
+uplooder.net
+win32updates.duckdns.org
+xboxwindows.com
+youtubevideos.duckdns.org
+
+06cba6b21f02f980f755da363dfc50a8
+3b20a80251740bb4443968cdd125b99d
+4c96de9869538349c8daae65342ad94c
+66bdc2d36d460fb25bb2114f770d5ade
+862d9a823ae99b9181b749ae66198bca
+4373f159c79da9ecf7a05b81868c3a97
+6987e127bc6c12fcb9f1876e8ecf64d1
+240766d7b6b936fad871ea1a7fefc141
+bdd3d30ea4bc94d1240ea75f1aa212eb
+c00e53e8cbb5701157002091db4a2500
+c21b68dae810444cc013722e97b77802
+d9a4b64d20c6860f12b6da0ecd53983a
+f9bb6ef02f29f52ff126279ff7d044bb
+f52616c47b243f3373248ed2a5f49e1c
+fffb28442b89e1387b30a40cbb211570
+
 # https://asec.ahnlab.com/ko/64906/
 
 0bb0ae135c2f4ec39e93dcf66027604d
