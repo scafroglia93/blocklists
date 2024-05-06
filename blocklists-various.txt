@@ -811,20 +811,19 @@ ef7cfc7d88ef776f589c3d6cf0c0c38bf258a70d77e601cea39c8dbc5c5d3552
 
 # https://blog.kandji.io/malware-cuckoo-infostealer-spyware
 
-tunesolo.com
-fonedog.com
-tunesfun.com
 dumpmedia.com
-tunefab.com 
+fonedog.com
+tunefab.com
+tunesfun.com
+tunesolo.com
 
 146.70.80.123
-146.70.80.123
 
-1827db474aa94870aafdd63bdc25d61799c2f405ef94e88432e8e212dfa51ac7
-d8c3c7eedd41b35a9a30a99727b9e0b47e652b8f601b58e2c20e2a7d30ce14a8
 39f1224d7d71100f86651012c87c181a545b0a1606edc49131730f8c5b56bdb7
+1827db474aa94870aafdd63bdc25d61799c2f405ef94e88432e8e212dfa51ac7
+254663d6f4968b220795e0742284f9a846f995ba66590d97562e8f19049ffd4b
 a709dacc4d741926a7f04cad40a22adfc12dd7406f016dd668dd98725686a2dc
-254663d6f4968b220795e0742284f9a846f995ba66590d97562e8f19049ffd4b  
+d8c3c7eedd41b35a9a30a99727b9e0b47e652b8f601b58e2c20e2a7d30ce14a8
 
 # https://blog.kandji.io/cloudchat-infostealer
 
