@@ -4,6 +4,16 @@
 ## blocklists-temp
 
 
+# https://medium.com/mitre-engenuity/technical-deep-dive-understanding-the-anatomy-of-a-cyber-intrusion-080bddc679f3
+
+cvedev.morsag3ah.workers.dev
+log.morsag3ah.workers.dev
+morsag3ah.workers.dev
+update.morsag3ah.workers.dev
+
+164.90.144.44
+172.75.64.253
+
 # https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/
 
 paysafe.su
