@@ -1282,6 +1282,33 @@ d0a8fa332950b72968bdd1c8a1a0824dd479220d044e8c89a7dea4434b741750
 
 
 
+## sucuri
+## https://blog.sucuri.net
+
+
+# https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html
+
+cache.cloudswiftcdn.com
+cdn.metricastats.com
+cloud.edgerapidcdn.com
+content.gorapidcdn.com
+content.streamfastcdn.com
+fast.quickcontentnetwork.com
+ga.cdzanalytics.com
+gll.metricaga.com
+go.syndcloud.com
+host.cloudsonicwave.com
+host.gsslcloud.com
+metrics.gocloudmaps.com
+secure.gdcstatic.com
+secure.globalultracdn.com
+static.rapidglobalorbit.com
+synd.edgecdnc.com
+syndication.gcdnanalytics.com
+
+
+
+
 ## trustwave
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
