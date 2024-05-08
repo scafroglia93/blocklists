@@ -5,6 +5,21 @@
 ## https://www.mcafee.com/blogs/other-blogs/mcafee-labs/
 
 
+# https://www.mcafee.com/blogs/other-blogs/mcafee-labs/from-spam-to-asyncrat-tracking-the-surge-in-non-pe-cyber-threats/
+
+142.202.240.40
+
+0d6bc7db43872fc4d012124447d3d050b123200b720d305324ec7631f739d98d
+7d8a4aa184eb350f4be8706afb0d7527fca40c4667ab0491217b9e1e9d0f9c81
+569e33818e6af315b5f290442f9e27dc6c56a25259d9c9866b2ffb4176d07103
+909ec84dfa3f2a00431a20d4b8a241f2959cac2ea402692fd46f4b7dbf247e90
+969c50f319a591b79037ca50cda55a1bcf2c4284e6ea090a68210039034211db
+a0c40aa214cb28caaf1a2f5db136bb079780f05cba50e84bbaeed101f0de7fb3
+b46cd34f7a2d3db257343501fe47bdab67e796700f150b8c51a28bb30650c28f
+daee41645adcf22576def12cb42576a07ed5f181a71d3f241c2c14271aad308b
+e2d30095e7825589c3ebd198f31e4c24e213d9f43fc3bb1ab2cf06b70c6eac1d
+ec6805562419e16de9609e2a210464d58801c8b8be964f876cf062e4ab52681a
+
 # https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-darkgate-menace-leveraging-autohotkey-attempt-to-evade-smartscreen/
 
 5.252.177.207
