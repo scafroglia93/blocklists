@@ -23,6 +23,8 @@ miamichron.com
 sanfranchron.com
 xposedem.com
 
+95.165.66.27
+
 # https://www.recordedfuture.com/cybercriminal-campaign-spreads-infostealers-highlighting-risks-to-web3-gaming
 
 ai-zerolend.xyz
