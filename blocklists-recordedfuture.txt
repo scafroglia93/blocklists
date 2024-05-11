@@ -6,6 +6,23 @@
 ## https://www.recordedfuture.com/research/intelligence-reports
 
 
+# https://www.recordedfuture.com/russia-linked-copycop-uses-llms-to-weaponize-influence-content-at-scale
+
+bbc-uk.news
+bostontimes.org
+britishchronicle.com
+chicagocrier.com
+clearstory.news
+dcweekly.org
+gbgeopolitics.com
+infosindependants.fr
+londonchronicle.news
+londoncrier.co.uk
+londoncrier.com
+miamichron.com
+sanfranchron.com
+xposedem.com
+
 # https://www.recordedfuture.com/cybercriminal-campaign-spreads-infostealers-highlighting-risks-to-web3-gaming
 
 ai-zerolend.xyz
