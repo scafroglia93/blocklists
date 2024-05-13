@@ -5,6 +5,65 @@
 ## https://unit42.paloaltonetworks.com/
 
 
+# https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/
+
+3yfr6hh9dd3.com
+4bs6hkaysxa.com
+8egub9e7s6cz7n.com
+8jtuazcr548ajj.com
+8kk68biiitj.com
+66tye9kcnxi.com
+85hsyad6i2ngzp.com
+93dhmp7ipsp.com
+anrad9i7fb2twm.com
+api536yepwj.com
+aucxjd8rrzh7xf.com
+b5ba24k6xhxn7b.com
+bb62sbtk3yi.com
+cgb488dixfxjw7.com
+cytceitft8g.com
+d6zeh4und3yjt9.com
+dipgprjp8uu.com
+edrefo.com
+ege6wf76eyp.com
+epyujbhfhbs35j.com
+f6kf5inmfmj.com
+f6ywh2ud89u.com
+frotel.info
+h82c3stb3k5.com
+hhmk9ixaw9p3ec.com
+hjmpfsamfkj5m5.com
+hwa85y4icf5.com
+ifjh5asi25f.com
+iszedim8xredu2.com
+m9y6dte7b9i.com
+n98erejcf9t.com
+npknraafbisrs7.com
+patycyfswg33nh.com
+pordasa.info
+rhctiz9xijd4yc.com
+rz53par3ux2.com
+secdns.site
+secshow.net
+secshow.online
+simitor.com
+sn9jxsrp23x63a.com
+swh9cpz2xntuge.com
+szd4hw4xdaj.com
+tp7djzjtcs6gm6.com
+uxjxfg2ui8k5zk.com
+vibnere.com
+vitrfar.info
+wj9ii6rx7yd.com
+wk7ckgiuc6i.com
+wzbhk2ccghtshr.com
+y43dkbzwar7cdt.com
+ydxpwzhidexgny.com
+z54zspih9h5588.com
+
+35.75.233.210
+202.112.47.45
+
 # https://unit42.paloaltonetworks.com/cve-2024-3400/
 
 nhdata.s3-us-west-2.amazonaws.com
