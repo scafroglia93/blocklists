@@ -5,6 +5,20 @@
 ## https://blog.talosintelligence.com/
 
 
+# https://blog.talosintelligence.com/threat-source-newsletter-may-9-2024/
+
+0e4c49327e3be816022a233f844a5731
+8c69830a50fb85d8a794fa46643493b2
+22ae85259273bc4ea419584293eda886
+df11b3105df8d7c70e7b501e210e3cc3
+fb9e0617489f517dc47452e204572b4e
+
+59f1e69b68de4839c65b6e6d39ac7a272e2611ec1ed1bf73a4f455e2ca20eeaa
+8664e2f59077c58ac12e747da09d2810fd5ca611f56c0c900578bf750cab56b7
+abaa1b89dca9655410f61d64de25990972db95d28738fc93bb7a8a69b347a6a6
+c67b03c0a91eaefffd2f2c79b5c26a2648b8d3c19a22cadf35453455ff08ead0
+d529b406724e4db3defbaf15fcd216e66b9c999831e0b1f0c82899f7f8ef6ee1
+
 # https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/
 
 5.183.95.95
