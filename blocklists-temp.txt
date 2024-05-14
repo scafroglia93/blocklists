@@ -4,6 +4,11 @@
 ## blocklists-temp
 
 
+# https://www.cyber.nj.gov/Home/Components/News/News/1312/214?fsiteid=2&loadingmode=PreviewContent
+
+185.215.113.66
+193.233.132.177
+
 # https://medium.com/mitre-engenuity/technical-deep-dive-understanding-the-anatomy-of-a-cyber-intrusion-080bddc679f3
 
 cvedev.morsag3ah.workers.dev
