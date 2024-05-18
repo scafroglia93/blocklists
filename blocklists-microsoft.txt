@@ -5,6 +5,23 @@
 ## https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any
 
 
+# https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/
+
+greekpool.com
+instance-olqdnn-relay.screenconnect.com
+realsepnews.com
+upd5.pro
+upd7.com
+upd7a.com
+upd9.com
+zziveastnews.com
+
+0f9156f91c387e7781603ed716dcdc3f5342ece96e155115708b1662b0f9b4d0
+1ad05a4a849d7ed09e2efb38f5424523651baf3326b5f95e05f6726f564ccc30
+1cb1864314262e71de1565e198193877ef83e98823a7da81eb3d59894b5a4cfb
+71d50b74f81d27feefbc2bc0f631b0ed7fcdf88b1abbd6d104e66638993786f8
+93058bd5fe5f046e298e1d3655274ae4c08f07a8b6876e61629ae4a0b510a2f7
+
 # https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 
 6b311c0a977d21e772ac4e99762234da852bbf84293386fbe78622a96c0b052f
