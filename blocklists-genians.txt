@@ -3,3 +3,37 @@
 
 ## blocklists-genians
 ## https://www.genians.co.kr/blog
+## https://www.genians.co.kr/blog/threat_intelligence
+
+
+# https://www.genians.co.kr/blog/threat_intelligence/facebook
+
+beastmodser.club
+brandwizer.co.in
+dusieme.com
+ielsems.com
+joongang.site
+makeoversalon.net.in
+mitmail.tech
+nuclearpolicy101.org
+rapportdown.lol
+rfa.ink
+worldinfocontact.club
+yonsei.lol
+
+5.9.123.217
+52.177.14.24
+69.163.180.70
+162.0.209.27
+162.0.209.91
+199.59.243.225
+
+1dd007b44034bb3ce127b553873171e5
+7ca1a603a7440f1031c666afbe44afc8
+49bac05068a79314e00c28b163889263
+56fa059cf7dc562ce0346b943e8f58bb
+75ec9f68a5b62705c115db5119a78134
+a12757387f178a0ec092fb5360e4f473
+aa8bd550de4f4dee6ab0bfca82848d44
+b5080c0d123ce430f1e28c370a0fa18b
+e86a24d9f3a42bbb8edc0ca1f8b3715c
