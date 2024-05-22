@@ -576,6 +576,11 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+# https://asec.ahnlab.com/ko/65604/
+
+ccbd43912387346590f48944278c9d5a
+d029e44eb41900e78818f9666528a3c9
+
 # https://asec.ahnlab.com/ko/65555/
 
 diditaxi.kro.kr
