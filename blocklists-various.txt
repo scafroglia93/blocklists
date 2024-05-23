@@ -4,6 +4,29 @@
 ## blocklists-various
 
 
+
+
+## anyrun
+## https://any.run/cybersecurity-blog/
+
+
+# https://any.run/cybersecurity-blog/new-hijackloader-version/
+
+discussiowardder.website
+mail.zoomfilms-cz.com
+wxt82.xyz
+
+185.172.128.76
+185.215.113.67
+193.233.132.139
+
+0AE58BE8D7058E40926FDB51B76043D109B96B91AA9FA2950DBB8A3626185E0F
+86BCCBACD8E9FDE23FF236155EE47F866DD7DD51C6129ED340034810A10705B3
+A38DA72082FC2DC1F60B3B245E1F2382D5F8C1D08EBC397DD0D81CC9F74EBBE6
+
+
+
+
 ## aquaseq
 ## https://blog.aquasec.com/
 
