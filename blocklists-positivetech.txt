@@ -209,13 +209,6 @@ f11afd0d02e936e56aad7e5e86f3bc6781a1c67c4abb98fe7b3d831e8d67e312
 f466ecd2edc5481853f1e4613cf49dd5bd075e246436ad28b3558c2fd4069aca
 fd7298c3be42560f7a7e78903cc7ad5db3a14185eafc76a5bdac9bd2f2bf6bfc
 
-
-
-
-
-
-
-
 # https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/steganoamor-campaign-ta558-mass-attacking-companies-and-public-institutions-all-around-the-world/
 
 bolandraf.com
