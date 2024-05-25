@@ -5,6 +5,26 @@
 ## https://securelist.com/
 
 
+# https://securelist.com/ransomware-abuses-bitlocker/112643/
+
+earthquake-js-westminster-searched.trycloudflare.com
+generated-eating-meals-top.trycloudflare.com
+scottish-agreement-laundry-further.trycloudflare.com
+
+842f7b1c425c5cf41aed9df63888e768
+
+# https://securelist.com/crimeware-report-stealers/112633/
+
+1d3c3869d682fbd0ae3151b419984771
+2b71c81c48625099b18922ff7bebbf51
+6E2B16CC41DE627EB7DDCD468A037761
+21DF3A69540C6618CFBDAF84FC71031C
+23AE473BC44FA49B1B221150E0166199
+abceb35cf20f22fd8a6569a876e702cb
+b9b83de1998ebadc101ed90a6c312da8
+c0cf3d6d40a3038966f2a4f5bfe2b7a7
+f8b2b941cffb9709ce8f422f193696a0
+
 # https://securelist.com/toddycat-traffic-tunneling-data-extraction-tools/112443/
 
 etracking.nso.go.th
