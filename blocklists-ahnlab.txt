@@ -5,6 +5,60 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/66114/
+
+ccbd43912387346590f48944278c9d5a
+d029e44eb41900e78818f9666528a3c9
+
+# https://asec.ahnlab.com/en/66099/
+
+diditaxi.kro.kr
+groundbreakingsstyle.com
+
+2b7ba71d66acfabbc67099ea3b45560a
+b8b6d0053cc3c7d9d58a19874b7807b1
+
+# https://asec.ahnlab.com/en/66088/
+
+kmobile.bestunif.com
+
+4.246.149.227
+45.58.159.237
+206.72.205.117
+209.127.19.223
+
+094f9a757c6dbd6030bc6dae3f8feab3
+4bc571925a80d4ae4aab1e8900bf753c
+5df3c3e1f423f1cce5bf75f067d1d05c
+5e00df548f2dcf7a808f1337f443f3d9
+33b2b5b7c830c34c688cf6ced287e5be
+468c369893d6fc6614d24ea89e149e80
+951e9fcd048b919516693b25c13a9ef2
+7416ea48102e2715c87edd49ddbd1526
+a2aefb7ab6c644aa8eeb482e27b2dbc4
+afc5a07d6e438880cea63920277ed270
+d92a317ef4d60dc491082a2fe6eb7a70
+e7fd7f48fbf5635a04e302af50dfb651
+fee610058c417b6c4b3054935b7e2730
+
+# https://asec.ahnlab.com/en/66017/
+
+minecraftrpgserver.com
+
+08299a45472f501644b4daa458336428
+1b5393ac3eceda9b16836039f7d04c5e
+3a4d761de4fac0c2e47a5c84fca78c0f
+5dd8cdd4e80185b60d43511987b254cd
+6a648b7d0e4ae16f6beb170decd5b0b6
+77a5bd4e03fc9a653b4e8c33996d19a0
+151cd4702bc15421c24fd5930f119a48
+93899d3008af9df6b7d261445b3e8f59
+27623130a8e8b792fc99cbdcecee3177
+abdbfe7b8f4976935b87a0a0e67d1da0
+c9cdc0c746fa9095bd87b455f8f9c3c8
+d00feba624fa6fdcbad1b1219f3f2da7
+f836a133490929ea0185d50e10bd11c0
+
 # https://asec.ahnlab.com/en/65426/
 
 22.rooz2024.workers.dev
@@ -575,6 +629,12 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## blocklists-ahnlab-korean
 ## https://asec.ahnlab.com/ko/
 
+
+# https://asec.ahnlab.com/ko/66135/
+
+5bfeef520eb1e62ea2ef313bb979aeae
+279c86f3796d14d2a4d89049c2b3fa2d
+d404ab9c8722fc97cceb95f258a2e70d
 
 # https://asec.ahnlab.com/ko/65885/
 
