@@ -5,6 +5,19 @@
 ## https://www.trendmicro.com/en_us/research.html
 
 
+# https://www.trendmicro.com/en_us/research/24/e/decoding-8220-latest-obfuscation-tricks.html
+
+45.15.158.154
+46.226.164.8
+79.110.49.232
+87.121.105.232
+89.169.52.37
+91.92.248.35
+185.172.128.146
+187.172.128.146
+
+5E8ECC58ACD6E26F696C35982372E4B694DFBA94		
+
 # https://www.trendmicro.com/en_us/research/24/e/earth-hundun-2.html
 
 availitond.com
