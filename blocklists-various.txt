@@ -1297,6 +1297,43 @@ C18E7709866F8B1A271A54407973152BE1036AD3B57423101D7C3DA98664D108
 ## https://www.resecurity.com/blog
 
 
+# https://www.resecurity.com/blog/article/cybercriminals-attack-banking-customers-in-eu-with-v3b-phishing-kit
+
+abn-amro-gobal.com
+abnamro.nl-appverifi.com
+accounxt.bitvaqvio.nl-csdki.com
+app-lnloggen.online
+belastingdienst-schuld.nl
+belastingoverzicht.info
+bezoeknummer48912543221.info
+black-loans7.shop
+bltvavo-bevestig.nt8zd3.ru
+bunq-app-nl.net
+bvstigveriapp.online
+gemiste-aanmaning.com
+ics-beveiligde-verificatie.com
+ics-cards.org
+icscards-nl.com
+icscardsvoorschriften.nl
+kontoaktualisierer-nl.com
+kundenaktualisierungen.cc
+lcs-valideren.online
+lnloggen-app.online
+mijni-cs.bezoeknummer0734859938.info
+nl-appverifi.com
+nl-bunq-bijwerkerking.com
+reaktivieren-icscard.nl
+reaktivieren-icsservice.nl
+redirect-bunq-client.ru
+valideren-mijn-ics-web1.online
+verifieer-gegevens.com
+verifieer-nu.com
+
+00a1b728410ef6fee05fff9bde46e541
+20e77ddc3fe017e1bd711317adc86494
+3151764ce732dae8b863e15042ec2ac3
+9589194ff77c2edb9a2e89765f570c5e
+
 # https://www.resecurity.com/blog/article/the-new-version-of-jsoutprox-is-attacking-financial-institutions-in-apac-and-mena-via-gitlab-abuse
 
 eopgupgdpopopfuupi.ddns.net
