@@ -5,6 +5,22 @@
 ## https://blog.cyble.com/
 
 
+# https://cyble.com/blog/unc1151-strikes-again-unveiling-their-tactics-against-ukraines-ministry-of-defence/
+
+goudieelectric.shop
+thevegan8.shop
+
+08fa6aaf064470dbfac7894469457b2d78541adccba3f1bb278dd4c3f936131a
+6f4642a203541426d504608eed7927718207f29be2922a4c9aa7e022f22e0deb
+9ac5fa37f5cf3d0201f0e70a3e6527e58250ddcff77370262b8cb377e8c5995f
+88c97af92688d03601e4687b290d4d7f9f29492612e29f714f26a9278c6eda5b
+815c1571356cf328a18e0b1f3779d52e5ba11e5e4aac2d216b79bb387963c2be
+9649d58a220ed2b4474a37d6eac5f055e696769f87baf58b1d3d0b5da69cbce5
+83545b07d74087acd8408d7810cafdb6c2200a72ae7dd990af40b082ad533368
+af8104e567c6d614547acb36322ad2ed6469537cd1d78ae1be65fbde1d578abc
+d90f6e12a917ba42f7604362fafc4e74ed3ce3ffca41ed5d3456de28b2d144bf
+de1bceb00c23e468f4f49a79ec69ec8ad3ed622a3ffc08f84c0481ad0f6f592b
+
 # https://cyble.com/blog/the-rust-revolution-new-embargo-ransomware-steps-in/
 
 7bfb789f5825f17a01cccd2fbd62635ce20f6ed7e488fded20549a806371aeb6
