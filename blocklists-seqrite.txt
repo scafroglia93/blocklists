@@ -5,6 +5,11 @@
 ## https://www.seqrite.com/blog/
 
 
+# https://www.seqrite.com/blog/unmasking-asukastealer-the-80-malware-threatening-your-digital-security/
+
+6b8277813999b908fc38eca68db5249fe0b76a8f652cb1a5a21d073247ed7dc4
+24bb4fc117aa57fd170e878263973a392d094c94d3a5f651fad7528d5d73b58a 
+
 # https://www.seqrite.com/blog/pakistani-apts-escalate-attacks-on-indian-gov-seqrite-labs-unveils-threats-and-connections/
 
 juichangchi.online
