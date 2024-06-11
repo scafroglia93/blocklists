@@ -770,6 +770,21 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 ## https://asec.ahnlab.com/ko/
 
 
+## 11/06/2024
+
+
+# https://asec.ahnlab.com/ko/66581/
+
+bashupload.com
+
+45.76.53.110
+45.77.44.127
+116.202.251.4
+167.99.75.170
+
+aac76af38bfd374e83aef1326a9ea8ad
+ef340716a83879736e486f331d84a7c6
+
 # https://asec.ahnlab.com/ko/66040/
 
 gandigod1.ddns.net
