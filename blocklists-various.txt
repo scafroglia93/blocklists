@@ -815,6 +815,21 @@ fc7e77a56772d5ff644da143718ee7dbaf7a1da37cceb446580cd5efb96a9835
 
 
 
+## imperva
+## https://www.imperva.com/blog/
+
+
+# https://www.imperva.com/blog/update-cve-2024-4577-quickly-weaponized-to-distribute-tellyouthepass-ransomware/
+
+88.218.76.13
+
+5a2b9ddddea96f21d905036761ab27627bd6db4f5973b006f1e39d4acb04a618
+9562AD2C173B107A2BAA7A4986825B52E881A935DEB4356BF8B80B1EC6D41C53
+95279881525d4ed4ce25777bb967ab87659e7f72235b76f9530456b48a00bac3
+
+
+
+
 ## intezer
 ## https://intezer.com/blog/
 
