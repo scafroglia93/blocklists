@@ -5,8 +5,6 @@
 ## https://asec.ahnlab.com/en/
 
 
-## 12/06/2024
-
 # https://asec.ahnlab.com/en/66790/
 
 gandigod1.ddns.net
@@ -848,9 +846,6 @@ d6b4b1b6b0ec1799f57142798c5daf5b
 
 ## blocklists-ahnlab-korean
 ## https://asec.ahnlab.com/ko/
-
-
-## 11/06/2024
 
 
 # https://asec.ahnlab.com/ko/66581/
