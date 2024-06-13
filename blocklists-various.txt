@@ -2624,6 +2624,16 @@ b5de486086eb2579097c141199d13b0838e7b631
 ## https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
 
 
+# https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/search-spoof-abuse-of-windows-search-to-redirect-to-malware/
+
+tender-coding-bi-associate.trycloudflare.com
+
+f77a4a27f749703165e2021fecd73db9
+
+cbc3a8e762e0f2eda9e8a9bde348d04d1d7ce17e
+
+d136dcfc355885c502ff2c3be229791538541b748b6c07df3ced95f9a7eb2f30
+
 # https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/why-we-should-probably-stop-visually-verifying-checksums/
 
 62d7ef41005d9f380446205e2e0efa3692681b8f73f8712318af6183f60fcadc
