@@ -5,6 +5,18 @@
 ## https://asec.ahnlab.com/en/
 
 
+# https://asec.ahnlab.com/en/66843/
+
+bashupload.com
+
+45.76.53.110
+45.77.44.127
+116.202.251.4
+167.99.75.170
+
+aac76af38bfd374e83aef1326a9ea8ad
+ef340716a83879736e486f331d84a7c6
+
 # https://asec.ahnlab.com/en/66790/
 
 gandigod1.ddns.net
