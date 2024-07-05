@@ -40,7 +40,6 @@ d96b9b6d2427c3e8be2f87de474715d06b11b972
 a980b1b0387534da7c9a321f7d450c02087f7a8445fc86b77785da0c510bbaa8
 f998aeb84da8b84723ca9fdbdeb565dbc7938bd0a0ce5f0981307b3e24bdf712
 
-
 # https://blog.xlab.qianxin.com/a-deep-dive-into-the-zergeca-botnet/
 
 bot.hamsterrace.space
@@ -59,6 +58,84 @@ d7b5d45628aa22726fd09d452a9e5717
 d78d1c57fb6e818eb1b52417e262ce59
 f68139904e127b95249ffd40dfeedd21
 
+# https://blog.xlab.qianxin.com/kiteshield_packer_is_being_abused_by_linux_cyber_threat_actors/
+
+2c80808b38140f857dc8b2b106764dd8
+4afedf6fbf4ba95bbecc865d45479eaf
+4d79e1a1027e7713180102014fcfb3bf
+5c9887c51a0f633e3d2af54f788da525
+5ea33d0655cb5797183746c6a46df2e9
+57f7ffaa0333245f74e4ab68d708e14e
+909c015d5602513a770508fa0b87bc6f
+951fe6ce076aab5ca94da020a14a8e1c
+7671585e770cf0c856b79855e6bdca2a
+a42249e86867526c09d78c79ae26191d
+f5623e4753f4742d388276eaee72dea6
+
+# https://blog.xlab.qianxin.com/catddos-derivative-en/
+
+2x26ucbyaq.parody
+3djd83hf4.geek
+4m8mdkx76o.indy
+9fz0cqekwr.parody
+9wg0dstmud.pirate
+akira-cuddles-blahajs.pirate
+bot.secure-network-rebirthltd.ru
+catddos.pirate
+cecilio.network
+cecilio.pro
+cecilioisbetter.dyn
+chink.online
+chink.site
+chinks-eat-dogs.africa
+chinkseatblahajs.libre
+cumshot.vip
+fd9vsneghh.libre
+francothesped.geek
+fuck-niggers.xyz
+hitler.su
+hsjupldf2z.pirate
+i-like-dicks.pirate
+iswearshewas18.geek
+jm1hj56glo.pirate
+kz.adolfhitler.su
+kz.hitler.su
+lsagjogu8ztaueghasdjsdigh.cc
+omgnoway.geek
+phhfr59rqd.parody
+rebirth-network.su
+rebirthltd.com
+rebirthltd.dev
+retardedclassmate.dyn
+scan.rebirthltd.dev
+scan.rebirthltd.top
+secure-core-rebirthltd.su
+secure-network-rebirthltd.ru
+security.rebirth-network.su
+security.secure-core-rebirthltd.su
+servernoworky.geek
+sex.secure-cyber-security-rebirthltd.su
+shrug.lol
+siegheil.hiter.su
+thisisnotabotnet.pirate
+tlscat.net
+vps.rebirth-network.su
+whitepeopleonly.dyn
+xysk5eeyj0j5n.xyz
+zerlhocantcompete.dyn 
+
+4e7c2c86b37d7f44ef2f80974cc60c068e205526
+5a1124cee1a26f84aa151a68e1dbdebd6fe7a247
+7f55aab44fd9939c7a0c81d78838d81991209ec4
+3665a8652b068332615ddd1d2e9a19b63f0d2475
+4681e012013921c539d155861338adc4630d8f38
+5538eb7e09395f5bfefae1af26b4c17cb5631da0
+b6f06dea3dc7597067958cfcdc81f00dfd868a32
+b9f7237d0058c069d500891811356d9f2c6f0692
+c8fdd11675b5e2df18815eb098d2568f5cf9a232
+d9d569b0567dd406bf09c33e4ac71966138fbbd2
+e81dc79de33af42ee6e9e489ae1305165649ef28
+f34e17c84d66117156826997aec6136e10d7cb9e
 
 # https://blog.xlab.qianxin.com/playing-possum-whats-the-wpeeper-backdoor-up-to/
 
