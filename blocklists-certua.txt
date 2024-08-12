@@ -8,7 +8,6 @@
 # https://cert.gov.ua/article/6280345
 
 anonvnc.com
-filedn.eu
 gbshost.net
 gbshost.org
 hiddenvnc.com
