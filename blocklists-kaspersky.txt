@@ -24,7 +24,6 @@ fe6de75d6042de714c28c0a3c0816b37e0fa4bb3
 8287d54c83db03b8adcdf1409f5d1c9abb1693ac8d000b5ae75b3a296cb3061c
 b087e1309f3eab6302d7503079af1ad6af06d70a932f7a6ae1421b942048e28a
 
-
 # https://securelist.com/cloudcomputating-qsc-framework/114438/
 
 asistechs.com
