@@ -5,6 +5,15 @@
 ## https://cert.gov.ua/articles
 
 
+# https://cert.gov.ua/article/6281701
+
+aplusdesktop.workers.dev
+aplusmodgovua.workers.dev
+armylpus.workers.dev
+armyplus-desktop.workers.dev
+desktopaplus.workers.dev
+desktopapluscom.workers.dev
+
 # https://cert.gov.ua/article/6281681
 
 captcha-challenge.com
