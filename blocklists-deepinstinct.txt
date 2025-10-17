@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips-hashes
+## domains-ips
 
 ## blocklists-deepinstinct
 ## https://www.deepinstinct.com/blog

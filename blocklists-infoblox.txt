@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips-hashes
+## domains-ips
 
 ## blocklists-infoblox
 ## https://blogs.infoblox.com/category/cyber-threat-intelligence/

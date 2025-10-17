@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips-hashes
+## domains-ips
 
 ## blocklists-esentire
 ## https://www.esentire.com/resources/blog

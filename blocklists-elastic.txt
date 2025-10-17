@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips-hashes
+## domains-ips
 
 ## blocklists-elastic
 ## https://www.elastic.co/security-labs/
