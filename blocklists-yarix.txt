@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-yarix
 ## https://labs.yarix.com/

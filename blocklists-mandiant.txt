@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-mandiant
 ## https://www.mandiant.com/resources/blog

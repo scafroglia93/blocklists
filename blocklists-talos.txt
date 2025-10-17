@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-talos
 ## https://blog.talosintelligence.com/

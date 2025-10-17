@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-eclecticiq
 ## https://blog.eclecticiq.com/

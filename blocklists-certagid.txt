@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## cert-agid
 ## https://cert-agid.gov.it/

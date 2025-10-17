@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-proofpoint
 ## https://www.proofpoint.com/us/blog/threat-insight

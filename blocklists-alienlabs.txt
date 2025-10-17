@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-alienlabs
 ## https://cybersecurity.att.com/blogs/labs-research

@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-csirt
 ## https://www.csirt.gov.it/contenuti

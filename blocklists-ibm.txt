@@ -1,4 +1,4 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-ibm

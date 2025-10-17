@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-d3lab
 ## https://www.d3lab.net/blog/

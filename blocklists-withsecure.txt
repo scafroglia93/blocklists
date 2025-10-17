@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-withsecure
 ## https://labs.withsecure.com/publications

@@ -1,5 +1,5 @@
 ## hosts-blocklists
-## domains-ips
+## domains
 
 ## blocklists-qianxin
 ## https://ti.qianxin.com/blog/
