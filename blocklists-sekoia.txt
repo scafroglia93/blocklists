@@ -3,6 +3,7 @@
 
 ## blocklists-sekoia
 ## https://blog.sekoia.io/
+## https://github.com/SEKOIA-IO/Community/tree/main/IOCs
 
 
 # https://blog.sekoia.io/phishing-campaigns-i-paid-twice-targeting-booking-com-hotels-and-customers/
