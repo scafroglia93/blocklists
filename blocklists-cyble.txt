@@ -2,4 +2,6 @@
 ## domains
 
 ## blocklists-cyble
-## https://blog.cyble.com/
+## https://cyble.com/blog/
+
+
