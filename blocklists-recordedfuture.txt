@@ -4,3 +4,20 @@
 
 ## blocklists-recordedfuture
 ## https://www.recordedfuture.com/research
+
+
+# https://www.recordedfuture.com/research/intellexas-global-corporate-web
+
+badinigroup.com
+birura.com
+gardalul.com
+keep-badinigroups.com
+
+# https://www.recordedfuture.com/research/malicious-infrastructure-finds-stability-with-aurologic-gmbh
+
+birsunucum.com
+evozcdn.com
+lanedo.net
+metaspinner.net
+nettacompany.com
+sunucumburada.com
