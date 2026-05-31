@@ -108,3 +108,28 @@ slmgr.ws
 tmopgm.org.ng
 tranquilityparadise.com.np
 wslm.net
+
+
+# https://labs.withsecure.com/publications/andariel-2025
+# https://github.com/WithSecureLabs/iocs/tree/master/Andariel2025
+
+dev.cdngoogleapi.com
+netsecu.servehttp.com
+
+
+# https://labs.withsecure.com/publications/webjack
+# https://github.com/WithSecureLabs/iocs/tree/master/WEBJACK
+
+google2.sneaws.com
+google.sneaws.com
+jiankong.sneaws.com
+jk.667759.com
+kaifa.sneaws.com
+seo.667759.com
+tdk.hunanduodao.com
+tdk.jmfwy.com
+w3c.sneaws.com
+w5c.sneaws.com
+w5r.sneaws.com
+
+
