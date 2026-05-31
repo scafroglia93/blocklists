@@ -4,6 +4,7 @@
 
 ## blocklists-withsecure
 ## https://labs.withsecure.com/publications
+## https://github.com/WithSecureLabs/iocs
 
 
 # https://labs.withsecure.com/publications/greyvibe
