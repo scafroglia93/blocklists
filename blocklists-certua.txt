@@ -4,3 +4,24 @@
 
 ## blocklists-certua
 ## https://cert.gov.ua/articles
+
+
+# https://cert.gov.ua/article/6315762
+
+a1si.icu
+a3ufz.xsjdsb.icu
+advancedaisolutionsforeveryone.a1si.icu
+alertapp.icu
+alerteddatalistsclients.alertapp.icu
+alexavegas.icu
+algsat.icu
+best-seller.lavanille.buzz
+cgdirector.icu
+easiestnewsfromourpointofview.algsat.icu
+ifo-jupyter.natter.icu
+lavanille.buzz
+mickeymousegamesdealer.alexavegas.icu
+natter.icu
+productionsamplesoftheyear.cgdirector.icu
+xsjdsb.icu
+
