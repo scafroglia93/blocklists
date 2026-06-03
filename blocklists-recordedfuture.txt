@@ -4,4 +4,3 @@
 
 ## blocklists-recordedfuture
 ## https://www.recordedfuture.com/research
-## https://www.recordedfuture.com/research/intelligence-reports
