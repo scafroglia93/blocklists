@@ -5,3 +5,49 @@
 ## blocklists-checkpoint
 ## https://research.checkpoint.com/
 ## https://research.checkpoint.com/latest-publications/
+
+
+# https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/
+
+buisness-centeral-transportation.azurewebsites.net
+buisness-centeral-transportation.com
+buisness-centeral.azurewebsites.net
+business-startup.azurewebsites.net
+business-startup.org
+businessstartup.azurewebsites.net
+getsqldeveloper.com
+global-check-business-it.azurewebsites.net
+global-check-itbusiness.azurewebsites.net
+global-it-checkbusiness.azurewebsites.net
+global-it-checkers.azurewebsites.net
+global-it-consultants.azurewebsites.net
+globalbusiness-checkers-it.azurewebsites.net
+globalit-consultants.azurewebsites.net
+globalitconsultants.azurewebsites.net
+licencemanagers.azurewebsites.net
+licencesupporting.azurewebsites.net
+nanomatrix.azurewebsites.net
+peerdistsvcmanagers.azurewebsites.net
+Premier-HealthAdvisory.azurewebsites.net
+PremierHealthAdvisory.azurewebsites.net
+PremierHealthAdvisory.com
+ramiltons-finance.azurewebsites.net
+ramiltonsfinance.azurewebsites.net
+ramiltonsfinance.com
+
+
+# https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/
+
+ampolice.org
+bigflx.net
+copilot-cloud.net
+drivefrontend.pa-clients.workers.dev
+exchange4study.com
+mindssurpass.com
+oicm.org
+onedriveconsole.com
+protacik.com
+revitpourtous.com
+splunkds.com
+wikipedla.blog
+zhydromet.com
